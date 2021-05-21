@@ -67,16 +67,16 @@ fetch(RSS_URL)
     let html = ``;
     items.forEach(el => {
       html += `
-	<article class="tdc">
-	  <h2>
-	    <a href="${el.querySelector("link").innerHTML}" target="_blank" rel="noopener">
-	      ${el.querySelector("title").innerHTML}
-	    </a>
-	  </h2>
-	</article>
+        <article class="tdc">
+          <h2>
+            <a href="${el.querySelector("link").innerHTML}" target="_blank" rel="noopener">
+              ${el.querySelector("title").innerHTML}
+            </a>
+          </h2>
+        </article>
       `;
     });
-    document.body.insertAdjacentHTML("beforeend", html);
+    document.getElementsByClassName("tdc")[0].insertAdjacentHTML("afterbegin", html);
   });
 
 const RSS_URL2 = `https://raw.githubusercontent.com/jacktdavies/tonapp/master/castellcoch.xml`;
@@ -90,16 +90,16 @@ fetch(RSS_URL2)
     let html = ``;
     items.forEach(el => {
       html += `
-	<article class="cc">
-	  <h2>
-	    <a href="${el.querySelector("link").innerHTML}" target="_blank" rel="noopener">
-	      ${el.querySelector("title").innerHTML}
-	    </a>
-	  </h2>
-	</article>
+        <article class="cc">
+          <h2>
+            <a href="${el.querySelector("link").innerHTML}" target="_blank" rel="noopener">
+              ${el.querySelector("title").innerHTML}
+            </a>
+          </h2>
+        </article>
       `;
     });
-    document.body.insertAdjacentHTML("beforeend", html);
+    document.getElementsByClassName("cc")[0].insertAdjacentHTML("afterbegin", html);
   });
 </script>
   
