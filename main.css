@@ -1,77 +1,3 @@
-.wrapper{
-  display:flex;
-}
-
-.container {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  --grid-template-columns: repeat(auto-fill, minmax(170px, 1fr));
-  grid-template-rows: 1fr 1fr 1fr 1fr 1fr;
-  grid-column-gap: 5px;
-  grid-row-gap: 5px;
-  margin:0 auto;
-  width:100%;
-  .div1 {
-    grid-area: 1 / 1 / 2 / 2;
-  }
-
-  .div2 {
-    grid-area: 1 / 2 / 2 / 3;
-  }
-
-  .div3 {
-    grid-area: 2 / 1 / 3 / 2;
-  }
-
-  .div4 {
-    grid-area: 2 / 2 / 3 / 3;
-  }
-
-  .div5 {
-    grid-area: 3 / 1 / 4 / 2;
-  }
-
-  .div6 {
-    grid-area: 3 / 2 / 4 / 3;
-  }
-
-  .div7 {
-    grid-area: 4 / 1 / 5 / 2;
-  }
-
-  .div8 {
-    grid-area: 4 / 2 / 5 / 3;
-  }
-
-  .div9 {
-    grid-area: 5 / 1 / 6 / 2;
-  }
-
-  .div10 {
-    grid-area: 5 / 2 / 6 / 3;
-  }
-}
-
-.container div
-{
-  --border:solid 1px red;
-  display:flex;
-  justify-content: center;
-  align-items:center;
-}
-
-.container div a i
-{
-  --border:solid 1px blue;
-  padding:2%;
-  color:#8b0e27;
-}
-
-.container div a:hover i
-{
-  color:#a9253f;
-}
-
 body {
   margin: 1rem;
   display: grid;
@@ -80,43 +6,53 @@ body {
   background: #FFF;
 }
 
+.grid-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr;
+  gap: 1em 1em;
+  grid-template-areas: "title title" "tdc cc";
+}
+
+.tdc {
+  grid-area: tdc;
+}
+
+.cc {
+  grid-area: cc;
+}
+
+.title {
+  grid-area: title;
+}
+
 img {
   max-width: 100%;
   box-shadow: 0 0 3px #B0BEC5;
 }
 
-article.tdc {
-  background: #8b0e27;
+article {
   border-radius: 4px;
   overflow: hidden;
+  margin: 1em;
   font: 12px/1.1 system-ui, sans-serif;
 }
-article.tdc a {
+article a {
   text-decoration: none;
   color: #FFF;
 }
-article.tdc a:hover, article.tdc a:focus {
+article a:hover, article a:focus {
   color: #2196F3;
 }
-article.tdc h2 {
+article h2 {
   padding: 1rem 1rem;
   margin: 0;
 }
 
+article.tdc {
+  background: #8b0e27;
+}
+
 article.cc {
   background: #416576;
-  border-radius: 4px;
-  overflow: hidden;
-  font: 12px/1.1 system-ui, sans-serif;
-}
-article.cc a {
-  text-decoration: none;
-  color: #FFF;
-}
-article.cc a:hover, article.cc a:focus {
-  color: #2196F3;
-}
-article.cc h2 {
-  padding: 1rem 1rem;
-  margin: 0;
 }
