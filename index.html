@@ -73,6 +73,7 @@ fetch(RSS_URL)
               ${el.querySelector("title").innerHTML}
             </a>
           </h2>
+          <span class="pubdate">published on ${formatDate(el.querySelector("pubDate").innerHTML.toString())}</span>
         </article>
       `;
     });
@@ -96,11 +97,20 @@ fetch(RSS_URL2)
               ${el.querySelector("title").innerHTML}
             </a>
           </h2>
+          <span class="pubdate">published on ${formatDate(el.querySelector("pubDate").innerHTML.toString())}</span>
         </article>
       `;
     });
     document.getElementsByClassName("cc")[0].insertAdjacentHTML("afterbegin", html);
   });
+
+function formatDate(userDate){
+  const options1 = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
+  const dateTimeFormat2 = new Intl.DateTimeFormat('en-GB', options1);
+  var date = new Date(userDate);
+  return dateTimeFormat2.format(date)
+}
+
 </script>
   
 </body>
