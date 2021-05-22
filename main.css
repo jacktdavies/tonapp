@@ -1,17 +1,23 @@
-body {
-  margin: 1rem;
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-  grid-gap: 2rem;
-  background: #FFF;
-}
-
 .grid-container {
   display: grid;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: 1fr;
   grid-template-rows: 1fr;
   gap: 1em 1em;
-  grid-template-areas: "title title" "tdc cc";
+  grid-template-areas: "title" "tdc" "cc";
+}
+
+@media (min-width: 600px) {
+  .grid-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr;
+    gap: 1em 1em;
+    grid-template-areas: "title title" "tdc cc";
+  }
+
+  span.cct:before {
+    content: " - ";
+  }
 }
 
 .tdc {
