@@ -56,3 +56,9 @@ article.tdc {
 article.cc {
   background: #416576;
 }
+
+span.pubdate{
+  display:block;
+  color:#FFF;
+  padding: 0rem 0rem 1rem 1rem;
+}
