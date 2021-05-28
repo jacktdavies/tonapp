@@ -2,7 +2,7 @@
   display: grid;
   grid-template-columns: 1fr;
   grid-template-rows: 1fr;
-  grid-template-areas: "title" "tdc" "cc";
+  grid-template-areas: "title" "tdcinfo" "ccinfo" "tdc" "cc";
 }
 
 span.cct::before {
@@ -10,12 +10,29 @@ span.cct::before {
   display: block;
 }
 
-@media (min-width: 800px) {
+@media (min-width: 1200px) {
   .grid-container {
+    width: 80%;
+    margin: 0 auto;
     display: grid;
     grid-template-columns: 1fr 1fr;
     grid-template-rows: 1fr;
-    grid-template-areas: "title title" "tdc cc";
+    grid-template-areas: "title title" "tdcinfo ccinfo" "tdc cc";
+  }
+
+  span.cct::before {
+    display: inline;
+    content: " - ";
+  }
+}
+@media (min-width: 1600px) {
+  .grid-container {
+    width: 60%;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr;
+    grid-template-areas: "title title" "tdcinfo ccinfo" "tdc cc";
   }
 
   span.cct::before {
@@ -35,6 +52,14 @@ span.cct::before {
   grid-area: title;
 }
 
+.tdcinfo {
+  grid-area: tdcinfo;
+}
+
+.ccinfo {
+  grid-area: ccinfo;
+}
+
 img {
   max-width: 100%;
   box-shadow: 0 0 3px #B0BEC5;
@@ -45,29 +70,29 @@ h1 {
   text-align: center;
 }
 
-article {
+article, .info {
   border-radius: 4px;
   overflow: hidden;
   margin: 1em;
   font: 12px/1.1 system-ui, sans-serif;
 }
-article a {
+article a, .info a {
   text-decoration: none;
   color: #FFF;
 }
-article a:hover, article a:focus {
+article a:hover, article a:focus, .info a:hover, .info a:focus {
   color: #2196F3;
 }
-article h2 {
+article h2, .info h2 {
   padding: 1rem 1rem;
   margin: 0;
 }
 
-article.tdc {
+article.tdc, .tdcinfo {
   background: #8b0e27;
 }
 
-article.cc {
+article.cc, .ccinfo {
   background: #416576;
 }
 
@@ -83,4 +108,9 @@ span.tdct {
 
 span.cct {
   font-family: "Lora", serif;
+}
+
+.info {
+  display: flex;
+  justify-content: space-between;
 }
