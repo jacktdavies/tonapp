@@ -61,8 +61,8 @@ span.cct::before {
 }
 
 img {
-  max-width: 100%;
-  box-shadow: 0 0 3px #B0BEC5;
+  width: 2rem;
+  padding: 0.2rem 1rem 0.2rem 0.2rem;
 }
 
 h1 {
@@ -73,10 +73,12 @@ h1 {
 article, .info {
   border-radius: 4px;
   overflow: hidden;
-  margin: 1em;
+  margin: 1rem;
   font: 12px/1.1 system-ui, sans-serif;
 }
 article a, .info a {
+  display: flex;
+  align-items: center;
   text-decoration: none;
   color: #FFF;
 }
@@ -84,6 +86,8 @@ article a:hover, article a:focus, .info a:hover, .info a:focus {
   color: #2196F3;
 }
 article h2, .info h2 {
+  display: flex;
+  align-items: center;
   padding: 1rem 1rem;
   margin: 0;
 }
@@ -91,9 +95,15 @@ article h2, .info h2 {
 article.tdc, .tdcinfo {
   background: #8b0e27;
 }
+article.tdc a:hover, article.tdc a:focus, .tdcinfo a:hover, .tdcinfo a:focus {
+  color: #F6A2B3;
+}
 
 article.cc, .ccinfo {
   background: #416576;
+}
+article.cc a:hover, article.cc a:focus, .ccinfo a:hover, .ccinfo a:focus {
+  color: #BDCFDB;
 }
 
 span.pubdate {
@@ -112,5 +122,10 @@ span.cct {
 
 .info {
   display: flex;
-  justify-content: space-between;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.info a.twitter {
+  margin-left: auto;
 }
