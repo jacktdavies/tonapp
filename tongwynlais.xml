@@ -15,7 +15,7 @@
 	<atom:link href="https://tongwynlais.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://tongwynlais.com</link>
 	<description></description>
-	<lastBuildDate>Sun, 25 Apr 2021 15:06:38 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 29 May 2021 16:04:16 +0000</lastBuildDate>
 	<language>en-GB</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,6 +31,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">37574071</site>	<item>
+		<title>Tongwynlais Walks &#8211; Part 1</title>
+		<link>https://tongwynlais.com/2021/05/29/tongwynlais-walks-part-1/</link>
+					<comments>https://tongwynlais.com/2021/05/29/tongwynlais-walks-part-1/#respond</comments>
+		
+		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
+		<pubDate>Sat, 29 May 2021 16:02:41 +0000</pubDate>
+				<category><![CDATA[Adventures]]></category>
+		<category><![CDATA[fforest fawr]]></category>
+		<category><![CDATA[walking]]></category>
+		<guid isPermaLink="false">https://tongwynlais.com/?p=17309</guid>
+
+					<description><![CDATA[Tongwynlais is surrounded by beautiful walks so I&#8217;m starting a new series to share these routes. Let&#8217;s begin with two of the most well known trails through Fforest Fawr. Fforest Fawr is managed by Natural Resources Wales and they&#8217;ve signposted a few walks in the forest. I&#8217;ve included the routes at the end of this ... <a title="Tongwynlais Walks &#8211; Part 1" class="read-more" href="https://tongwynlais.com/2021/05/29/tongwynlais-walks-part-1/" aria-label="More on Tongwynlais Walks &#8211; Part 1">more...</a>]]></description>
+		
+					<wfw:commentRss>https://tongwynlais.com/2021/05/29/tongwynlais-walks-part-1/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">17309</post-id>	</item>
+		<item>
 		<title>Postcards from Tongwynlais – Part 13</title>
 		<link>https://tongwynlais.com/2021/04/25/postcards-from-tongwynlais-part-13/</link>
 					<comments>https://tongwynlais.com/2021/04/25/postcards-from-tongwynlais-part-13/#respond</comments>
@@ -211,24 +230,5 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">16330</post-id>	</item>
-		<item>
-		<title>The Castell Coch Hoard</title>
-		<link>https://tongwynlais.com/2020/07/14/the-castell-coch-hoard/</link>
-					<comments>https://tongwynlais.com/2020/07/14/the-castell-coch-hoard/#comments</comments>
-		
-		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
-		<pubDate>Tue, 14 Jul 2020 14:33:59 +0000</pubDate>
-				<category><![CDATA[History]]></category>
-		<category><![CDATA[archaeology]]></category>
-		<category><![CDATA[dh]]></category>
-		<guid isPermaLink="false">https://tongwynlais.com/?p=16201</guid>
-
-					<description><![CDATA[During the Festival of Archaeology, all issues of British Archaeology Magazine are free to view. I did some digging and unearthed an interesting find. In the village of Tongwynlais, just 150 metres north west of Castell Coch and 20cm below the forest floor, a cache of copper weapons lay buried for 4,000 years. On the ... <a title="The Castell Coch Hoard" class="read-more" href="https://tongwynlais.com/2020/07/14/the-castell-coch-hoard/" aria-label="More on The Castell Coch Hoard">more...</a>]]></description>
-		
-					<wfw:commentRss>https://tongwynlais.com/2020/07/14/the-castell-coch-hoard/feed/</wfw:commentRss>
-			<slash:comments>3</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">16201</post-id>	</item>
 	</channel>
 </rss>
