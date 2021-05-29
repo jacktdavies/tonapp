@@ -15,7 +15,7 @@
 	<atom:link href="https://castellcoch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://castellcoch.com</link>
 	<description></description>
-	<lastBuildDate>Sat, 24 Apr 2021 13:44:23 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 26 May 2021 18:27:42 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,6 +31,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">184115289</site>	<item>
+		<title>Castell Coch on Instagram</title>
+		<link>https://castellcoch.com/2021/05/26/castell-coch-on-instagram/</link>
+					<comments>https://castellcoch.com/2021/05/26/castell-coch-on-instagram/#respond</comments>
+		
+		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
+		<pubDate>Wed, 26 May 2021 18:27:38 +0000</pubDate>
+				<category><![CDATA[Photography]]></category>
+		<category><![CDATA[instagram]]></category>
+		<category><![CDATA[social media]]></category>
+		<guid isPermaLink="false">https://castellcoch.com/?p=2238</guid>
+
+					<description><![CDATA[There are loads of interesting posts on Instagram featuring Castell Coch. Here are a few of my favourite images. I share something most days on my @tongwynlais account. Tag me in or use #LoveCastellCoch to share yours.]]></description>
+		
+					<wfw:commentRss>https://castellcoch.com/2021/05/26/castell-coch-on-instagram/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2238</post-id>	</item>
+		<item>
 		<title>Patterns of Castell Coch &#8211; Part 1</title>
 		<link>https://castellcoch.com/2021/04/24/patterns-of-castell-coch-part-1/</link>
 					<comments>https://castellcoch.com/2021/04/24/patterns-of-castell-coch-part-1/#respond</comments>
@@ -208,24 +227,5 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">1671</post-id>	</item>
-		<item>
-		<title>The Castell Coch Tea Room</title>
-		<link>https://castellcoch.com/2020/10/24/the-castell-coch-tea-room/</link>
-					<comments>https://castellcoch.com/2020/10/24/the-castell-coch-tea-room/#respond</comments>
-		
-		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
-		<pubDate>Sat, 24 Oct 2020 12:19:44 +0000</pubDate>
-				<category><![CDATA[Castell Coch]]></category>
-		<category><![CDATA[cadw]]></category>
-		<category><![CDATA[tea room]]></category>
-		<guid isPermaLink="false">https://castellcoch.com/?p=1557</guid>
-
-					<description><![CDATA[If you’ve visited&#160;Castell Coch&#160;recently, you may have seen the beautifully re-designed tea room. The transformation is part of a range of developments to enhance the visitor experience at Cardiff’s&#160;fairytale castle. Jane Ormsby Gore and Becky Wade of&#160;JR Design&#160;completed the work and Jane describes it as, “A balance of inspiration from the Victorian decoration of the ... <p class="read-more-container"><a title="The Castell Coch Tea Room" class="read-more button" href="https://castellcoch.com/2020/10/24/the-castell-coch-tea-room/#more-1557" aria-label="More on The Castell Coch Tea Room">Read more</a></p>]]></description>
-		
-					<wfw:commentRss>https://castellcoch.com/2020/10/24/the-castell-coch-tea-room/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">1557</post-id>	</item>
 	</channel>
 </rss>
