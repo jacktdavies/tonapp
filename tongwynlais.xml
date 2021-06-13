@@ -15,7 +15,7 @@
 	<atom:link href="https://tongwynlais.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://tongwynlais.com</link>
 	<description></description>
-	<lastBuildDate>Sat, 29 May 2021 16:04:16 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 13 Jun 2021 14:39:25 +0000</lastBuildDate>
 	<language>en-GB</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,6 +31,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">37574071</site>	<item>
+		<title>The Bridge Keeper&#8217;s Lodge</title>
+		<link>https://tongwynlais.com/2021/06/13/the-bridge-keepers-lodge/</link>
+					<comments>https://tongwynlais.com/2021/06/13/the-bridge-keepers-lodge/#respond</comments>
+		
+		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
+		<pubDate>Sun, 13 Jun 2021 14:39:19 +0000</pubDate>
+				<category><![CDATA[History]]></category>
+		<category><![CDATA[ironbridge]]></category>
+		<category><![CDATA[local history]]></category>
+		<guid isPermaLink="false">https://tongwynlais.com/?p=17356</guid>
+
+					<description><![CDATA[If you&#8217;ve walked down Ironbridge Road recently, you may have noticed that the hedge and undergrowth have been cleared as you approach the bridge. The brickwork and tiles that have been exposed belong to the bridge keeper&#8217;s lodge, also known as the Toll House, that once stood there. The only image of the building that ... <a title="The Bridge Keeper&#8217;s Lodge" class="read-more" href="https://tongwynlais.com/2021/06/13/the-bridge-keepers-lodge/" aria-label="More on The Bridge Keeper&#8217;s Lodge">more...</a>]]></description>
+		
+					<wfw:commentRss>https://tongwynlais.com/2021/06/13/the-bridge-keepers-lodge/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">17356</post-id>	</item>
+		<item>
 		<title>Tongwynlais Walks &#8211; Part 1</title>
 		<link>https://tongwynlais.com/2021/05/29/tongwynlais-walks-part-1/</link>
 					<comments>https://tongwynlais.com/2021/05/29/tongwynlais-walks-part-1/#respond</comments>
@@ -125,7 +144,7 @@
 					<description><![CDATA[I was looking for a project to work on over the summer and decided it might be interesting to research and illustrate the Lewis Arms sign. The motto &#8220;Ofner Na Ofne Angau&#8221; means &#8220;Fear Him Who Fears Not Death&#8221;. According to Burke&#8217;s Genealogical and Heraldic History of the Landed Gentry, this was attributed to Gwaethvoed ... <a title="The Lewis Arms Heraldry" class="read-more" href="https://tongwynlais.com/2021/01/28/the-lewis-arms-heraldry/" aria-label="More on The Lewis Arms Heraldry">more...</a>]]></description>
 		
 					<wfw:commentRss>https://tongwynlais.com/2021/01/28/the-lewis-arms-heraldry/feed/</wfw:commentRss>
-			<slash:comments>1</slash:comments>
+			<slash:comments>2</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">16937</post-id>	</item>
@@ -145,7 +164,7 @@
 					<description><![CDATA[I&#8217;ve been sent some brilliant photos of the old shops on Mill Road. They were a little scratched and damaged so I&#8217;ve restored them for you to enjoy. Andrew sent me this photo of Cliff Davies&#8217; grocery shop that was at 24 Mill Road. He told me, &#8220;Cliff Davies was my grandfather and he had ... <a title="The Mill Road Stores" class="read-more" href="https://tongwynlais.com/2020/12/11/the-mill-road-stores/" aria-label="More on The Mill Road Stores">more...</a>]]></description>
 		
 					<wfw:commentRss>https://tongwynlais.com/2020/12/11/the-mill-road-stores/feed/</wfw:commentRss>
-			<slash:comments>3</slash:comments>
+			<slash:comments>4</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">16828</post-id>	</item>
@@ -210,25 +229,5 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">16444</post-id>	</item>
-		<item>
-		<title>Fforest Fawr Sculpture Trail</title>
-		<link>https://tongwynlais.com/2020/08/24/fforest-fawr-sculpture-trail/</link>
-					<comments>https://tongwynlais.com/2020/08/24/fforest-fawr-sculpture-trail/#respond</comments>
-		
-		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
-		<pubDate>Mon, 24 Aug 2020 14:00:38 +0000</pubDate>
-				<category><![CDATA[Art]]></category>
-		<category><![CDATA[dh]]></category>
-		<category><![CDATA[fforest fawr]]></category>
-		<category><![CDATA[sculpture trail]]></category>
-		<guid isPermaLink="false">https://tongwynlais.com/?p=16330</guid>
-
-					<description><![CDATA[It&#8217;s been over two years since Simon O&#8217;Rourke installed the new sculpture trail in Fforest Fawr. Simon has shared his initial sketches for the carvings and I take a look at how the sculptures have changed. When I spoke to Simon during the installation he explained that the sculptures would change colour quite dramatically over ... <a title="Fforest Fawr Sculpture Trail" class="read-more" href="https://tongwynlais.com/2020/08/24/fforest-fawr-sculpture-trail/" aria-label="More on Fforest Fawr Sculpture Trail">more...</a>]]></description>
-		
-					<wfw:commentRss>https://tongwynlais.com/2020/08/24/fforest-fawr-sculpture-trail/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">16330</post-id>	</item>
 	</channel>
 </rss>
