@@ -15,7 +15,7 @@
 	<atom:link href="https://castellcoch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://castellcoch.com</link>
 	<description></description>
-	<lastBuildDate>Wed, 26 May 2021 18:27:42 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 29 Jun 2021 11:17:26 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,6 +31,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">184115289</site>	<item>
+		<title>Touring the Ruins of Castell Coch in 1861</title>
+		<link>https://castellcoch.com/2021/06/29/touring-the-ruins-of-castell-coch-in-1861/</link>
+					<comments>https://castellcoch.com/2021/06/29/touring-the-ruins-of-castell-coch-in-1861/#respond</comments>
+		
+		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
+		<pubDate>Tue, 29 Jun 2021 11:10:52 +0000</pubDate>
+				<category><![CDATA[History]]></category>
+		<category><![CDATA[tourism]]></category>
+		<category><![CDATA[victorian]]></category>
+		<guid isPermaLink="false">https://castellcoch.com/?p=2287</guid>
+
+					<description><![CDATA[The Book Of South Wales The Wye And The Coast is a collection of journal entries from Victorian writers, Mr and Mrs S C Hall, as they toured South Wales and the River Wye. The book was published in 1861 and I&#8217;ve found one source that claims the tour took place in the same year. ... <p class="read-more-container"><a title="Touring the Ruins of Castell Coch in 1861" class="read-more button" href="https://castellcoch.com/2021/06/29/touring-the-ruins-of-castell-coch-in-1861/#more-2287" aria-label="More on Touring the Ruins of Castell Coch in 1861">Read more</a></p>]]></description>
+		
+					<wfw:commentRss>https://castellcoch.com/2021/06/29/touring-the-ruins-of-castell-coch-in-1861/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2287</post-id>	</item>
+		<item>
 		<title>Castell Coch on Instagram</title>
 		<link>https://castellcoch.com/2021/05/26/castell-coch-on-instagram/</link>
 					<comments>https://castellcoch.com/2021/05/26/castell-coch-on-instagram/#respond</comments>
@@ -208,24 +227,5 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">1749</post-id>	</item>
-		<item>
-		<title>Fforest Fawr Sculpture Trail</title>
-		<link>https://castellcoch.com/2020/10/27/fforest-fawr-sculpture-trail/</link>
-					<comments>https://castellcoch.com/2020/10/27/fforest-fawr-sculpture-trail/#respond</comments>
-		
-		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
-		<pubDate>Tue, 27 Oct 2020 14:08:40 +0000</pubDate>
-				<category><![CDATA[Explore]]></category>
-		<category><![CDATA[fforest fawr]]></category>
-		<category><![CDATA[sculpture]]></category>
-		<guid isPermaLink="false">https://castellcoch.com/?p=1671</guid>
-
-					<description><![CDATA[It’s been over two years since Simon O’Rourke&#160;installed the new sculpture trail in Fforest Fawr. Simon has&#160;shared his initial sketches for the carvings&#160;and I take a look at how the sculptures have changed. When I spoke to Simon during the installation he explained that the sculptures would change colour quite dramatically over time. Back in ... <p class="read-more-container"><a title="Fforest Fawr Sculpture Trail" class="read-more button" href="https://castellcoch.com/2020/10/27/fforest-fawr-sculpture-trail/#more-1671" aria-label="More on Fforest Fawr Sculpture Trail">Read more</a></p>]]></description>
-		
-					<wfw:commentRss>https://castellcoch.com/2020/10/27/fforest-fawr-sculpture-trail/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">1671</post-id>	</item>
 	</channel>
 </rss>
