@@ -15,13 +15,13 @@
 	<atom:link href="https://tongwynlais.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://tongwynlais.com</link>
 	<description></description>
-	<lastBuildDate>Sun, 13 Jun 2021 14:39:25 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 25 Jul 2021 08:53:43 +0000</lastBuildDate>
 	<language>en-GB</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.8</generator>
 
 <image>
 	<url>https://tongwynlais.com/wp-content/uploads/2015/10/cropped-LogoGridTransparentBackground512x512-32x32.png</url>
@@ -31,9 +31,30 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">37574071</site>	<item>
+		<title>Postcards from Tongwynlais – Part 14</title>
+		<link>https://tongwynlais.com/2021/07/25/postcards-from-tongwynlais-part-14/</link>
+					<comments>https://tongwynlais.com/2021/07/25/postcards-from-tongwynlais-part-14/#comments</comments>
+		
+		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
+		<pubDate>Sun, 25 Jul 2021 08:53:40 +0000</pubDate>
+				<category><![CDATA[History]]></category>
+		<category><![CDATA[castell coch]]></category>
+		<category><![CDATA[dh]]></category>
+		<category><![CDATA[local history]]></category>
+		<category><![CDATA[postcard]]></category>
+		<guid isPermaLink="false">https://tongwynlais.com/?p=17419</guid>
+
+					<description><![CDATA[Have you been longing for another instalment of &#8220;Postcards from Tongwynlais&#8220;? If you have, you&#8217;ll be delighted with this fantastic photo of the village that features a rare glimpse of the old school building. I&#8217;ve cleaned up the image to remove some blemishes but it&#8217;s a remarkably good photo of the village. It&#8217;s such a ... <a title="Postcards from Tongwynlais – Part 14" class="read-more" href="https://tongwynlais.com/2021/07/25/postcards-from-tongwynlais-part-14/" aria-label="More on Postcards from Tongwynlais – Part 14">more...</a>]]></description>
+		
+					<wfw:commentRss>https://tongwynlais.com/2021/07/25/postcards-from-tongwynlais-part-14/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">17419</post-id>	</item>
+		<item>
 		<title>The Bridge Keeper&#8217;s Lodge</title>
 		<link>https://tongwynlais.com/2021/06/13/the-bridge-keepers-lodge/</link>
-					<comments>https://tongwynlais.com/2021/06/13/the-bridge-keepers-lodge/#respond</comments>
+					<comments>https://tongwynlais.com/2021/06/13/the-bridge-keepers-lodge/#comments</comments>
 		
 		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
 		<pubDate>Sun, 13 Jun 2021 14:39:19 +0000</pubDate>
@@ -42,10 +63,10 @@
 		<category><![CDATA[local history]]></category>
 		<guid isPermaLink="false">https://tongwynlais.com/?p=17356</guid>
 
-					<description><![CDATA[If you&#8217;ve walked down Ironbridge Road recently, you may have noticed that the hedge and undergrowth have been cleared as you approach the bridge. The brickwork and tiles that have been exposed belong to the bridge keeper&#8217;s lodge, also known as the Toll House, that once stood there. The only image of the building that ... <a title="The Bridge Keeper&#8217;s Lodge" class="read-more" href="https://tongwynlais.com/2021/06/13/the-bridge-keepers-lodge/" aria-label="More on The Bridge Keeper&#8217;s Lodge">more...</a>]]></description>
+					<description><![CDATA[If you&#8217;ve walked down Ironbridge Road recently, you may have noticed that the hedge and undergrowth have been cleared as you approach the bridge. The brickwork and tiles that have been exposed belong to the bridge keeper&#8217;s lodge, also known as the Toll House, that once stood there. The only photo of the building that ... <a title="The Bridge Keeper&#8217;s Lodge" class="read-more" href="https://tongwynlais.com/2021/06/13/the-bridge-keepers-lodge/" aria-label="More on The Bridge Keeper&#8217;s Lodge">more...</a>]]></description>
 		
 					<wfw:commentRss>https://tongwynlais.com/2021/06/13/the-bridge-keepers-lodge/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
+			<slash:comments>1</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">17356</post-id>	</item>
@@ -164,7 +185,7 @@
 					<description><![CDATA[I&#8217;ve been sent some brilliant photos of the old shops on Mill Road. They were a little scratched and damaged so I&#8217;ve restored them for you to enjoy. Andrew sent me this photo of Cliff Davies&#8217; grocery shop that was at 24 Mill Road. He told me, &#8220;Cliff Davies was my grandfather and he had ... <a title="The Mill Road Stores" class="read-more" href="https://tongwynlais.com/2020/12/11/the-mill-road-stores/" aria-label="More on The Mill Road Stores">more...</a>]]></description>
 		
 					<wfw:commentRss>https://tongwynlais.com/2020/12/11/the-mill-road-stores/feed/</wfw:commentRss>
-			<slash:comments>4</slash:comments>
+			<slash:comments>5</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">16828</post-id>	</item>
@@ -208,26 +229,5 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">16498</post-id>	</item>
-		<item>
-		<title>Wonky Cardiff by Jon Durrant</title>
-		<link>https://tongwynlais.com/2020/09/22/wonky-cardiff-by-jon-durrant/</link>
-					<comments>https://tongwynlais.com/2020/09/22/wonky-cardiff-by-jon-durrant/#respond</comments>
-		
-		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
-		<pubDate>Tue, 22 Sep 2020 12:07:00 +0000</pubDate>
-				<category><![CDATA[Art]]></category>
-		<category><![CDATA[art]]></category>
-		<category><![CDATA[cardiff]]></category>
-		<category><![CDATA[castell coch]]></category>
-		<category><![CDATA[dh]]></category>
-		<guid isPermaLink="false">https://tongwynlais.com/?p=16444</guid>
-
-					<description><![CDATA[I recently stumbled across an image of Castell Coch that I instantly fell in love with. It turns out the artwork was produced by local artist Jon Durrant and is part of his Wonky Cardiff Project. I got in touch with Jon to purchase a print and to find out more about it. About Jon ... <a title="Wonky Cardiff by Jon Durrant" class="read-more" href="https://tongwynlais.com/2020/09/22/wonky-cardiff-by-jon-durrant/" aria-label="More on Wonky Cardiff by Jon Durrant">more...</a>]]></description>
-		
-					<wfw:commentRss>https://tongwynlais.com/2020/09/22/wonky-cardiff-by-jon-durrant/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">16444</post-id>	</item>
 	</channel>
 </rss>
