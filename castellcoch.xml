@@ -15,13 +15,13 @@
 	<atom:link href="https://castellcoch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://castellcoch.com</link>
 	<description></description>
-	<lastBuildDate>Tue, 29 Jun 2021 11:17:26 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 29 Jul 2021 08:29:10 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.8</generator>
 
 <image>
 	<url>https://castellcoch.com/wp-content/uploads/2020/10/cropped-Site-icon-32x32.jpg</url>
@@ -31,6 +31,26 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">184115289</site>	<item>
+		<title>Castell Coch and the Taff Trail</title>
+		<link>https://castellcoch.com/2021/07/29/castell-coch-and-the-taff-trail/</link>
+					<comments>https://castellcoch.com/2021/07/29/castell-coch-and-the-taff-trail/#respond</comments>
+		
+		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
+		<pubDate>Thu, 29 Jul 2021 08:29:07 +0000</pubDate>
+				<category><![CDATA[Explore]]></category>
+		<category><![CDATA[cycling]]></category>
+		<category><![CDATA[sustrans]]></category>
+		<category><![CDATA[taff trail]]></category>
+		<guid isPermaLink="false">https://castellcoch.com/?p=2335</guid>
+
+					<description><![CDATA[I recently picked up a series of leaflets that describe the route of the Taff Trail from Cardiff to Brecon. They were produced by the Taff Trail with support from Mid Glamorgan County Council, Taff Ely Borough Council and the Welsh Office. This information helps me date the leaflet to between 1988, when the trail ... <p class="read-more-container"><a title="Castell Coch and the Taff Trail" class="read-more button" href="https://castellcoch.com/2021/07/29/castell-coch-and-the-taff-trail/#more-2335" aria-label="More on Castell Coch and the Taff Trail">Read more</a></p>]]></description>
+		
+					<wfw:commentRss>https://castellcoch.com/2021/07/29/castell-coch-and-the-taff-trail/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2335</post-id>	</item>
+		<item>
 		<title>Touring the Ruins of Castell Coch in 1861</title>
 		<link>https://castellcoch.com/2021/06/29/touring-the-ruins-of-castell-coch-in-1861/</link>
 					<comments>https://castellcoch.com/2021/06/29/touring-the-ruins-of-castell-coch-in-1861/#respond</comments>
@@ -207,25 +227,5 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">1871</post-id>	</item>
-		<item>
-		<title>Photographer Profile &#8211; Nick Russill</title>
-		<link>https://castellcoch.com/2020/10/29/photographer-profile-nick-russill/</link>
-					<comments>https://castellcoch.com/2020/10/29/photographer-profile-nick-russill/#respond</comments>
-		
-		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
-		<pubDate>Thu, 29 Oct 2020 15:47:11 +0000</pubDate>
-				<category><![CDATA[Photography]]></category>
-		<category><![CDATA[drone]]></category>
-		<category><![CDATA[nick russill]]></category>
-		<category><![CDATA[profile]]></category>
-		<guid isPermaLink="false">https://castellcoch.com/?p=1749</guid>
-
-					<description><![CDATA[You may have seen this spectacular image from local photographer Nick Russill in your Facebook feed recently. His otherworldly image of Castell Coch, nestled in the familiar woodland but surrounded by a sea of mist has enraptured people online. I spoke to Nick about the image and how he got into photography. Nick studied Mining ... <p class="read-more-container"><a title="Photographer Profile &#8211; Nick Russill" class="read-more button" href="https://castellcoch.com/2020/10/29/photographer-profile-nick-russill/#more-1749" aria-label="More on Photographer Profile &#8211; Nick Russill">Read more</a></p>]]></description>
-		
-					<wfw:commentRss>https://castellcoch.com/2020/10/29/photographer-profile-nick-russill/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">1749</post-id>	</item>
 	</channel>
 </rss>
