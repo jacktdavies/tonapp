@@ -15,7 +15,7 @@
 	<atom:link href="https://castellcoch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://castellcoch.com</link>
 	<description></description>
-	<lastBuildDate>Thu, 29 Jul 2021 08:29:10 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 25 Aug 2021 11:26:14 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,9 +31,30 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">184115289</site>	<item>
+		<title>William Burges&#8217; Plans for the Reconstruction of Castell Coch</title>
+		<link>https://castellcoch.com/2021/08/25/william-burges-plans-for-the-reconstruction-of-castell-coch/</link>
+					<comments>https://castellcoch.com/2021/08/25/william-burges-plans-for-the-reconstruction-of-castell-coch/#respond</comments>
+		
+		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
+		<pubDate>Wed, 25 Aug 2021 10:46:27 +0000</pubDate>
+				<category><![CDATA[History]]></category>
+		<category><![CDATA[1874]]></category>
+		<category><![CDATA[Journal]]></category>
+		<category><![CDATA[The Architect]]></category>
+		<category><![CDATA[William Burges]]></category>
+		<guid isPermaLink="false">https://castellcoch.com/?p=2400</guid>
+
+					<description><![CDATA[It&#8217;s 150 years this month since Lord Bute instructed John McConnochie to excavate the site at Castell Coch. The results were investigated by William Burges, who was able to build on G. T. Clark&#8217;s 1850 report and present Bute with the option of either restoration or reconstruction. Burges submitted the &#8220;Castell Coch Report&#8221; to the ... <p class="read-more-container"><a title="William Burges&#8217; Plans for the Reconstruction of Castell Coch" class="read-more button" href="https://castellcoch.com/2021/08/25/william-burges-plans-for-the-reconstruction-of-castell-coch/#more-2400" aria-label="More on William Burges&#8217; Plans for the Reconstruction of Castell Coch">Read more</a></p>]]></description>
+		
+					<wfw:commentRss>https://castellcoch.com/2021/08/25/william-burges-plans-for-the-reconstruction-of-castell-coch/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2400</post-id>	</item>
+		<item>
 		<title>Castell Coch and the Taff Trail</title>
 		<link>https://castellcoch.com/2021/07/29/castell-coch-and-the-taff-trail/</link>
-					<comments>https://castellcoch.com/2021/07/29/castell-coch-and-the-taff-trail/#respond</comments>
+					<comments>https://castellcoch.com/2021/07/29/castell-coch-and-the-taff-trail/#comments</comments>
 		
 		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
 		<pubDate>Thu, 29 Jul 2021 08:29:07 +0000</pubDate>
@@ -46,7 +67,7 @@
 					<description><![CDATA[I recently picked up a series of leaflets that describe the route of the Taff Trail from Cardiff to Brecon. They were produced by the Taff Trail with support from Mid Glamorgan County Council, Taff Ely Borough Council and the Welsh Office. This information helps me date the leaflet to between 1988, when the trail ... <p class="read-more-container"><a title="Castell Coch and the Taff Trail" class="read-more button" href="https://castellcoch.com/2021/07/29/castell-coch-and-the-taff-trail/#more-2335" aria-label="More on Castell Coch and the Taff Trail">Read more</a></p>]]></description>
 		
 					<wfw:commentRss>https://castellcoch.com/2021/07/29/castell-coch-and-the-taff-trail/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
+			<slash:comments>1</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">2335</post-id>	</item>
@@ -208,24 +229,5 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">1986</post-id>	</item>
-		<item>
-		<title>Creating the Castell Coch Exhibit</title>
-		<link>https://castellcoch.com/2020/10/31/creating-the-castell-coch-exhibit/</link>
-					<comments>https://castellcoch.com/2020/10/31/creating-the-castell-coch-exhibit/#respond</comments>
-		
-		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
-		<pubDate>Sat, 31 Oct 2020 10:18:54 +0000</pubDate>
-				<category><![CDATA[Castell Coch]]></category>
-		<category><![CDATA[exhibit]]></category>
-		<category><![CDATA[illustration]]></category>
-		<guid isPermaLink="false">https://castellcoch.com/?p=1871</guid>
-
-					<description><![CDATA[If you’ve visited Castell Coch in recent years, you’ll have seen the fantastic exhibit that tells the story of this wonderful building. We spoke to Glyn Parry-Jones, who&#160;designed and installed it. It’s hard to believe that the exhibit is nearly 30 years old! Glyn explained that the exhibit was created in 1987 and that it ... <p class="read-more-container"><a title="Creating the Castell Coch Exhibit" class="read-more button" href="https://castellcoch.com/2020/10/31/creating-the-castell-coch-exhibit/#more-1871" aria-label="More on Creating the Castell Coch Exhibit">Read more</a></p>]]></description>
-		
-					<wfw:commentRss>https://castellcoch.com/2020/10/31/creating-the-castell-coch-exhibit/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">1871</post-id>	</item>
 	</channel>
 </rss>
