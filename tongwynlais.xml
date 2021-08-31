@@ -15,7 +15,7 @@
 	<atom:link href="https://tongwynlais.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://tongwynlais.com</link>
 	<description></description>
-	<lastBuildDate>Sun, 25 Jul 2021 08:53:43 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 31 Aug 2021 12:40:09 +0000</lastBuildDate>
 	<language>en-GB</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,6 +31,26 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">37574071</site>	<item>
+		<title>Memories of Bridge House</title>
+		<link>https://tongwynlais.com/2021/08/31/memories-of-bridge-house/</link>
+					<comments>https://tongwynlais.com/2021/08/31/memories-of-bridge-house/#respond</comments>
+		
+		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
+		<pubDate>Tue, 31 Aug 2021 12:40:06 +0000</pubDate>
+				<category><![CDATA[History]]></category>
+		<category><![CDATA[dh]]></category>
+		<category><![CDATA[maps]]></category>
+		<category><![CDATA[merthyr road]]></category>
+		<guid isPermaLink="false">https://tongwynlais.com/?p=17491</guid>
+
+					<description><![CDATA[Several houses on the north-west end of Merthyr Road were demolished in 1968 for the construction of the A470. A reader has very kindly sent me a photo of one of these houses and some information about their history. There were six terraced houses on the other side of Birth Hill, shown in the image ... <a title="Memories of Bridge House" class="read-more" href="https://tongwynlais.com/2021/08/31/memories-of-bridge-house/" aria-label="More on Memories of Bridge House">more...</a>]]></description>
+		
+					<wfw:commentRss>https://tongwynlais.com/2021/08/31/memories-of-bridge-house/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">17491</post-id>	</item>
+		<item>
 		<title>Postcards from Tongwynlais – Part 14</title>
 		<link>https://tongwynlais.com/2021/07/25/postcards-from-tongwynlais-part-14/</link>
 					<comments>https://tongwynlais.com/2021/07/25/postcards-from-tongwynlais-part-14/#comments</comments>
@@ -209,25 +229,5 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">16778</post-id>	</item>
-		<item>
-		<title>Postcards from Tongwynlais – Part 12</title>
-		<link>https://tongwynlais.com/2020/10/13/postcards-from-tongwynlais-part-12/</link>
-					<comments>https://tongwynlais.com/2020/10/13/postcards-from-tongwynlais-part-12/#comments</comments>
-		
-		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
-		<pubDate>Tue, 13 Oct 2020 12:19:15 +0000</pubDate>
-				<category><![CDATA[History]]></category>
-		<category><![CDATA[castell coch]]></category>
-		<category><![CDATA[dh]]></category>
-		<category><![CDATA[postcard]]></category>
-		<guid isPermaLink="false">https://tongwynlais.com/?p=16498</guid>
-
-					<description><![CDATA[We&#8217;re returning to Castell Coch for this instalment of &#8220;Postcards from Tongwynlais&#8220;. This card has a stamp commemorating King George V&#8217;s Silver Jubilee in 1935. The postmark is unclear but it looks like it&#8217;s dated 1935. You can see in the comparison below that very little has changed in the last 85 years. The safety ... <a title="Postcards from Tongwynlais – Part 12" class="read-more" href="https://tongwynlais.com/2020/10/13/postcards-from-tongwynlais-part-12/" aria-label="More on Postcards from Tongwynlais – Part 12">more...</a>]]></description>
-		
-					<wfw:commentRss>https://tongwynlais.com/2020/10/13/postcards-from-tongwynlais-part-12/feed/</wfw:commentRss>
-			<slash:comments>2</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">16498</post-id>	</item>
 	</channel>
 </rss>
