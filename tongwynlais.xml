@@ -15,13 +15,13 @@
 	<atom:link href="https://tongwynlais.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://tongwynlais.com</link>
 	<description></description>
-	<lastBuildDate>Tue, 31 Aug 2021 12:40:09 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 27 Sep 2021 13:27:31 +0000</lastBuildDate>
 	<language>en-GB</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.8</generator>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
 
 <image>
 	<url>https://tongwynlais.com/wp-content/uploads/2015/10/cropped-LogoGridTransparentBackground512x512-32x32.png</url>
@@ -31,6 +31,26 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">37574071</site>	<item>
+		<title>Fforest Ganol and Cwm Nofydd</title>
+		<link>https://tongwynlais.com/2021/09/27/fforest-ganol-and-cwm-nofydd/</link>
+					<comments>https://tongwynlais.com/2021/09/27/fforest-ganol-and-cwm-nofydd/#respond</comments>
+		
+		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
+		<pubDate>Mon, 27 Sep 2021 13:27:24 +0000</pubDate>
+				<category><![CDATA[Outdoors]]></category>
+		<category><![CDATA[cwm nofydd]]></category>
+		<category><![CDATA[dh]]></category>
+		<category><![CDATA[fforest ganol]]></category>
+		<guid isPermaLink="false">https://tongwynlais.com/?p=17525</guid>
+
+					<description><![CDATA[Fforest Ganol and Cwm Nofydd A Local Nature Reserve I pass the information board in Fforest Ganol regularly while enjoying the woodlands. I thought it might be interesting to share the content and see what our local experts have to say. I get the feeling the board is quite old so I wonder if the ... <a title="Fforest Ganol and Cwm Nofydd" class="read-more" href="https://tongwynlais.com/2021/09/27/fforest-ganol-and-cwm-nofydd/" aria-label="More on Fforest Ganol and Cwm Nofydd">more...</a>]]></description>
+		
+					<wfw:commentRss>https://tongwynlais.com/2021/09/27/fforest-ganol-and-cwm-nofydd/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">17525</post-id>	</item>
+		<item>
 		<title>Memories of Bridge House</title>
 		<link>https://tongwynlais.com/2021/08/31/memories-of-bridge-house/</link>
 					<comments>https://tongwynlais.com/2021/08/31/memories-of-bridge-house/#respond</comments>
@@ -209,25 +229,5 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">16828</post-id>	</item>
-		<item>
-		<title>New Site for Castell Coch Launched</title>
-		<link>https://tongwynlais.com/2020/11/20/new-site-for-castell-coch-launched/</link>
-					<comments>https://tongwynlais.com/2020/11/20/new-site-for-castell-coch-launched/#comments</comments>
-		
-		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
-		<pubDate>Fri, 20 Nov 2020 13:54:29 +0000</pubDate>
-				<category><![CDATA[Castell Coch]]></category>
-		<category><![CDATA[dh]]></category>
-		<category><![CDATA[news]]></category>
-		<category><![CDATA[website]]></category>
-		<guid isPermaLink="false">https://tongwynlais.com/?p=16778</guid>
-
-					<description><![CDATA[I&#8217;ve been writing about, photographing and collecting Castell Coch memorabilia for many years now. Over the last few months, I&#8217;ve built a brand new site dedicated to this local landmark. CastellCoch.com is a collection of memorabilia, stories and images inspired by Cardiff’s fairytale castle. I&#8217;m going to continue writing about Tongwynlais on this site. There ... <a title="New Site for Castell Coch Launched" class="read-more" href="https://tongwynlais.com/2020/11/20/new-site-for-castell-coch-launched/" aria-label="More on New Site for Castell Coch Launched">more...</a>]]></description>
-		
-					<wfw:commentRss>https://tongwynlais.com/2020/11/20/new-site-for-castell-coch-launched/feed/</wfw:commentRss>
-			<slash:comments>1</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">16778</post-id>	</item>
 	</channel>
 </rss>
