@@ -15,13 +15,13 @@
 	<atom:link href="https://castellcoch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://castellcoch.com</link>
 	<description></description>
-	<lastBuildDate>Wed, 25 Aug 2021 11:26:14 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 28 Sep 2021 11:27:15 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.8</generator>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
 
 <image>
 	<url>https://castellcoch.com/wp-content/uploads/2020/10/cropped-Site-icon-32x32.jpg</url>
@@ -31,6 +31,26 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">184115289</site>	<item>
+		<title>Castell Coch from Above</title>
+		<link>https://castellcoch.com/2021/09/28/castell-coch-from-above/</link>
+					<comments>https://castellcoch.com/2021/09/28/castell-coch-from-above/#respond</comments>
+		
+		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
+		<pubDate>Tue, 28 Sep 2021 11:27:12 +0000</pubDate>
+				<category><![CDATA[Photography]]></category>
+		<category><![CDATA[aerial photo]]></category>
+		<category><![CDATA[coflein]]></category>
+		<category><![CDATA[history]]></category>
+		<guid isPermaLink="false">https://castellcoch.com/?p=2484</guid>
+
+					<description><![CDATA[The Royal Commission on the Ancient and Historical Monuments of Wales (RCAHMW) was established in 1908. They develop and promote the understanding of the archaeological, built and maritime heritage of Wales. The Commission has a huge collection of items in its archive, The National Monuments Record of Wales (NMRW). Coflein is the online catalogue of ... <p class="read-more-container"><a title="Castell Coch from Above" class="read-more button" href="https://castellcoch.com/2021/09/28/castell-coch-from-above/#more-2484" aria-label="More on Castell Coch from Above">Read more</a></p>]]></description>
+		
+					<wfw:commentRss>https://castellcoch.com/2021/09/28/castell-coch-from-above/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2484</post-id>	</item>
+		<item>
 		<title>William Burges&#8217; Plans for the Reconstruction of Castell Coch</title>
 		<link>https://castellcoch.com/2021/08/25/william-burges-plans-for-the-reconstruction-of-castell-coch/</link>
 					<comments>https://castellcoch.com/2021/08/25/william-burges-plans-for-the-reconstruction-of-castell-coch/#respond</comments>
@@ -210,24 +230,5 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">2001</post-id>	</item>
-		<item>
-		<title>Postcards of Castell Coch – Part 2</title>
-		<link>https://castellcoch.com/2020/11/29/postcards-of-castell-coch-part-2/</link>
-					<comments>https://castellcoch.com/2020/11/29/postcards-of-castell-coch-part-2/#respond</comments>
-		
-		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
-		<pubDate>Sun, 29 Nov 2020 14:52:23 +0000</pubDate>
-				<category><![CDATA[History]]></category>
-		<category><![CDATA[Joyce Capon]]></category>
-		<category><![CDATA[postcard]]></category>
-		<guid isPermaLink="false">https://castellcoch.com/?p=1986</guid>
-
-					<description><![CDATA[For this second instalment of &#8220;Postcards of Castell Coch&#8221;, I&#8217;ve chosen a trio of postcards featuring pencil drawings by Joyce Capon. Dating the cards is tricky because they haven’t been posted. They were printed by “William Lewis (Printers) Ltd., 43, Penarth Road, Cardiff.” Some quick research tells me that William Lewis died in 1918 but ... <p class="read-more-container"><a title="Postcards of Castell Coch – Part 2" class="read-more button" href="https://castellcoch.com/2020/11/29/postcards-of-castell-coch-part-2/#more-1986" aria-label="More on Postcards of Castell Coch – Part 2">Read more</a></p>]]></description>
-		
-					<wfw:commentRss>https://castellcoch.com/2020/11/29/postcards-of-castell-coch-part-2/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">1986</post-id>	</item>
 	</channel>
 </rss>
