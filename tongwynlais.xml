@@ -15,7 +15,7 @@
 	<atom:link href="https://tongwynlais.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://tongwynlais.com</link>
 	<description></description>
-	<lastBuildDate>Mon, 27 Sep 2021 13:27:31 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 23 Oct 2021 10:22:15 +0000</lastBuildDate>
 	<language>en-GB</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,6 +31,28 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">37574071</site>	<item>
+		<title>Cardiff Trails &#8211; Part 1</title>
+		<link>https://tongwynlais.com/2021/10/23/cardiff-trails-part-1/</link>
+					<comments>https://tongwynlais.com/2021/10/23/cardiff-trails-part-1/#respond</comments>
+		
+		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
+		<pubDate>Sat, 23 Oct 2021 10:22:08 +0000</pubDate>
+				<category><![CDATA[Adventures]]></category>
+		<category><![CDATA[cardiff trails]]></category>
+		<category><![CDATA[dh]]></category>
+		<category><![CDATA[outdoors]]></category>
+		<category><![CDATA[running]]></category>
+		<category><![CDATA[trail running]]></category>
+		<guid isPermaLink="false">https://tongwynlais.com/?p=17590</guid>
+
+					<description><![CDATA[I&#8217;ve started posting photos from my runs to show the amazing views you can experience in and around Tongwynlais. These routes can also be enjoyed in walking boots rather than trail shoes. I regularly take my camera equipment out on a long walk. I&#8217;ve included some links at the end of this article to help ... <a title="Cardiff Trails &#8211; Part 1" class="read-more" href="https://tongwynlais.com/2021/10/23/cardiff-trails-part-1/" aria-label="More on Cardiff Trails &#8211; Part 1">more...</a>]]></description>
+		
+					<wfw:commentRss>https://tongwynlais.com/2021/10/23/cardiff-trails-part-1/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">17590</post-id>	</item>
+		<item>
 		<title>Fforest Ganol and Cwm Nofydd</title>
 		<link>https://tongwynlais.com/2021/09/27/fforest-ganol-and-cwm-nofydd/</link>
 					<comments>https://tongwynlais.com/2021/09/27/fforest-ganol-and-cwm-nofydd/#respond</comments>
@@ -209,25 +231,5 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">16937</post-id>	</item>
-		<item>
-		<title>The Mill Road Stores</title>
-		<link>https://tongwynlais.com/2020/12/11/the-mill-road-stores/</link>
-					<comments>https://tongwynlais.com/2020/12/11/the-mill-road-stores/#comments</comments>
-		
-		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
-		<pubDate>Fri, 11 Dec 2020 15:57:34 +0000</pubDate>
-				<category><![CDATA[History]]></category>
-		<category><![CDATA[dh]]></category>
-		<category><![CDATA[mill road]]></category>
-		<category><![CDATA[shopping]]></category>
-		<guid isPermaLink="false">https://tongwynlais.com/?p=16828</guid>
-
-					<description><![CDATA[I&#8217;ve been sent some brilliant photos of the old shops on Mill Road. They were a little scratched and damaged so I&#8217;ve restored them for you to enjoy. Andrew sent me this photo of Cliff Davies&#8217; grocery shop that was at 24 Mill Road. He told me, &#8220;Cliff Davies was my grandfather and he had ... <a title="The Mill Road Stores" class="read-more" href="https://tongwynlais.com/2020/12/11/the-mill-road-stores/" aria-label="More on The Mill Road Stores">more...</a>]]></description>
-		
-					<wfw:commentRss>https://tongwynlais.com/2020/12/11/the-mill-road-stores/feed/</wfw:commentRss>
-			<slash:comments>5</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">16828</post-id>	</item>
 	</channel>
 </rss>
