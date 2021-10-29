@@ -15,7 +15,7 @@
 	<atom:link href="https://castellcoch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://castellcoch.com</link>
 	<description></description>
-	<lastBuildDate>Tue, 28 Sep 2021 11:27:15 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 29 Oct 2021 12:56:00 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,6 +31,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">184115289</site>	<item>
+		<title>The Ghosts of Castell Coch &#8211; Part 2</title>
+		<link>https://castellcoch.com/2021/10/29/the-ghosts-of-castell-coch-part-2/</link>
+					<comments>https://castellcoch.com/2021/10/29/the-ghosts-of-castell-coch-part-2/#respond</comments>
+		
+		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
+		<pubDate>Fri, 29 Oct 2021 12:55:57 +0000</pubDate>
+				<category><![CDATA[History]]></category>
+		<category><![CDATA[halloween]]></category>
+		<category><![CDATA[story]]></category>
+		<guid isPermaLink="false">https://castellcoch.com/?p=2539</guid>
+
+					<description><![CDATA[This tale of ghostly apparitions was first told by Cardiff chemist Robert Drane in 1858. The story was embellished and retold by Mr and Mrs Hall in their 1861 guide, &#8220;The Book Of South Wales The Wye And The Coast&#8220;. Image credit: Anguskirk &#124; Johnathan Ciarrocca]]></description>
+		
+					<wfw:commentRss>https://castellcoch.com/2021/10/29/the-ghosts-of-castell-coch-part-2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2539</post-id>	</item>
+		<item>
 		<title>Castell Coch from Above</title>
 		<link>https://castellcoch.com/2021/09/28/castell-coch-from-above/</link>
 					<comments>https://castellcoch.com/2021/09/28/castell-coch-from-above/#respond</comments>
@@ -210,25 +229,5 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">2018</post-id>	</item>
-		<item>
-		<title>Castell Coch Linocut by Ian Phillips</title>
-		<link>https://castellcoch.com/2020/12/16/castell-coch-linocut-by-ian-phillips/</link>
-					<comments>https://castellcoch.com/2020/12/16/castell-coch-linocut-by-ian-phillips/#respond</comments>
-		
-		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
-		<pubDate>Wed, 16 Dec 2020 11:43:26 +0000</pubDate>
-				<category><![CDATA[Art]]></category>
-		<category><![CDATA[artist]]></category>
-		<category><![CDATA[linocut]]></category>
-		<category><![CDATA[print]]></category>
-		<guid isPermaLink="false">https://castellcoch.com/?p=2001</guid>
-
-					<description><![CDATA[Ian Phillips has been working as a print maker in Wales since 2001. His passion for relief printing was fired by a chance encounter with the work of Utagawa Hiroshige. Hiroshige was considered a master of ukiyo-e, the genre of Japanese woodblock prints and paintings, which were popular from the late 17th to late 19th ... <p class="read-more-container"><a title="Castell Coch Linocut by Ian Phillips" class="read-more button" href="https://castellcoch.com/2020/12/16/castell-coch-linocut-by-ian-phillips/#more-2001" aria-label="More on Castell Coch Linocut by Ian Phillips">Read more</a></p>]]></description>
-		
-					<wfw:commentRss>https://castellcoch.com/2020/12/16/castell-coch-linocut-by-ian-phillips/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">2001</post-id>	</item>
 	</channel>
 </rss>
