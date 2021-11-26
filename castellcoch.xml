@@ -15,13 +15,13 @@
 	<atom:link href="https://castellcoch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://castellcoch.com</link>
 	<description></description>
-	<lastBuildDate>Fri, 29 Oct 2021 12:56:00 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 26 Nov 2021 09:54:59 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
 
 <image>
 	<url>https://castellcoch.com/wp-content/uploads/2020/10/cropped-Site-icon-32x32.jpg</url>
@@ -31,6 +31,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">184115289</site>	<item>
+		<title>Postcards of Castell Coch – Part 3</title>
+		<link>https://castellcoch.com/2021/11/26/postcards-of-castell-coch-part-3/</link>
+					<comments>https://castellcoch.com/2021/11/26/postcards-of-castell-coch-part-3/#respond</comments>
+		
+		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
+		<pubDate>Fri, 26 Nov 2021 09:52:35 +0000</pubDate>
+				<category><![CDATA[History]]></category>
+		<category><![CDATA[ministry of works]]></category>
+		<category><![CDATA[postcard]]></category>
+		<guid isPermaLink="false">https://castellcoch.com/?p=2511</guid>
+
+					<description><![CDATA[This collection of postcards from the &#8220;Ministry of Works&#8221; and the &#8220;Ministry of Public Building and Works&#8221; were produced between 1940 and 1970. To find out more about the organisations that have cared for the castle, read my post about the official guidebooks.]]></description>
+		
+					<wfw:commentRss>https://castellcoch.com/2021/11/26/postcards-of-castell-coch-part-3/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2511</post-id>	</item>
+		<item>
 		<title>The Ghosts of Castell Coch &#8211; Part 2</title>
 		<link>https://castellcoch.com/2021/10/29/the-ghosts-of-castell-coch-part-2/</link>
 					<comments>https://castellcoch.com/2021/10/29/the-ghosts-of-castell-coch-part-2/#respond</comments>
@@ -209,25 +228,5 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">2060</post-id>	</item>
-		<item>
-		<title>Castell Coch Official Guidebooks 1957 &#8211; 1975</title>
-		<link>https://castellcoch.com/2021/01/25/castell-coch-official-guidebooks-1957-1975/</link>
-					<comments>https://castellcoch.com/2021/01/25/castell-coch-official-guidebooks-1957-1975/#comments</comments>
-		
-		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
-		<pubDate>Mon, 25 Jan 2021 17:10:02 +0000</pubDate>
-				<category><![CDATA[History]]></category>
-		<category><![CDATA[guidebook]]></category>
-		<category><![CDATA[ministry of works]]></category>
-		<category><![CDATA[tourism]]></category>
-		<guid isPermaLink="false">https://castellcoch.com/?p=2018</guid>
-
-					<description><![CDATA[Historic buildings in Wales have been managed by various organisations over the years. This collection of official guidebooks were published by some of these bodies from 1957 to 1975. The original guide, published in 1954, was written by Peter Floud, C.B.E. (1911 &#8211; 1960), who was the Keeper of Circulation at the Victoria and Albert ... <p class="read-more-container"><a title="Castell Coch Official Guidebooks 1957 &#8211; 1975" class="read-more button" href="https://castellcoch.com/2021/01/25/castell-coch-official-guidebooks-1957-1975/#more-2018" aria-label="More on Castell Coch Official Guidebooks 1957 &#8211; 1975">Read more</a></p>]]></description>
-		
-					<wfw:commentRss>https://castellcoch.com/2021/01/25/castell-coch-official-guidebooks-1957-1975/feed/</wfw:commentRss>
-			<slash:comments>1</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">2018</post-id>	</item>
 	</channel>
 </rss>
