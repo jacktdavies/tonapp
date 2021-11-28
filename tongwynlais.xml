@@ -15,13 +15,13 @@
 	<atom:link href="https://tongwynlais.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://tongwynlais.com</link>
 	<description></description>
-	<lastBuildDate>Sat, 23 Oct 2021 10:22:15 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 28 Nov 2021 15:32:24 +0000</lastBuildDate>
 	<language>en-GB</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
 
 <image>
 	<url>https://tongwynlais.com/wp-content/uploads/2015/10/cropped-LogoGridTransparentBackground512x512-32x32.png</url>
@@ -31,6 +31,26 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">37574071</site>	<item>
+		<title>Tongwynlais Railway Station &#8211; Part 1</title>
+		<link>https://tongwynlais.com/2021/11/28/tongwynlais-railway-station-part-1/</link>
+					<comments>https://tongwynlais.com/2021/11/28/tongwynlais-railway-station-part-1/#respond</comments>
+		
+		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
+		<pubDate>Sun, 28 Nov 2021 15:32:22 +0000</pubDate>
+				<category><![CDATA[History]]></category>
+		<category><![CDATA[cardiff railway]]></category>
+		<category><![CDATA[dh]]></category>
+		<category><![CDATA[tongwynlais station]]></category>
+		<guid isPermaLink="false">https://tongwynlais.com/?p=17659</guid>
+
+					<description><![CDATA[Tongwynlais railway station was opened in March 1911 but only operated for 20 years. It was closed in July 1931 and converted into a private house. Mrs Hagget and her son Graham lived there until its demolition in 1969. There are several photos of the station in various local history books. Most of these are ... <a title="Tongwynlais Railway Station &#8211; Part 1" class="read-more" href="https://tongwynlais.com/2021/11/28/tongwynlais-railway-station-part-1/" aria-label="More on Tongwynlais Railway Station &#8211; Part 1">more...</a>]]></description>
+		
+					<wfw:commentRss>https://tongwynlais.com/2021/11/28/tongwynlais-railway-station-part-1/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">17659</post-id>	</item>
+		<item>
 		<title>Cardiff Trails &#8211; Part 1</title>
 		<link>https://tongwynlais.com/2021/10/23/cardiff-trails-part-1/</link>
 					<comments>https://tongwynlais.com/2021/10/23/cardiff-trails-part-1/#respond</comments>
@@ -211,25 +231,5 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">17022</post-id>	</item>
-		<item>
-		<title>The Lewis Arms Heraldry</title>
-		<link>https://tongwynlais.com/2021/01/28/the-lewis-arms-heraldry/</link>
-					<comments>https://tongwynlais.com/2021/01/28/the-lewis-arms-heraldry/#comments</comments>
-		
-		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
-		<pubDate>Thu, 28 Jan 2021 13:30:55 +0000</pubDate>
-				<category><![CDATA[Art]]></category>
-		<category><![CDATA[dh]]></category>
-		<category><![CDATA[heraldry]]></category>
-		<category><![CDATA[lewis arms]]></category>
-		<guid isPermaLink="false">https://tongwynlais.com/?p=16937</guid>
-
-					<description><![CDATA[I was looking for a project to work on over the summer and decided it might be interesting to research and illustrate the Lewis Arms sign. The motto &#8220;Ofner Na Ofne Angau&#8221; means &#8220;Fear Him Who Fears Not Death&#8221;. According to Burke&#8217;s Genealogical and Heraldic History of the Landed Gentry, this was attributed to Gwaethvoed ... <a title="The Lewis Arms Heraldry" class="read-more" href="https://tongwynlais.com/2021/01/28/the-lewis-arms-heraldry/" aria-label="More on The Lewis Arms Heraldry">more...</a>]]></description>
-		
-					<wfw:commentRss>https://tongwynlais.com/2021/01/28/the-lewis-arms-heraldry/feed/</wfw:commentRss>
-			<slash:comments>2</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">16937</post-id>	</item>
 	</channel>
 </rss>
