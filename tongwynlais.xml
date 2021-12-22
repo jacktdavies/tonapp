@@ -15,7 +15,7 @@
 	<atom:link href="https://tongwynlais.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://tongwynlais.com</link>
 	<description></description>
-	<lastBuildDate>Sun, 28 Nov 2021 15:32:24 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 22 Dec 2021 10:02:00 +0000</lastBuildDate>
 	<language>en-GB</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,9 +31,29 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">37574071</site>	<item>
+		<title>Postcards from Tongwynlais – Part 15</title>
+		<link>https://tongwynlais.com/2021/12/22/postcards-from-tongwynlais-part-15/</link>
+					<comments>https://tongwynlais.com/2021/12/22/postcards-from-tongwynlais-part-15/#respond</comments>
+		
+		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
+		<pubDate>Wed, 22 Dec 2021 10:01:57 +0000</pubDate>
+				<category><![CDATA[History]]></category>
+		<category><![CDATA[dh]]></category>
+		<category><![CDATA[local history]]></category>
+		<category><![CDATA[postcard]]></category>
+		<guid isPermaLink="false">https://tongwynlais.com/?p=17727</guid>
+
+					<description><![CDATA[I have another fantastic image of Tongwynlais looking across the River Taff from Pentyrch. In the foreground are buildings from the Pentyrch Steel and Tin Plate Works. The bridge across the River Taff is Ynys Bridge, which was built in 1808 and is Grade II listed. Ynys House, in the centre above the bridge, is ... <a title="Postcards from Tongwynlais – Part 15" class="read-more" href="https://tongwynlais.com/2021/12/22/postcards-from-tongwynlais-part-15/" aria-label="More on Postcards from Tongwynlais – Part 15">more...</a>]]></description>
+		
+					<wfw:commentRss>https://tongwynlais.com/2021/12/22/postcards-from-tongwynlais-part-15/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">17727</post-id>	</item>
+		<item>
 		<title>Tongwynlais Railway Station &#8211; Part 1</title>
 		<link>https://tongwynlais.com/2021/11/28/tongwynlais-railway-station-part-1/</link>
-					<comments>https://tongwynlais.com/2021/11/28/tongwynlais-railway-station-part-1/#respond</comments>
+					<comments>https://tongwynlais.com/2021/11/28/tongwynlais-railway-station-part-1/#comments</comments>
 		
 		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
 		<pubDate>Sun, 28 Nov 2021 15:32:22 +0000</pubDate>
@@ -46,7 +66,7 @@
 					<description><![CDATA[Tongwynlais railway station was opened in March 1911 but only operated for 20 years. It was closed in July 1931 and converted into a private house. Mrs Hagget and her son Graham lived there until its demolition in 1969. There are several photos of the station in various local history books. Most of these are ... <a title="Tongwynlais Railway Station &#8211; Part 1" class="read-more" href="https://tongwynlais.com/2021/11/28/tongwynlais-railway-station-part-1/" aria-label="More on Tongwynlais Railway Station &#8211; Part 1">more...</a>]]></description>
 		
 					<wfw:commentRss>https://tongwynlais.com/2021/11/28/tongwynlais-railway-station-part-1/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
+			<slash:comments>2</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">17659</post-id>	</item>
@@ -212,24 +232,5 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">17087</post-id>	</item>
-		<item>
-		<title>To Weston on the Waverley</title>
-		<link>https://tongwynlais.com/2021/02/26/to-weston-on-the-waverley/</link>
-					<comments>https://tongwynlais.com/2021/02/26/to-weston-on-the-waverley/#respond</comments>
-		
-		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
-		<pubDate>Fri, 26 Feb 2021 13:53:20 +0000</pubDate>
-				<category><![CDATA[History]]></category>
-		<category><![CDATA[dh]]></category>
-		<category><![CDATA[people]]></category>
-		<guid isPermaLink="false">https://tongwynlais.com/?p=17022</guid>
-
-					<description><![CDATA[Reader John Summerfield got in touch to share this photo of a group enjoying a trip to Weston-Super-Mare on the Waverley paddle steamer. John believes most of the group were from Tongwynlais or nearby and that the photo was taken around 1919. The Waverley was a paddle steamer that cruised the Bristol Channel. It looks ... <a title="To Weston on the Waverley" class="read-more" href="https://tongwynlais.com/2021/02/26/to-weston-on-the-waverley/" aria-label="More on To Weston on the Waverley">more...</a>]]></description>
-		
-					<wfw:commentRss>https://tongwynlais.com/2021/02/26/to-weston-on-the-waverley/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">17022</post-id>	</item>
 	</channel>
 </rss>
