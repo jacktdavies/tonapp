@@ -15,7 +15,7 @@
 	<atom:link href="https://castellcoch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://castellcoch.com</link>
 	<description></description>
-	<lastBuildDate>Fri, 26 Nov 2021 09:54:59 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 29 Dec 2021 18:52:37 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,6 +31,27 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">184115289</site>	<item>
+		<title>Castell Coch by J M Staniforth</title>
+		<link>https://castellcoch.com/2021/12/29/castell-coch-by-j-m-staniforth/</link>
+					<comments>https://castellcoch.com/2021/12/29/castell-coch-by-j-m-staniforth/#respond</comments>
+		
+		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
+		<pubDate>Wed, 29 Dec 2021 18:52:36 +0000</pubDate>
+				<category><![CDATA[Art]]></category>
+		<category><![CDATA[1800s]]></category>
+		<category><![CDATA[history]]></category>
+		<category><![CDATA[illustration]]></category>
+		<category><![CDATA[staniforth]]></category>
+		<guid isPermaLink="false">https://castellcoch.com/?p=2785</guid>
+
+					<description><![CDATA[Two of the favourite items in my collection are these illustrations of Castell Coch by Joseph Staniforth. They were printed in a supplement to &#8220;The Builders Journal and Architectural Record&#8221; on Wednesday, December 21 1898. Joseph Morewood Staniforth is known for his Welsh editorial cartoons. They were published in several newspapers including the News of ... <p class="read-more-container"><a title="Castell Coch by J M Staniforth" class="read-more button" href="https://castellcoch.com/2021/12/29/castell-coch-by-j-m-staniforth/#more-2785" aria-label="More on Castell Coch by J M Staniforth">Read more</a></p>]]></description>
+		
+					<wfw:commentRss>https://castellcoch.com/2021/12/29/castell-coch-by-j-m-staniforth/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2785</post-id>	</item>
+		<item>
 		<title>Postcards of Castell Coch – Part 3</title>
 		<link>https://castellcoch.com/2021/11/26/postcards-of-castell-coch-part-3/</link>
 					<comments>https://castellcoch.com/2021/11/26/postcards-of-castell-coch-part-3/#respond</comments>
@@ -207,26 +228,5 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">2103</post-id>	</item>
-		<item>
-		<title>Magic Lantern Slide</title>
-		<link>https://castellcoch.com/2021/02/27/magic-lantern-slide/</link>
-					<comments>https://castellcoch.com/2021/02/27/magic-lantern-slide/#respond</comments>
-		
-		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
-		<pubDate>Sat, 27 Feb 2021 09:57:36 +0000</pubDate>
-				<category><![CDATA[Photography]]></category>
-		<category><![CDATA[19th century]]></category>
-		<category><![CDATA[history]]></category>
-		<category><![CDATA[lucerna]]></category>
-		<category><![CDATA[magic lantern]]></category>
-		<guid isPermaLink="false">https://castellcoch.com/?p=2060</guid>
-
-					<description><![CDATA[The magic lantern is an early version of the image projector and was invented in the 17th century. The original versions of the 35mm photo slide were painted glass or oiled paper. For these early lanterns, the light source was either sunlight, candles or oil lamps. Magic lanterns were used as entertainment, combining images with ... <p class="read-more-container"><a title="Magic Lantern Slide" class="read-more button" href="https://castellcoch.com/2021/02/27/magic-lantern-slide/#more-2060" aria-label="More on Magic Lantern Slide">Read more</a></p>]]></description>
-		
-					<wfw:commentRss>https://castellcoch.com/2021/02/27/magic-lantern-slide/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">2060</post-id>	</item>
 	</channel>
 </rss>
