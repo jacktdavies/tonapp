@@ -15,7 +15,7 @@
 	<atom:link href="https://castellcoch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://castellcoch.com</link>
 	<description></description>
-	<lastBuildDate>Fri, 28 Jan 2022 15:10:32 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 23 Feb 2022 16:46:51 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,6 +31,29 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">184115289</site>	<item>
+		<title>Castell Coch: The 1980s</title>
+		<link>https://castellcoch.com/2022/02/23/castell-coch-the-1980s/</link>
+					<comments>https://castellcoch.com/2022/02/23/castell-coch-the-1980s/#respond</comments>
+		
+		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
+		<pubDate>Wed, 23 Feb 2022 16:46:32 +0000</pubDate>
+				<category><![CDATA[History]]></category>
+		<category><![CDATA[1980s]]></category>
+		<category><![CDATA[guidebook]]></category>
+		<category><![CDATA[illustration]]></category>
+		<category><![CDATA[photography]]></category>
+		<category><![CDATA[postcard]]></category>
+		<category><![CDATA[tourism]]></category>
+		<guid isPermaLink="false">https://castellcoch.com/?p=2947</guid>
+
+					<description><![CDATA[Sources All postcards and guidebooks are from my collection. &#8220;Castell Coch, Christmas 1985&#8221; by David Short via Flickr. &#8220;Iron bridge tramway, Castle Coch folly from M4 on Taff, January 1985&#8221; from the Mary Gillham Archive Project.]]></description>
+		
+					<wfw:commentRss>https://castellcoch.com/2022/02/23/castell-coch-the-1980s/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2947</post-id>	</item>
+		<item>
 		<title>Castell Coch &#8211; A Poem by T I Jones</title>
 		<link>https://castellcoch.com/2022/01/28/castell-coch-a-poem-by-t-i-jones/</link>
 					<comments>https://castellcoch.com/2022/01/28/castell-coch-a-poem-by-t-i-jones/#respond</comments>
@@ -207,25 +230,5 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">2238</post-id>	</item>
-		<item>
-		<title>Patterns of Castell Coch &#8211; Part 1</title>
-		<link>https://castellcoch.com/2021/04/24/patterns-of-castell-coch-part-1/</link>
-					<comments>https://castellcoch.com/2021/04/24/patterns-of-castell-coch-part-1/#respond</comments>
-		
-		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
-		<pubDate>Sat, 24 Apr 2021 13:42:57 +0000</pubDate>
-				<category><![CDATA[Art]]></category>
-		<category><![CDATA[illustration]]></category>
-		<category><![CDATA[interior design]]></category>
-		<category><![CDATA[patterns]]></category>
-		<guid isPermaLink="false">https://castellcoch.com/?p=2186</guid>
-
-					<description><![CDATA[Castell Coch is famous for its spectacular interiors. I&#8217;ve decided to illustrate the stencils, murals and patterns that decorate Cardiff&#8217;s iconic Gothic Revival landmark. This first instalment includes designs from the banqueting hall and Lord Bute&#8217;s bedroom. The detailed stencilling in the banqueting hall was completed by the interior decorators Campbell, Smith &#38; Co. under ... <p class="read-more-container"><a title="Patterns of Castell Coch &#8211; Part 1" class="read-more button" href="https://castellcoch.com/2021/04/24/patterns-of-castell-coch-part-1/#more-2186" aria-label="More on Patterns of Castell Coch &#8211; Part 1">Read more</a></p>]]></description>
-		
-					<wfw:commentRss>https://castellcoch.com/2021/04/24/patterns-of-castell-coch-part-1/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">2186</post-id>	</item>
 	</channel>
 </rss>
