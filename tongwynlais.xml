@@ -15,7 +15,7 @@
 	<atom:link href="https://tongwynlais.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://tongwynlais.com</link>
 	<description></description>
-	<lastBuildDate>Thu, 27 Jan 2022 09:12:59 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 25 Feb 2022 16:02:38 +0000</lastBuildDate>
 	<language>en-GB</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,6 +31,27 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">37574071</site>	<item>
+		<title>Aerial Photos by Terence Soames</title>
+		<link>https://tongwynlais.com/2022/02/25/aerial-photos-by-terence-soames/</link>
+					<comments>https://tongwynlais.com/2022/02/25/aerial-photos-by-terence-soames/#respond</comments>
+		
+		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
+		<pubDate>Fri, 25 Feb 2022 16:02:22 +0000</pubDate>
+				<category><![CDATA[History]]></category>
+		<category><![CDATA[aerial photos]]></category>
+		<category><![CDATA[dh]]></category>
+		<category><![CDATA[photography]]></category>
+		<category><![CDATA[terence soames]]></category>
+		<guid isPermaLink="false">https://tongwynlais.com/?p=17832</guid>
+
+					<description><![CDATA[Terence Soames (Cardiff) Ltd was founded in 1946 and specialised in aerial photography. National Museum Wales have two particularly good images from 1957 and 1973. The company were based at 22 Dumfries Place, Cardiff and they moved to St John&#8217;s Chambers, High Street Arcade in 1962. I couldn&#8217;t find any information about Terence Soames but ... <a title="Aerial Photos by Terence Soames" class="read-more" href="https://tongwynlais.com/2022/02/25/aerial-photos-by-terence-soames/" aria-label="More on Aerial Photos by Terence Soames">more...</a>]]></description>
+		
+					<wfw:commentRss>https://tongwynlais.com/2022/02/25/aerial-photos-by-terence-soames/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">17832</post-id>	</item>
+		<item>
 		<title>Cardiff Trails – Part 2</title>
 		<link>https://tongwynlais.com/2022/01/27/cardiff-trails-part-2/</link>
 					<comments>https://tongwynlais.com/2022/01/27/cardiff-trails-part-2/#respond</comments>
@@ -80,6 +101,7 @@
 		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
 		<pubDate>Sun, 28 Nov 2021 15:32:22 +0000</pubDate>
 				<category><![CDATA[History]]></category>
+		<category><![CDATA[211128]]></category>
 		<category><![CDATA[cardiff railway]]></category>
 		<category><![CDATA[dh]]></category>
 		<category><![CDATA[tongwynlais station]]></category>
@@ -142,6 +164,7 @@
 		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
 		<pubDate>Tue, 31 Aug 2021 12:40:06 +0000</pubDate>
 				<category><![CDATA[History]]></category>
+		<category><![CDATA[210831]]></category>
 		<category><![CDATA[dh]]></category>
 		<category><![CDATA[maps]]></category>
 		<category><![CDATA[merthyr road]]></category>
@@ -213,27 +236,5 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">17309</post-id>	</item>
-		<item>
-		<title>Postcards from Tongwynlais – Part 13</title>
-		<link>https://tongwynlais.com/2021/04/25/postcards-from-tongwynlais-part-13/</link>
-					<comments>https://tongwynlais.com/2021/04/25/postcards-from-tongwynlais-part-13/#respond</comments>
-		
-		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
-		<pubDate>Sun, 25 Apr 2021 15:06:35 +0000</pubDate>
-				<category><![CDATA[History]]></category>
-		<category><![CDATA[castell coch]]></category>
-		<category><![CDATA[dh]]></category>
-		<category><![CDATA[glamorganshire canal]]></category>
-		<category><![CDATA[local history]]></category>
-		<category><![CDATA[postcard]]></category>
-		<guid isPermaLink="false">https://tongwynlais.com/?p=17213</guid>
-
-					<description><![CDATA[Welcome to a brand new instalment of my long running &#8220;Postcards from Tongwynlais&#8221; series. I&#8217;ve got a classic view of Castell Coch overlooking the village and Glamorganshire Canal for you to enjoy. Follow @mytongwynlais The postcard publisher is &#8220;T. H. S. &#38; Co. &#8211; B&#8221;. I&#8217;ve done some research and I believe this is T ... <a title="Postcards from Tongwynlais – Part 13" class="read-more" href="https://tongwynlais.com/2021/04/25/postcards-from-tongwynlais-part-13/" aria-label="More on Postcards from Tongwynlais – Part 13">more...</a>]]></description>
-		
-					<wfw:commentRss>https://tongwynlais.com/2021/04/25/postcards-from-tongwynlais-part-13/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">17213</post-id>	</item>
 	</channel>
 </rss>
