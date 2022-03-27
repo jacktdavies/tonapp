@@ -15,13 +15,13 @@
 	<atom:link href="https://tongwynlais.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://tongwynlais.com</link>
 	<description></description>
-	<lastBuildDate>Fri, 25 Feb 2022 16:02:38 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 27 Mar 2022 10:06:32 +0000</lastBuildDate>
 	<language>en-GB</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.9</generator>
+	<generator>https://wordpress.org/?v=5.9.2</generator>
 
 <image>
 	<url>https://tongwynlais.com/wp-content/uploads/2015/10/cropped-LogoGridTransparentBackground512x512-32x32.png</url>
@@ -31,6 +31,27 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">37574071</site>	<item>
+		<title>Saucony Peregrine 11 &#8211; 350 Mile Review</title>
+		<link>https://tongwynlais.com/2022/03/27/saucony-peregrine-11-350-mile-review/</link>
+					<comments>https://tongwynlais.com/2022/03/27/saucony-peregrine-11-350-mile-review/#respond</comments>
+		
+		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
+		<pubDate>Sun, 27 Mar 2022 10:06:32 +0000</pubDate>
+				<category><![CDATA[Adventures]]></category>
+		<category><![CDATA[dh]]></category>
+		<category><![CDATA[review]]></category>
+		<category><![CDATA[saucony peregrine]]></category>
+		<category><![CDATA[trail running]]></category>
+		<guid isPermaLink="false">https://tongwynlais.com/?p=17973</guid>
+
+					<description><![CDATA[Overview Adventure is one of the main topics I wanted to cover when I refocussed the site back in 2019. We live in a part of Cardiff that&#8217;s perfect for getting outdoors and enjoying the countryside. Trail running is a big part of my life so I thought I&#8217;d share some thoughts on a runner&#8217;s ... <a title="Saucony Peregrine 11 &#8211; 350 Mile Review" class="read-more" href="https://tongwynlais.com/2022/03/27/saucony-peregrine-11-350-mile-review/" aria-label="More on Saucony Peregrine 11 &#8211; 350 Mile Review">more...</a>]]></description>
+		
+					<wfw:commentRss>https://tongwynlais.com/2022/03/27/saucony-peregrine-11-350-mile-review/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">17973</post-id>	</item>
+		<item>
 		<title>Aerial Photos by Terence Soames</title>
 		<link>https://tongwynlais.com/2022/02/25/aerial-photos-by-terence-soames/</link>
 					<comments>https://tongwynlais.com/2022/02/25/aerial-photos-by-terence-soames/#respond</comments>
@@ -217,24 +238,5 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">17356</post-id>	</item>
-		<item>
-		<title>Tongwynlais Walks &#8211; Part 1</title>
-		<link>https://tongwynlais.com/2021/05/29/tongwynlais-walks-part-1/</link>
-					<comments>https://tongwynlais.com/2021/05/29/tongwynlais-walks-part-1/#respond</comments>
-		
-		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
-		<pubDate>Sat, 29 May 2021 16:02:41 +0000</pubDate>
-				<category><![CDATA[Adventures]]></category>
-		<category><![CDATA[fforest fawr]]></category>
-		<category><![CDATA[walking]]></category>
-		<guid isPermaLink="false">https://tongwynlais.com/?p=17309</guid>
-
-					<description><![CDATA[Tongwynlais is surrounded by beautiful walks so I&#8217;m starting a new series to share these routes. Let&#8217;s begin with two of the most well known trails through Fforest Fawr. Fforest Fawr is managed by Natural Resources Wales and they&#8217;ve signposted a few walks in the forest. I&#8217;ve included the routes at the end of this ... <a title="Tongwynlais Walks &#8211; Part 1" class="read-more" href="https://tongwynlais.com/2021/05/29/tongwynlais-walks-part-1/" aria-label="More on Tongwynlais Walks &#8211; Part 1">more...</a>]]></description>
-		
-					<wfw:commentRss>https://tongwynlais.com/2021/05/29/tongwynlais-walks-part-1/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">17309</post-id>	</item>
 	</channel>
 </rss>
