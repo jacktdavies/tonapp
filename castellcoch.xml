@@ -15,13 +15,13 @@
 	<atom:link href="https://castellcoch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://castellcoch.com</link>
 	<description></description>
-	<lastBuildDate>Wed, 23 Feb 2022 16:46:51 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 30 Mar 2022 17:46:01 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.9</generator>
+	<generator>https://wordpress.org/?v=5.9.2</generator>
 
 <image>
 	<url>https://castellcoch.com/wp-content/uploads/2020/10/cropped-Site-icon-32x32.jpg</url>
@@ -31,9 +31,29 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">184115289</site>	<item>
+		<title>Castell Coch Then and Now &#8211; Part 1</title>
+		<link>https://castellcoch.com/2022/03/30/castell-coch-then-and-now-part-1/</link>
+					<comments>https://castellcoch.com/2022/03/30/castell-coch-then-and-now-part-1/#respond</comments>
+		
+		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
+		<pubDate>Wed, 30 Mar 2022 17:45:47 +0000</pubDate>
+				<category><![CDATA[Photography]]></category>
+		<category><![CDATA[history]]></category>
+		<category><![CDATA[national museum wales]]></category>
+		<category><![CDATA[then and now]]></category>
+		<guid isPermaLink="false">https://castellcoch.com/?p=3127</guid>
+
+					<description><![CDATA[This image of Castell Coch is from Amgueddfa Cymru &#8211; National Museum Wales. The photograph is mounted on card along with shots of a T.V.R. Converted Bristol Class locomotive and Barmouth Bridge under Cader Idris. The photographs aren&#8217;t dated unfortunately. After some quick research of Barmouth Bridge though, it turns out the drawbridge in the ... <p class="read-more-container"><a title="Castell Coch Then and Now &#8211; Part 1" class="read-more button" href="https://castellcoch.com/2022/03/30/castell-coch-then-and-now-part-1/#more-3127" aria-label="More on Castell Coch Then and Now &#8211; Part 1">Read more</a></p>]]></description>
+		
+					<wfw:commentRss>https://castellcoch.com/2022/03/30/castell-coch-then-and-now-part-1/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3127</post-id>	</item>
+		<item>
 		<title>Castell Coch: The 1980s</title>
 		<link>https://castellcoch.com/2022/02/23/castell-coch-the-1980s/</link>
-					<comments>https://castellcoch.com/2022/02/23/castell-coch-the-1980s/#respond</comments>
+					<comments>https://castellcoch.com/2022/02/23/castell-coch-the-1980s/#comments</comments>
 		
 		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
 		<pubDate>Wed, 23 Feb 2022 16:46:32 +0000</pubDate>
@@ -46,10 +66,10 @@
 		<category><![CDATA[tourism]]></category>
 		<guid isPermaLink="false">https://castellcoch.com/?p=2947</guid>
 
-					<description><![CDATA[Sources All postcards and guidebooks are from my collection. &#8220;Castell Coch, Christmas 1985&#8221; by David Short via Flickr. &#8220;Iron bridge tramway, Castle Coch folly from M4 on Taff, January 1985&#8221; from the Mary Gillham Archive Project.]]></description>
+					<description><![CDATA[I was sorting through my collection recently and noticed quite a few pieces from the 1980s. Hopefully these items will bring back memories of school trips and visits during this decade.]]></description>
 		
 					<wfw:commentRss>https://castellcoch.com/2022/02/23/castell-coch-the-1980s/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
+			<slash:comments>1</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">2947</post-id>	</item>
@@ -211,24 +231,5 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">2287</post-id>	</item>
-		<item>
-		<title>Castell Coch on Instagram</title>
-		<link>https://castellcoch.com/2021/05/26/castell-coch-on-instagram/</link>
-					<comments>https://castellcoch.com/2021/05/26/castell-coch-on-instagram/#respond</comments>
-		
-		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
-		<pubDate>Wed, 26 May 2021 18:27:38 +0000</pubDate>
-				<category><![CDATA[Photography]]></category>
-		<category><![CDATA[instagram]]></category>
-		<category><![CDATA[social media]]></category>
-		<guid isPermaLink="false">https://castellcoch.com/?p=2238</guid>
-
-					<description><![CDATA[There are loads of interesting posts on Instagram featuring Castell Coch. Here are a few of my favourite images. I share something most days on my @tongwynlais account. Tag me in or use #LoveCastellCoch to share yours.]]></description>
-		
-					<wfw:commentRss>https://castellcoch.com/2021/05/26/castell-coch-on-instagram/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">2238</post-id>	</item>
 	</channel>
 </rss>
