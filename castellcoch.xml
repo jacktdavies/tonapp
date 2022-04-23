@@ -15,13 +15,13 @@
 	<atom:link href="https://castellcoch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://castellcoch.com</link>
 	<description></description>
-	<lastBuildDate>Wed, 30 Mar 2022 17:46:01 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 23 Apr 2022 13:41:47 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.9.2</generator>
+	<generator>https://wordpress.org/?v=5.9.3</generator>
 
 <image>
 	<url>https://castellcoch.com/wp-content/uploads/2020/10/cropped-Site-icon-32x32.jpg</url>
@@ -31,6 +31,26 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">184115289</site>	<item>
+		<title>Postcards of Castell Coch – Part 4</title>
+		<link>https://castellcoch.com/2022/04/23/postcards-of-castell-coch-part-4/</link>
+					<comments>https://castellcoch.com/2022/04/23/postcards-of-castell-coch-part-4/#respond</comments>
+		
+		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
+		<pubDate>Sat, 23 Apr 2022 13:41:33 +0000</pubDate>
+				<category><![CDATA[History]]></category>
+		<category><![CDATA[1960s]]></category>
+		<category><![CDATA[postcard]]></category>
+		<category><![CDATA[tempest]]></category>
+		<guid isPermaLink="false">https://castellcoch.com/?p=3070</guid>
+
+					<description><![CDATA[There are lots of postcards with aerial photos of the castle in my collection and this is one of my favourites. The company who produced the image have a huge collection of photos available to view on Amgueddfa Cymru&#8217;s website. Scaffolding has been erected on the curtain wall and it looks like roof tiles were ... <p class="read-more-container"><a title="Postcards of Castell Coch – Part 4" class="read-more button" href="https://castellcoch.com/2022/04/23/postcards-of-castell-coch-part-4/#more-3070" aria-label="More on Postcards of Castell Coch – Part 4">Read more</a></p>]]></description>
+		
+					<wfw:commentRss>https://castellcoch.com/2022/04/23/postcards-of-castell-coch-part-4/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3070</post-id>	</item>
+		<item>
 		<title>Castell Coch Then and Now &#8211; Part 1</title>
 		<link>https://castellcoch.com/2022/03/30/castell-coch-then-and-now-part-1/</link>
 					<comments>https://castellcoch.com/2022/03/30/castell-coch-then-and-now-part-1/#respond</comments>
@@ -212,24 +232,5 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">2335</post-id>	</item>
-		<item>
-		<title>Touring the Ruins of Castell Coch in 1861</title>
-		<link>https://castellcoch.com/2021/06/29/touring-the-ruins-of-castell-coch-in-1861/</link>
-					<comments>https://castellcoch.com/2021/06/29/touring-the-ruins-of-castell-coch-in-1861/#respond</comments>
-		
-		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
-		<pubDate>Tue, 29 Jun 2021 11:10:52 +0000</pubDate>
-				<category><![CDATA[History]]></category>
-		<category><![CDATA[tourism]]></category>
-		<category><![CDATA[victorian]]></category>
-		<guid isPermaLink="false">https://castellcoch.com/?p=2287</guid>
-
-					<description><![CDATA[The Book Of South Wales The Wye And The Coast is a collection of journal entries from Victorian writers, Mr and Mrs S C Hall, as they toured South Wales and the River Wye. The book was published in 1861 and I&#8217;ve found one source that claims the tour took place in the same year. ... <p class="read-more-container"><a title="Touring the Ruins of Castell Coch in 1861" class="read-more button" href="https://castellcoch.com/2021/06/29/touring-the-ruins-of-castell-coch-in-1861/#more-2287" aria-label="More on Touring the Ruins of Castell Coch in 1861">Read more</a></p>]]></description>
-		
-					<wfw:commentRss>https://castellcoch.com/2021/06/29/touring-the-ruins-of-castell-coch-in-1861/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">2287</post-id>	</item>
 	</channel>
 </rss>
