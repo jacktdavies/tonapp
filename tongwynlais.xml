@@ -15,7 +15,7 @@
 	<atom:link href="https://tongwynlais.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://tongwynlais.com</link>
 	<description></description>
-	<lastBuildDate>Wed, 27 Apr 2022 10:24:34 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 19 May 2022 19:53:30 +0000</lastBuildDate>
 	<language>en-GB</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,6 +31,26 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">37574071</site>	<item>
+		<title>120 Years of Electric Transport in Cardiff</title>
+		<link>https://tongwynlais.com/2022/05/19/120-years-of-electric-transport-in-cardiff/</link>
+					<comments>https://tongwynlais.com/2022/05/19/120-years-of-electric-transport-in-cardiff/#respond</comments>
+		
+		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
+		<pubDate>Thu, 19 May 2022 19:53:30 +0000</pubDate>
+				<category><![CDATA[History]]></category>
+		<category><![CDATA[cardiff]]></category>
+		<category><![CDATA[dh]]></category>
+		<category><![CDATA[transport]]></category>
+		<guid isPermaLink="false">https://tongwynlais.com/?p=18055</guid>
+
+					<description><![CDATA[I picked up this booklet at a postcard fair a few years ago as it looked quite interesting. I don&#8217;t have a particular interest in transport history but I found the story of &#8220;electric traction&#8221; in Cardiff fascinating. May 2022 marks 120 years since the first electric tramcar was driven by the Mayor from the ... <a title="120 Years of Electric Transport in Cardiff" class="read-more" href="https://tongwynlais.com/2022/05/19/120-years-of-electric-transport-in-cardiff/" aria-label="More on 120 Years of Electric Transport in Cardiff">more...</a>]]></description>
+		
+					<wfw:commentRss>https://tongwynlais.com/2022/05/19/120-years-of-electric-transport-in-cardiff/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">18055</post-id>	</item>
+		<item>
 		<title>Rebuilding the Tollhouse</title>
 		<link>https://tongwynlais.com/2022/04/27/rebuilding-the-tollhouse/</link>
 					<comments>https://tongwynlais.com/2022/04/27/rebuilding-the-tollhouse/#respond</comments>
@@ -44,7 +64,7 @@
 		<category><![CDATA[tongwynlais historical society]]></category>
 		<guid isPermaLink="false">https://tongwynlais.com/?p=18027</guid>
 
-					<description><![CDATA[This is a guest post by Sarah Barnes, co-founder of the Tongwynlais Historical Society. The Tongwynlais Historical Society was formed in March 2020 with my fellow co-founder Rob Wiseman. The initial aim was to create a self-guided audio trail along the historic sites in the village from the Ironbridge, through the village to Castell Coch and ... <a title="Rebuilding the Tollhouse" class="read-more" href="https://tongwynlais.com/2022/04/27/rebuilding-the-tollhouse/" aria-label="More on Rebuilding the Tollhouse">more...</a>]]></description>
+					<description><![CDATA[The Tongwynlais Historical Society was formed in March 2020 with my fellow co-founder Rob Wiseman. The initial aim was to create a self-guided audio trail along the historic sites in the village from the Ironbridge, through the village to Castell Coch and loop back passed Ivy Cottage and back to the Ironbridge. We wanted to research interesting historical snippets from different aspects of the life and times of the people who once lived in the village. From the long forgotten railway station, the vineyard, the mill, lime quarry, local shops etc. with an aim to bring local history back to life for visitors and residents alike.]]></description>
 		
 					<wfw:commentRss>https://tongwynlais.com/2022/04/27/rebuilding-the-tollhouse/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -219,26 +239,5 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">17491</post-id>	</item>
-		<item>
-		<title>Postcards from Tongwynlais – Part 14</title>
-		<link>https://tongwynlais.com/2021/07/25/postcards-from-tongwynlais-part-14/</link>
-					<comments>https://tongwynlais.com/2021/07/25/postcards-from-tongwynlais-part-14/#comments</comments>
-		
-		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
-		<pubDate>Sun, 25 Jul 2021 08:53:40 +0000</pubDate>
-				<category><![CDATA[History]]></category>
-		<category><![CDATA[castell coch]]></category>
-		<category><![CDATA[dh]]></category>
-		<category><![CDATA[local history]]></category>
-		<category><![CDATA[postcard]]></category>
-		<guid isPermaLink="false">https://tongwynlais.com/?p=17419</guid>
-
-					<description><![CDATA[Have you been longing for another instalment of &#8220;Postcards from Tongwynlais&#8220;? If you have, you&#8217;ll be delighted with this fantastic photo of the village that features a rare glimpse of the old school building. I&#8217;ve cleaned up the image to remove some blemishes but it&#8217;s a remarkably good photo of the village. It&#8217;s such a ... <a title="Postcards from Tongwynlais – Part 14" class="read-more" href="https://tongwynlais.com/2021/07/25/postcards-from-tongwynlais-part-14/" aria-label="More on Postcards from Tongwynlais – Part 14">more...</a>]]></description>
-		
-					<wfw:commentRss>https://tongwynlais.com/2021/07/25/postcards-from-tongwynlais-part-14/feed/</wfw:commentRss>
-			<slash:comments>2</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">17419</post-id>	</item>
 	</channel>
 </rss>
