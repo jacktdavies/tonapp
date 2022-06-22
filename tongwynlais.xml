@@ -15,13 +15,13 @@
 	<atom:link href="https://tongwynlais.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://tongwynlais.com</link>
 	<description></description>
-	<lastBuildDate>Thu, 19 May 2022 19:53:30 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 22 Jun 2022 18:26:02 +0000</lastBuildDate>
 	<language>en-GB</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.9.3</generator>
+	<generator>https://wordpress.org/?v=6.0</generator>
 
 <image>
 	<url>https://tongwynlais.com/wp-content/uploads/2015/10/cropped-LogoGridTransparentBackground512x512-32x32.png</url>
@@ -31,9 +31,28 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">37574071</site>	<item>
+		<title>Tongwynlais Village Then and Now – Part 4</title>
+		<link>https://tongwynlais.com/2022/06/22/tongwynlais-village-then-and-now-part-4/</link>
+					<comments>https://tongwynlais.com/2022/06/22/tongwynlais-village-then-and-now-part-4/#respond</comments>
+		
+		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
+		<pubDate>Wed, 22 Jun 2022 18:26:02 +0000</pubDate>
+				<category><![CDATA[History]]></category>
+		<category><![CDATA[dh]]></category>
+		<category><![CDATA[then and now]]></category>
+		<guid isPermaLink="false">https://tongwynlais.com/?p=12683</guid>
+
+					<description><![CDATA[Welcome back to this series where I compare old photos of Tongwynlais with a modern view. Thanks to Carol Spackman for letting me use this lovely view of children playing in Pantgwynlais. You can explore lots more on the history page. Do you have any old photos that we could share on the site? Maybe ... <a title="Tongwynlais Village Then and Now – Part 4" class="read-more" href="https://tongwynlais.com/2022/06/22/tongwynlais-village-then-and-now-part-4/" aria-label="More on Tongwynlais Village Then and Now – Part 4">more...</a>]]></description>
+		
+					<wfw:commentRss>https://tongwynlais.com/2022/06/22/tongwynlais-village-then-and-now-part-4/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">12683</post-id>	</item>
+		<item>
 		<title>120 Years of Electric Transport in Cardiff</title>
 		<link>https://tongwynlais.com/2022/05/19/120-years-of-electric-transport-in-cardiff/</link>
-					<comments>https://tongwynlais.com/2022/05/19/120-years-of-electric-transport-in-cardiff/#respond</comments>
+					<comments>https://tongwynlais.com/2022/05/19/120-years-of-electric-transport-in-cardiff/#comments</comments>
 		
 		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
 		<pubDate>Thu, 19 May 2022 19:53:30 +0000</pubDate>
@@ -46,7 +65,7 @@
 					<description><![CDATA[I picked up this booklet at a postcard fair a few years ago as it looked quite interesting. I don&#8217;t have a particular interest in transport history but I found the story of &#8220;electric traction&#8221; in Cardiff fascinating. May 2022 marks 120 years since the first electric tramcar was driven by the Mayor from the ... <a title="120 Years of Electric Transport in Cardiff" class="read-more" href="https://tongwynlais.com/2022/05/19/120-years-of-electric-transport-in-cardiff/" aria-label="More on 120 Years of Electric Transport in Cardiff">more...</a>]]></description>
 		
 					<wfw:commentRss>https://tongwynlais.com/2022/05/19/120-years-of-electric-transport-in-cardiff/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
+			<slash:comments>1</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">18055</post-id>	</item>
@@ -218,26 +237,5 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">17525</post-id>	</item>
-		<item>
-		<title>Memories of Bridge House</title>
-		<link>https://tongwynlais.com/2021/08/31/memories-of-bridge-house/</link>
-					<comments>https://tongwynlais.com/2021/08/31/memories-of-bridge-house/#respond</comments>
-		
-		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
-		<pubDate>Tue, 31 Aug 2021 12:40:06 +0000</pubDate>
-				<category><![CDATA[History]]></category>
-		<category><![CDATA[210831]]></category>
-		<category><![CDATA[dh]]></category>
-		<category><![CDATA[maps]]></category>
-		<category><![CDATA[merthyr road]]></category>
-		<guid isPermaLink="false">https://tongwynlais.com/?p=17491</guid>
-
-					<description><![CDATA[Several houses on the north-west end of Merthyr Road were demolished in 1968 for the construction of the A470. A reader has very kindly sent me a photo of one of these houses and some information about their history. There were six terraced houses on the other side of Birth Hill, shown in the image ... <a title="Memories of Bridge House" class="read-more" href="https://tongwynlais.com/2021/08/31/memories-of-bridge-house/" aria-label="More on Memories of Bridge House">more...</a>]]></description>
-		
-					<wfw:commentRss>https://tongwynlais.com/2021/08/31/memories-of-bridge-house/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">17491</post-id>	</item>
 	</channel>
 </rss>
