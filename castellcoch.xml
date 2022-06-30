@@ -15,13 +15,13 @@
 	<atom:link href="https://castellcoch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://castellcoch.com</link>
 	<description></description>
-	<lastBuildDate>Wed, 25 May 2022 07:56:28 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 30 Jun 2022 09:14:54 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.9.3</generator>
+	<generator>https://wordpress.org/?v=6.0</generator>
 
 <image>
 	<url>https://castellcoch.com/wp-content/uploads/2020/10/cropped-Site-icon-32x32.jpg</url>
@@ -31,9 +31,33 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">184115289</site>	<item>
+		<title>Cyfrinach Castell Coch</title>
+		<link>https://castellcoch.com/2022/06/30/cyfrinach-castell-coch/</link>
+					<comments>https://castellcoch.com/2022/06/30/cyfrinach-castell-coch/#respond</comments>
+		
+		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
+		<pubDate>Thu, 30 Jun 2022 09:12:09 +0000</pubDate>
+				<category><![CDATA[Art]]></category>
+		<category><![CDATA[book]]></category>
+		<category><![CDATA[castell coch]]></category>
+		<category><![CDATA[catrin dafydd]]></category>
+		<category><![CDATA[illustration]]></category>
+		<category><![CDATA[james field]]></category>
+		<guid isPermaLink="false">https://castellcoch.com/?p=3466</guid>
+
+					<description><![CDATA[Cyfrinach Castell Coch is a children’s book written by Catrin Dafydd and illustrated by James Field.
+
+“There is an old secret behind the walls of Castell Coch, and Chloe and Sam are under great pressure to ensure that the castle is not destroyed.”]]></description>
+		
+					<wfw:commentRss>https://castellcoch.com/2022/06/30/cyfrinach-castell-coch/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3466</post-id>	</item>
+		<item>
 		<title>Castell Coch in Country Life &#8211; Part 1</title>
 		<link>https://castellcoch.com/2022/05/25/castell-coch-in-country-life-part-1/</link>
-					<comments>https://castellcoch.com/2022/05/25/castell-coch-in-country-life-part-1/#respond</comments>
+					<comments>https://castellcoch.com/2022/05/25/castell-coch-in-country-life-part-1/#comments</comments>
 		
 		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
 		<pubDate>Wed, 25 May 2022 07:56:13 +0000</pubDate>
@@ -47,7 +71,7 @@
 					<description><![CDATA[Castell Coch was featured in Country Life magazine 60 years ago this month. Architectural writer Mark Girouard took readers on a tour of the famous Welsh landmark over two issues beginning on 10th May 1962. The magazine was founded in 1897 and celebrated its 125th anniversary earlier this month. Girouard went on to become an ... <p class="read-more-container"><a title="Castell Coch in Country Life &#8211; Part 1" class="read-more button" href="https://castellcoch.com/2022/05/25/castell-coch-in-country-life-part-1/#more-3283" aria-label="More on Castell Coch in Country Life &#8211; Part 1">Read more</a></p>]]></description>
 		
 					<wfw:commentRss>https://castellcoch.com/2022/05/25/castell-coch-in-country-life-part-1/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
+			<slash:comments>1</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">3283</post-id>	</item>
@@ -194,23 +218,5 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">2484</post-id>	</item>
-		<item>
-		<title>William Burges&#8217; Plans for the Reconstruction of Castell Coch</title>
-		<link>https://castellcoch.com/2021/08/25/william-burges-plans-for-the-reconstruction-of-castell-coch/</link>
-		
-		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
-		<pubDate>Wed, 25 Aug 2021 10:46:27 +0000</pubDate>
-				<category><![CDATA[History]]></category>
-		<category><![CDATA[1874]]></category>
-		<category><![CDATA[Journal]]></category>
-		<category><![CDATA[The Architect]]></category>
-		<category><![CDATA[William Burges]]></category>
-		<guid isPermaLink="false">https://castellcoch.com/?p=2400</guid>
-
-					<description><![CDATA[It&#8217;s 150 years this month since Lord Bute instructed John McConnochie to excavate the site at Castell Coch. The results were investigated by William Burges, who was able to build on G. T. Clark&#8217;s 1850 report and present Bute with the option of either restoration or reconstruction. Burges submitted the &#8220;Castell Coch Report&#8221; to the ... <p class="read-more-container"><a title="William Burges&#8217; Plans for the Reconstruction of Castell Coch" class="read-more button" href="https://castellcoch.com/2021/08/25/william-burges-plans-for-the-reconstruction-of-castell-coch/#more-2400" aria-label="More on William Burges&#8217; Plans for the Reconstruction of Castell Coch">Read more</a></p>]]></description>
-		
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">2400</post-id>	</item>
 	</channel>
 </rss>
