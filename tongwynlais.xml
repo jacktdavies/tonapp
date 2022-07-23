@@ -15,13 +15,13 @@
 	<atom:link href="https://tongwynlais.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://tongwynlais.com</link>
 	<description></description>
-	<lastBuildDate>Wed, 22 Jun 2022 18:26:02 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 23 Jul 2022 08:59:35 +0000</lastBuildDate>
 	<language>en-GB</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0</generator>
+	
 
 <image>
 	<url>https://tongwynlais.com/wp-content/uploads/2015/10/cropped-LogoGridTransparentBackground512x512-32x32.png</url>
@@ -31,6 +31,27 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">37574071</site>	<item>
+		<title>1969 Tongwynlais Investiture Celebrations</title>
+		<link>https://tongwynlais.com/2022/07/23/1969-tongwynlais-investiture-celebrations/</link>
+					<comments>https://tongwynlais.com/2022/07/23/1969-tongwynlais-investiture-celebrations/#respond</comments>
+		
+		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
+		<pubDate>Sat, 23 Jul 2022 08:59:35 +0000</pubDate>
+				<category><![CDATA[History]]></category>
+		<category><![CDATA[1969]]></category>
+		<category><![CDATA[dh]]></category>
+		<category><![CDATA[prince of wales]]></category>
+		<category><![CDATA[souvenir programme]]></category>
+		<guid isPermaLink="false">https://tongwynlais.com/?p=18159</guid>
+
+					<description><![CDATA[Tongwynlais celebrated the investiture of Prince Charles as the Prince of Wales in 1969 with a week of events. This souvenir programme was produced to advertise the events and provide entry to the fete. Advertisers The most fascinating part of the programme are the businesses who advertised in it. L. J. &#38; C. Bennett Bennett&#8217;s ... <a title="1969 Tongwynlais Investiture Celebrations" class="read-more" href="https://tongwynlais.com/2022/07/23/1969-tongwynlais-investiture-celebrations/" aria-label="More on 1969 Tongwynlais Investiture Celebrations">more...</a>]]></description>
+		
+					<wfw:commentRss>https://tongwynlais.com/2022/07/23/1969-tongwynlais-investiture-celebrations/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">18159</post-id>	</item>
+		<item>
 		<title>Tongwynlais Village Then and Now – Part 4</title>
 		<link>https://tongwynlais.com/2022/06/22/tongwynlais-village-then-and-now-part-4/</link>
 					<comments>https://tongwynlais.com/2022/06/22/tongwynlais-village-then-and-now-part-4/#respond</comments>
@@ -217,25 +238,5 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">17590</post-id>	</item>
-		<item>
-		<title>Fforest Ganol and Cwm Nofydd</title>
-		<link>https://tongwynlais.com/2021/09/27/fforest-ganol-and-cwm-nofydd/</link>
-					<comments>https://tongwynlais.com/2021/09/27/fforest-ganol-and-cwm-nofydd/#respond</comments>
-		
-		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
-		<pubDate>Mon, 27 Sep 2021 13:27:24 +0000</pubDate>
-				<category><![CDATA[Outdoors]]></category>
-		<category><![CDATA[cwm nofydd]]></category>
-		<category><![CDATA[dh]]></category>
-		<category><![CDATA[fforest ganol]]></category>
-		<guid isPermaLink="false">https://tongwynlais.com/?p=17525</guid>
-
-					<description><![CDATA[Fforest Ganol and Cwm Nofydd A Local Nature Reserve I pass the information board in Fforest Ganol regularly while enjoying the woodlands. I thought it might be interesting to share the content and see what our local experts have to say. I get the feeling the board is quite old so I wonder if the ... <a title="Fforest Ganol and Cwm Nofydd" class="read-more" href="https://tongwynlais.com/2021/09/27/fforest-ganol-and-cwm-nofydd/" aria-label="More on Fforest Ganol and Cwm Nofydd">more...</a>]]></description>
-		
-					<wfw:commentRss>https://tongwynlais.com/2021/09/27/fforest-ganol-and-cwm-nofydd/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">17525</post-id>	</item>
 	</channel>
 </rss>
