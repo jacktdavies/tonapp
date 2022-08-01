@@ -15,7 +15,7 @@
 	<atom:link href="https://tongwynlais.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://tongwynlais.com</link>
 	<description></description>
-	<lastBuildDate>Sat, 23 Jul 2022 08:59:35 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 01 Aug 2022 08:38:26 +0000</lastBuildDate>
 	<language>en-GB</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,9 +31,28 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">37574071</site>	<item>
+		<title>Ten Years On: Looking Back</title>
+		<link>https://tongwynlais.com/2022/08/01/ten-years-on-looking-back/</link>
+					<comments>https://tongwynlais.com/2022/08/01/ten-years-on-looking-back/#respond</comments>
+		
+		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
+		<pubDate>Mon, 01 Aug 2022 08:38:26 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[blog]]></category>
+		<category><![CDATA[dh]]></category>
+		<guid isPermaLink="false">https://tongwynlais.com/?p=18200</guid>
+
+					<description><![CDATA[Today marks a decade since I launched Tongwynlais.com. I didn&#8217;t intend to create a hyperlocal website, it sort of happened accidentally. I relocated to South Wales in 1996, living in various parts of Cardiff and down in Barry. Then I moved to Tongwynlais and fell in love with the village. “This site should probably have ... <a title="Ten Years On: Looking Back" class="read-more" href="https://tongwynlais.com/2022/08/01/ten-years-on-looking-back/" aria-label="More on Ten Years On: Looking Back">more...</a>]]></description>
+		
+					<wfw:commentRss>https://tongwynlais.com/2022/08/01/ten-years-on-looking-back/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">18200</post-id>	</item>
+		<item>
 		<title>1969 Tongwynlais Investiture Celebrations</title>
 		<link>https://tongwynlais.com/2022/07/23/1969-tongwynlais-investiture-celebrations/</link>
-					<comments>https://tongwynlais.com/2022/07/23/1969-tongwynlais-investiture-celebrations/#respond</comments>
+					<comments>https://tongwynlais.com/2022/07/23/1969-tongwynlais-investiture-celebrations/#comments</comments>
 		
 		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
 		<pubDate>Sat, 23 Jul 2022 08:59:35 +0000</pubDate>
@@ -47,7 +66,7 @@
 					<description><![CDATA[Tongwynlais celebrated the investiture of Prince Charles as the Prince of Wales in 1969 with a week of events. This souvenir programme was produced to advertise the events and provide entry to the fete. Advertisers The most fascinating part of the programme are the businesses who advertised in it. L. J. &#38; C. Bennett Bennett&#8217;s ... <a title="1969 Tongwynlais Investiture Celebrations" class="read-more" href="https://tongwynlais.com/2022/07/23/1969-tongwynlais-investiture-celebrations/" aria-label="More on 1969 Tongwynlais Investiture Celebrations">more...</a>]]></description>
 		
 					<wfw:commentRss>https://tongwynlais.com/2022/07/23/1969-tongwynlais-investiture-celebrations/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
+			<slash:comments>1</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">18159</post-id>	</item>
@@ -216,27 +235,5 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">17659</post-id>	</item>
-		<item>
-		<title>Cardiff Trails &#8211; Part 1</title>
-		<link>https://tongwynlais.com/2021/10/23/cardiff-trails-part-1/</link>
-					<comments>https://tongwynlais.com/2021/10/23/cardiff-trails-part-1/#respond</comments>
-		
-		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
-		<pubDate>Sat, 23 Oct 2021 10:22:08 +0000</pubDate>
-				<category><![CDATA[Adventures]]></category>
-		<category><![CDATA[cardiff trails]]></category>
-		<category><![CDATA[dh]]></category>
-		<category><![CDATA[outdoors]]></category>
-		<category><![CDATA[running]]></category>
-		<category><![CDATA[trail running]]></category>
-		<guid isPermaLink="false">https://tongwynlais.com/?p=17590</guid>
-
-					<description><![CDATA[I&#8217;ve started posting photos from my runs to show the amazing views you can experience in and around Tongwynlais. These routes can also be enjoyed in walking boots rather than trail shoes. I regularly take my camera equipment out on a long walk. I&#8217;ve included some links at the end of this article to help ... <a title="Cardiff Trails &#8211; Part 1" class="read-more" href="https://tongwynlais.com/2021/10/23/cardiff-trails-part-1/" aria-label="More on Cardiff Trails &#8211; Part 1">more...</a>]]></description>
-		
-					<wfw:commentRss>https://tongwynlais.com/2021/10/23/cardiff-trails-part-1/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">17590</post-id>	</item>
 	</channel>
 </rss>
