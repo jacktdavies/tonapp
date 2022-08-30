@@ -15,7 +15,7 @@
 	<atom:link href="https://tongwynlais.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://tongwynlais.com</link>
 	<description></description>
-	<lastBuildDate>Mon, 01 Aug 2022 08:38:26 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 30 Aug 2022 12:52:01 +0000</lastBuildDate>
 	<language>en-GB</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,6 +31,30 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">37574071</site>	<item>
+		<title>Pixel Art Tongwynlais &#8211; Part 2</title>
+		<link>https://tongwynlais.com/2022/08/30/pixel-art-tongwynlais-part-2/</link>
+					<comments>https://tongwynlais.com/2022/08/30/pixel-art-tongwynlais-part-2/#respond</comments>
+		
+		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
+		<pubDate>Tue, 30 Aug 2022 12:52:01 +0000</pubDate>
+				<category><![CDATA[Art]]></category>
+		<category><![CDATA[dh]]></category>
+		<category><![CDATA[greenmeadow house]]></category>
+		<category><![CDATA[illustration]]></category>
+		<category><![CDATA[ivy house farm]]></category>
+		<category><![CDATA[loch field cottage]]></category>
+		<category><![CDATA[pixel art]]></category>
+		<category><![CDATA[the old ton]]></category>
+		<guid isPermaLink="false">https://tongwynlais.com/?p=18268</guid>
+
+					<description><![CDATA[Pixel art describes a technique for creating digital illustrations at the individual pixel level. This type of art was the result of low resolution displays in early videogame systems. Today, our phone and computer displays have millions of pixels. Despite this, the art form is very popular and the “retro” videogame look is used in ... <a title="Pixel Art Tongwynlais &#8211; Part 2" class="read-more" href="https://tongwynlais.com/2022/08/30/pixel-art-tongwynlais-part-2/" aria-label="More on Pixel Art Tongwynlais &#8211; Part 2">more...</a>]]></description>
+		
+					<wfw:commentRss>https://tongwynlais.com/2022/08/30/pixel-art-tongwynlais-part-2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">18268</post-id>	</item>
+		<item>
 		<title>Ten Years On: Looking Back</title>
 		<link>https://tongwynlais.com/2022/08/01/ten-years-on-looking-back/</link>
 					<comments>https://tongwynlais.com/2022/08/01/ten-years-on-looking-back/#respond</comments>
@@ -214,26 +238,5 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">17727</post-id>	</item>
-		<item>
-		<title>Tongwynlais Railway Station &#8211; Part 1</title>
-		<link>https://tongwynlais.com/2021/11/28/tongwynlais-railway-station-part-1/</link>
-					<comments>https://tongwynlais.com/2021/11/28/tongwynlais-railway-station-part-1/#comments</comments>
-		
-		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
-		<pubDate>Sun, 28 Nov 2021 15:32:22 +0000</pubDate>
-				<category><![CDATA[History]]></category>
-		<category><![CDATA[211128]]></category>
-		<category><![CDATA[cardiff railway]]></category>
-		<category><![CDATA[dh]]></category>
-		<category><![CDATA[tongwynlais station]]></category>
-		<guid isPermaLink="false">https://tongwynlais.com/?p=17659</guid>
-
-					<description><![CDATA[Tongwynlais railway station was opened in March 1911 but only operated for 20 years. It was closed in July 1931 and converted into a private house. Mrs Hagget and her son Graham lived there until its demolition in 1969. There are several photos of the station in various local history books. Most of these are ... <a title="Tongwynlais Railway Station &#8211; Part 1" class="read-more" href="https://tongwynlais.com/2021/11/28/tongwynlais-railway-station-part-1/" aria-label="More on Tongwynlais Railway Station &#8211; Part 1">more...</a>]]></description>
-		
-					<wfw:commentRss>https://tongwynlais.com/2021/11/28/tongwynlais-railway-station-part-1/feed/</wfw:commentRss>
-			<slash:comments>2</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">17659</post-id>	</item>
 	</channel>
 </rss>
