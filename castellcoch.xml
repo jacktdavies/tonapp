@@ -15,7 +15,7 @@
 	<atom:link href="https://castellcoch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://castellcoch.com</link>
 	<description></description>
-	<lastBuildDate>Sun, 17 Jul 2022 09:39:54 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 31 Aug 2022 09:52:17 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,9 +31,27 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">184115289</site>	<item>
+		<title>Postcards of Castell Coch – Part 5</title>
+		<link>https://castellcoch.com/2022/08/31/postcards-of-castell-coch-part-5/</link>
+					<comments>https://castellcoch.com/2022/08/31/postcards-of-castell-coch-part-5/#respond</comments>
+		
+		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
+		<pubDate>Wed, 31 Aug 2022 09:52:17 +0000</pubDate>
+				<category><![CDATA[History]]></category>
+		<category><![CDATA[deltiology]]></category>
+		<category><![CDATA[postcard]]></category>
+		<guid isPermaLink="false">https://castellcoch.com/?p=3666</guid>
+
+					<description><![CDATA[I have several postcards that use the same image so I thought I would research an interesting series of cards posted between 1905 and 1910. All three postcards were produced by Blum &#38; Degen, who produced millions of cards between 1895 and 1908. The first two postcards are later versions of the first &#8220;divided backs&#8221;, ... <p class="read-more-container"><a title="Postcards of Castell Coch – Part 5" class="read-more button" href="https://castellcoch.com/2022/08/31/postcards-of-castell-coch-part-5/#more-3666" aria-label="More on Postcards of Castell Coch – Part 5">Read more</a></p>]]></description>
+		
+					<wfw:commentRss>https://castellcoch.com/2022/08/31/postcards-of-castell-coch-part-5/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3666</post-id>	</item>
+		<item>
 		<title>Patterns of Castell Coch – Part 2</title>
 		<link>https://castellcoch.com/2022/07/17/patterns-of-castell-coch-part-2/</link>
-					<comments>https://castellcoch.com/2022/07/17/patterns-of-castell-coch-part-2/#respond</comments>
 		
 		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
 		<pubDate>Sun, 17 Jul 2022 09:39:54 +0000</pubDate>
@@ -45,8 +63,6 @@
 
 					<description><![CDATA[Castell Coch is famous for its spectacular interiors. I’ve decided to illustrate the stencils, murals and patterns that decorate Cardiff’s iconic Gothic Revival landmark. This tile can be found in the fireplace of the drawing room. This pattern is from the Castell Coch exhibit, which was designed by Glyn Parry-Jones. The exhibit was created in ... <p class="read-more-container"><a title="Patterns of Castell Coch – Part 2" class="read-more button" href="https://castellcoch.com/2022/07/17/patterns-of-castell-coch-part-2/#more-3635" aria-label="More on Patterns of Castell Coch – Part 2">Read more</a></p>]]></description>
 		
-					<wfw:commentRss>https://castellcoch.com/2022/07/17/patterns-of-castell-coch-part-2/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">3635</post-id>	</item>
@@ -202,21 +218,5 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">2511</post-id>	</item>
-		<item>
-		<title>The Ghosts of Castell Coch &#8211; Part 2</title>
-		<link>https://castellcoch.com/2021/10/29/the-ghosts-of-castell-coch-part-2/</link>
-		
-		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
-		<pubDate>Fri, 29 Oct 2021 12:55:57 +0000</pubDate>
-				<category><![CDATA[History]]></category>
-		<category><![CDATA[halloween]]></category>
-		<category><![CDATA[story]]></category>
-		<guid isPermaLink="false">https://castellcoch.com/?p=2539</guid>
-
-					<description><![CDATA[This tale of ghostly apparitions was first told by Cardiff chemist Robert Drane in 1858. The story was embellished and retold by Mr and Mrs Hall in their 1861 guide, &#8220;The Book Of South Wales The Wye And The Coast&#8220;. The Castell Coch Cavalier Many years ago, a lady of good family, but small income ... <p class="read-more-container"><a title="The Ghosts of Castell Coch &#8211; Part 2" class="read-more button" href="https://castellcoch.com/2021/10/29/the-ghosts-of-castell-coch-part-2/#more-2539" aria-label="More on The Ghosts of Castell Coch &#8211; Part 2">Read more</a></p>]]></description>
-		
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">2539</post-id>	</item>
 	</channel>
 </rss>
