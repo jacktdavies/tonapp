@@ -15,7 +15,7 @@
 	<atom:link href="https://tongwynlais.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://tongwynlais.com</link>
 	<description></description>
-	<lastBuildDate>Tue, 30 Aug 2022 12:52:01 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 22 Sep 2022 08:36:34 +0000</lastBuildDate>
 	<language>en-GB</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,9 +31,28 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">37574071</site>	<item>
+		<title>The Iron Bridge by Val Bowden</title>
+		<link>https://tongwynlais.com/2022/09/22/the-iron-bridge-by-val-bowden/</link>
+					<comments>https://tongwynlais.com/2022/09/22/the-iron-bridge-by-val-bowden/#respond</comments>
+		
+		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
+		<pubDate>Thu, 22 Sep 2022 08:36:33 +0000</pubDate>
+				<category><![CDATA[Art]]></category>
+		<category><![CDATA[dh]]></category>
+		<category><![CDATA[poetry]]></category>
+		<guid isPermaLink="false">https://tongwynlais.com/?p=18364</guid>
+
+					<description><![CDATA[Val Bowden is a teacher, pianist and poet. She was born in Tongwynlais and lived in the village until 1970. Val has written about her life in the village and been a fantastic source of information about life in the Ton. She has been writing poetry for over 30 years and published “Wading through Deep ... <a title="The Iron Bridge by Val Bowden" class="read-more" href="https://tongwynlais.com/2022/09/22/the-iron-bridge-by-val-bowden/" aria-label="More on The Iron Bridge by Val Bowden">more...</a>]]></description>
+		
+					<wfw:commentRss>https://tongwynlais.com/2022/09/22/the-iron-bridge-by-val-bowden/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">18364</post-id>	</item>
+		<item>
 		<title>Pixel Art Tongwynlais &#8211; Part 2</title>
 		<link>https://tongwynlais.com/2022/08/30/pixel-art-tongwynlais-part-2/</link>
-					<comments>https://tongwynlais.com/2022/08/30/pixel-art-tongwynlais-part-2/#respond</comments>
+					<comments>https://tongwynlais.com/2022/08/30/pixel-art-tongwynlais-part-2/#comments</comments>
 		
 		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
 		<pubDate>Tue, 30 Aug 2022 12:52:01 +0000</pubDate>
@@ -50,14 +69,14 @@
 					<description><![CDATA[Pixel art describes a technique for creating digital illustrations at the individual pixel level. This type of art was the result of low resolution displays in early videogame systems. Today, our phone and computer displays have millions of pixels. Despite this, the art form is very popular and the “retro” videogame look is used in ... <a title="Pixel Art Tongwynlais &#8211; Part 2" class="read-more" href="https://tongwynlais.com/2022/08/30/pixel-art-tongwynlais-part-2/" aria-label="More on Pixel Art Tongwynlais &#8211; Part 2">more...</a>]]></description>
 		
 					<wfw:commentRss>https://tongwynlais.com/2022/08/30/pixel-art-tongwynlais-part-2/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
+			<slash:comments>1</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">18268</post-id>	</item>
 		<item>
 		<title>Ten Years On: Looking Back</title>
 		<link>https://tongwynlais.com/2022/08/01/ten-years-on-looking-back/</link>
-					<comments>https://tongwynlais.com/2022/08/01/ten-years-on-looking-back/#respond</comments>
+					<comments>https://tongwynlais.com/2022/08/01/ten-years-on-looking-back/#comments</comments>
 		
 		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
 		<pubDate>Mon, 01 Aug 2022 08:38:26 +0000</pubDate>
@@ -69,7 +88,7 @@
 					<description><![CDATA[Today marks a decade since I launched Tongwynlais.com. I didn&#8217;t intend to create a hyperlocal website, it sort of happened accidentally. I relocated to South Wales in 1996, living in various parts of Cardiff and down in Barry. Then I moved to Tongwynlais and fell in love with the village. “This site should probably have ... <a title="Ten Years On: Looking Back" class="read-more" href="https://tongwynlais.com/2022/08/01/ten-years-on-looking-back/" aria-label="More on Ten Years On: Looking Back">more...</a>]]></description>
 		
 					<wfw:commentRss>https://tongwynlais.com/2022/08/01/ten-years-on-looking-back/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
+			<slash:comments>1</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">18200</post-id>	</item>
@@ -218,25 +237,5 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">17771</post-id>	</item>
-		<item>
-		<title>Postcards from Tongwynlais – Part 15</title>
-		<link>https://tongwynlais.com/2021/12/22/postcards-from-tongwynlais-part-15/</link>
-					<comments>https://tongwynlais.com/2021/12/22/postcards-from-tongwynlais-part-15/#respond</comments>
-		
-		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
-		<pubDate>Wed, 22 Dec 2021 10:01:57 +0000</pubDate>
-				<category><![CDATA[History]]></category>
-		<category><![CDATA[dh]]></category>
-		<category><![CDATA[local history]]></category>
-		<category><![CDATA[postcard]]></category>
-		<guid isPermaLink="false">https://tongwynlais.com/?p=17727</guid>
-
-					<description><![CDATA[I have another fantastic image of Tongwynlais looking across the River Taff from Pentyrch. In the foreground are buildings from the Pentyrch Steel and Tin Plate Works. The bridge across the River Taff is Ynys Bridge, which was built in 1808 and is Grade II listed. Ynys House, in the centre above the bridge, is ... <a title="Postcards from Tongwynlais – Part 15" class="read-more" href="https://tongwynlais.com/2021/12/22/postcards-from-tongwynlais-part-15/" aria-label="More on Postcards from Tongwynlais – Part 15">more...</a>]]></description>
-		
-					<wfw:commentRss>https://tongwynlais.com/2021/12/22/postcards-from-tongwynlais-part-15/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">17727</post-id>	</item>
 	</channel>
 </rss>
