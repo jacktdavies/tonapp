@@ -15,7 +15,7 @@
 	<atom:link href="https://castellcoch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://castellcoch.com</link>
 	<description></description>
-	<lastBuildDate>Wed, 28 Sep 2022 09:46:57 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 22 Oct 2022 12:41:55 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,9 +31,27 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">184115289</site>	<item>
+		<title>Illustrations of Castell Coch by Sue Shields</title>
+		<link>https://castellcoch.com/2022/10/22/illustrations-of-castell-coch-by-sue-shields/</link>
+					<comments>https://castellcoch.com/2022/10/22/illustrations-of-castell-coch-by-sue-shields/#respond</comments>
+		
+		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
+		<pubDate>Sat, 22 Oct 2022 12:41:54 +0000</pubDate>
+				<category><![CDATA[Art]]></category>
+		<category><![CDATA[cadw]]></category>
+		<category><![CDATA[illustration]]></category>
+		<guid isPermaLink="false">https://castellcoch.com/?p=3700</guid>
+
+					<description><![CDATA[Cardiff illustrator Sue Shields produced a series of illustrations that were featured on Cadw gifts in the late 1980s and early 1990s. I purchased a beautiful plate recently and got in touch with Sue to find out how she got involved in this project. Tea Towel Sue sent me this image of a tea towel ... <p class="read-more-container"><a title="Illustrations of Castell Coch by Sue Shields" class="read-more button" href="https://castellcoch.com/2022/10/22/illustrations-of-castell-coch-by-sue-shields/#more-3700" aria-label="More on Illustrations of Castell Coch by Sue Shields">Read more</a></p>]]></description>
+		
+					<wfw:commentRss>https://castellcoch.com/2022/10/22/illustrations-of-castell-coch-by-sue-shields/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3700</post-id>	</item>
+		<item>
 		<title>Castell Coch by Terence Soames</title>
 		<link>https://castellcoch.com/2022/09/28/castell-coch-by-terence-soames/</link>
-					<comments>https://castellcoch.com/2022/09/28/castell-coch-by-terence-soames/#respond</comments>
 		
 		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
 		<pubDate>Wed, 28 Sep 2022 09:46:56 +0000</pubDate>
@@ -45,8 +63,6 @@
 
 					<description><![CDATA[I shared some aerial photos of the Taff Valley by Terence Soames earlier in the year. One of the photos was this spectacular shot of the Walnut Tree Viaduct and Castell Coch, which was taken in 1957. Terence Soames was an aerial photographer and worked for H. Tempest (Cardiff) Ltd in the 1950s. The main ... <p class="read-more-container"><a title="Castell Coch by Terence Soames" class="read-more button" href="https://castellcoch.com/2022/09/28/castell-coch-by-terence-soames/#more-3686" aria-label="More on Castell Coch by Terence Soames">Read more</a></p>]]></description>
 		
-					<wfw:commentRss>https://castellcoch.com/2022/09/28/castell-coch-by-terence-soames/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">3686</post-id>	</item>
@@ -201,23 +217,5 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">2903</post-id>	</item>
-		<item>
-		<title>Castell Coch by J M Staniforth</title>
-		<link>https://castellcoch.com/2021/12/29/castell-coch-by-j-m-staniforth/</link>
-		
-		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
-		<pubDate>Wed, 29 Dec 2021 18:52:36 +0000</pubDate>
-				<category><![CDATA[Art]]></category>
-		<category><![CDATA[1800s]]></category>
-		<category><![CDATA[history]]></category>
-		<category><![CDATA[illustration]]></category>
-		<category><![CDATA[staniforth]]></category>
-		<guid isPermaLink="false">https://castellcoch.com/?p=2785</guid>
-
-					<description><![CDATA[Two of the favourite items in my collection are these illustrations of Castell Coch by Joseph Staniforth. They were printed in a supplement to &#8220;The Builders Journal and Architectural Record&#8221; on Wednesday, December 21 1898. Joseph Morewood Staniforth is known for his Welsh editorial cartoons. They were published in several newspapers including the News of ... <p class="read-more-container"><a title="Castell Coch by J M Staniforth" class="read-more button" href="https://castellcoch.com/2021/12/29/castell-coch-by-j-m-staniforth/#more-2785" aria-label="More on Castell Coch by J M Staniforth">Read more</a></p>]]></description>
-		
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">2785</post-id>	</item>
 	</channel>
 </rss>
