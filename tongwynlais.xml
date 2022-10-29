@@ -15,7 +15,7 @@
 	<atom:link href="https://tongwynlais.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://tongwynlais.com</link>
 	<description></description>
-	<lastBuildDate>Thu, 22 Sep 2022 08:36:34 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 29 Oct 2022 12:50:04 +0000</lastBuildDate>
 	<language>en-GB</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,9 +31,30 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">37574071</site>	<item>
+		<title>The Lady in Grey</title>
+		<link>https://tongwynlais.com/2022/10/29/the-lady-in-grey/</link>
+					<comments>https://tongwynlais.com/2022/10/29/the-lady-in-grey/#respond</comments>
+		
+		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
+		<pubDate>Sat, 29 Oct 2022 12:50:04 +0000</pubDate>
+				<category><![CDATA[History]]></category>
+		<category><![CDATA[dh]]></category>
+		<category><![CDATA[greenmeadow house]]></category>
+		<category><![CDATA[halloween]]></category>
+		<category><![CDATA[welsh newspapers]]></category>
+		<guid isPermaLink="false">https://tongwynlais.com/?p=18390</guid>
+
+					<description><![CDATA[A MYSTERIOUS GHOST AT GREENMEADOW Mrs. Lewis Felt Its Arm Round Her Waist, and Other Members of the Family Have Seen It. BY “GWEN.” It is hard to believe that a ghost, real and genuine, would venture in these cold prosaic days to haunt an old country house within a few miles of practical go-ahead ... <a title="The Lady in Grey" class="read-more" href="https://tongwynlais.com/2022/10/29/the-lady-in-grey/" aria-label="More on The Lady in Grey">more...</a>]]></description>
+		
+					<wfw:commentRss>https://tongwynlais.com/2022/10/29/the-lady-in-grey/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">18390</post-id>	</item>
+		<item>
 		<title>The Iron Bridge by Val Bowden</title>
 		<link>https://tongwynlais.com/2022/09/22/the-iron-bridge-by-val-bowden/</link>
-					<comments>https://tongwynlais.com/2022/09/22/the-iron-bridge-by-val-bowden/#respond</comments>
+					<comments>https://tongwynlais.com/2022/09/22/the-iron-bridge-by-val-bowden/#comments</comments>
 		
 		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
 		<pubDate>Thu, 22 Sep 2022 08:36:33 +0000</pubDate>
@@ -45,7 +66,7 @@
 					<description><![CDATA[Val Bowden is a teacher, pianist and poet. She was born in Tongwynlais and lived in the village until 1970. Val has written about her life in the village and been a fantastic source of information about life in the Ton. She has been writing poetry for over 30 years and published “Wading through Deep ... <a title="The Iron Bridge by Val Bowden" class="read-more" href="https://tongwynlais.com/2022/09/22/the-iron-bridge-by-val-bowden/" aria-label="More on The Iron Bridge by Val Bowden">more...</a>]]></description>
 		
 					<wfw:commentRss>https://tongwynlais.com/2022/09/22/the-iron-bridge-by-val-bowden/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
+			<slash:comments>1</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">18364</post-id>	</item>
@@ -215,27 +236,5 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">17832</post-id>	</item>
-		<item>
-		<title>Cardiff Trails – Part 2</title>
-		<link>https://tongwynlais.com/2022/01/27/cardiff-trails-part-2/</link>
-					<comments>https://tongwynlais.com/2022/01/27/cardiff-trails-part-2/#respond</comments>
-		
-		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
-		<pubDate>Thu, 27 Jan 2022 09:12:42 +0000</pubDate>
-				<category><![CDATA[Adventures]]></category>
-		<category><![CDATA[cardiff trails]]></category>
-		<category><![CDATA[dh]]></category>
-		<category><![CDATA[outdoors]]></category>
-		<category><![CDATA[running]]></category>
-		<category><![CDATA[trail running]]></category>
-		<guid isPermaLink="false">https://tongwynlais.com/?p=17771</guid>
-
-					<description><![CDATA[I hope you&#8217;re enjoying the photos from my runs in and around Tongwynlais. These routes are from the last couple of months. I&#8217;ve been lucky to avoid injury and kept to a steady routine of trail and road runs. If you&#8217;re out and about, I&#8217;d love to see your photos. Use the #CardiffTrails hashtag or ... <a title="Cardiff Trails – Part 2" class="read-more" href="https://tongwynlais.com/2022/01/27/cardiff-trails-part-2/" aria-label="More on Cardiff Trails – Part 2">more...</a>]]></description>
-		
-					<wfw:commentRss>https://tongwynlais.com/2022/01/27/cardiff-trails-part-2/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">17771</post-id>	</item>
 	</channel>
 </rss>
