@@ -15,7 +15,7 @@
 	<atom:link href="https://castellcoch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://castellcoch.com</link>
 	<description></description>
-	<lastBuildDate>Sat, 22 Oct 2022 12:41:55 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 28 Nov 2022 20:50:28 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,9 +31,28 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">184115289</site>	<item>
+		<title>The View from the Iron Bridge &#8211; Part 1</title>
+		<link>https://castellcoch.com/2022/11/28/the-view-from-the-iron-bridge-part-1/</link>
+					<comments>https://castellcoch.com/2022/11/28/the-view-from-the-iron-bridge-part-1/#respond</comments>
+		
+		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
+		<pubDate>Mon, 28 Nov 2022 20:50:27 +0000</pubDate>
+				<category><![CDATA[Photography]]></category>
+		<category><![CDATA[fforest fawr]]></category>
+		<category><![CDATA[Iron Bridge]]></category>
+		<category><![CDATA[River Taff]]></category>
+		<guid isPermaLink="false">https://castellcoch.com/?p=3742</guid>
+
+					<description><![CDATA[Castell Coch rises from the forest and overlooks the River Taff. The sky is reflected in the water, creating a glassy surface with gentle ripples. I pass this spot regularly and have formed a habit of capturing the view whenever I can. Sometimes it&#8217;s grey and foggy so I may not take a photo. Occasionally ... <p class="read-more-container"><a title="The View from the Iron Bridge &#8211; Part 1" class="read-more button" href="https://castellcoch.com/2022/11/28/the-view-from-the-iron-bridge-part-1/#more-3742" aria-label="More on The View from the Iron Bridge &#8211; Part 1">Read more</a></p>]]></description>
+		
+					<wfw:commentRss>https://castellcoch.com/2022/11/28/the-view-from-the-iron-bridge-part-1/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3742</post-id>	</item>
+		<item>
 		<title>Illustrations of Castell Coch by Sue Shields</title>
 		<link>https://castellcoch.com/2022/10/22/illustrations-of-castell-coch-by-sue-shields/</link>
-					<comments>https://castellcoch.com/2022/10/22/illustrations-of-castell-coch-by-sue-shields/#respond</comments>
 		
 		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
 		<pubDate>Sat, 22 Oct 2022 12:41:54 +0000</pubDate>
@@ -44,8 +63,6 @@
 
 					<description><![CDATA[Cardiff illustrator Sue Shields produced a series of illustrations that were featured on Cadw gifts in the late 1980s and early 1990s. I purchased a beautiful plate recently and got in touch with Sue to find out how she got involved in this project. Tea Towel Sue sent me this image of a tea towel ... <p class="read-more-container"><a title="Illustrations of Castell Coch by Sue Shields" class="read-more button" href="https://castellcoch.com/2022/10/22/illustrations-of-castell-coch-by-sue-shields/#more-3700" aria-label="More on Illustrations of Castell Coch by Sue Shields">Read more</a></p>]]></description>
 		
-					<wfw:commentRss>https://castellcoch.com/2022/10/22/illustrations-of-castell-coch-by-sue-shields/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">3700</post-id>	</item>
@@ -201,21 +218,5 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">2947</post-id>	</item>
-		<item>
-		<title>Castell Coch &#8211; A Poem by T I Jones</title>
-		<link>https://castellcoch.com/2022/01/28/castell-coch-a-poem-by-t-i-jones/</link>
-		
-		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
-		<pubDate>Fri, 28 Jan 2022 15:10:19 +0000</pubDate>
-				<category><![CDATA[Art]]></category>
-		<category><![CDATA[magazine]]></category>
-		<category><![CDATA[poetry]]></category>
-		<guid isPermaLink="false">https://castellcoch.com/?p=2903</guid>
-
-					<description><![CDATA[The Glamorgan County Magazine published 13 issues between October 1948 and 1952. This poem by T. I. Jones appears in the first issue of Volume 2 in Autumn 1949. A photo of Castell Coch is on the cover. The title was printed by The Castle Printing Works in Water Street, Port Talbot. I couldn&#8217;t find ... <p class="read-more-container"><a title="Castell Coch &#8211; A Poem by T I Jones" class="read-more button" href="https://castellcoch.com/2022/01/28/castell-coch-a-poem-by-t-i-jones/#more-2903" aria-label="More on Castell Coch &#8211; A Poem by T I Jones">Read more</a></p>]]></description>
-		
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">2903</post-id>	</item>
 	</channel>
 </rss>
