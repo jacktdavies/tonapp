@@ -15,7 +15,7 @@
 	<atom:link href="https://castellcoch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://castellcoch.com</link>
 	<description></description>
-	<lastBuildDate>Mon, 28 Nov 2022 20:50:28 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 18 Dec 2022 10:50:03 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,9 +31,29 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">184115289</site>	<item>
+		<title>Visiting Castell Coch in 1962</title>
+		<link>https://castellcoch.com/2022/12/18/visiting-castell-coch-in-1962/</link>
+					<comments>https://castellcoch.com/2022/12/18/visiting-castell-coch-in-1962/#respond</comments>
+		
+		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
+		<pubDate>Sun, 18 Dec 2022 10:50:03 +0000</pubDate>
+				<category><![CDATA[History]]></category>
+		<category><![CDATA[1960s]]></category>
+		<category><![CDATA[1962]]></category>
+		<category><![CDATA[ministry of works]]></category>
+		<category><![CDATA[tourism]]></category>
+		<guid isPermaLink="false">https://castellcoch.com/?p=3785</guid>
+
+					<description><![CDATA[I purchased a guidebook for the Welsh Folk Museum at St Fagans from an online store as the description mentioned Castell Coch. There was no other information but I was intrigued and it wasn&#8217;t very expensive. It turned out to be this charming little pamphlet for Caerphilly Castle and Castell Coch. The guide was produced ... <p class="read-more-container"><a title="Visiting Castell Coch in 1962" class="read-more button" href="https://castellcoch.com/2022/12/18/visiting-castell-coch-in-1962/#more-3785" aria-label="More on Visiting Castell Coch in 1962">Read more</a></p>]]></description>
+		
+					<wfw:commentRss>https://castellcoch.com/2022/12/18/visiting-castell-coch-in-1962/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3785</post-id>	</item>
+		<item>
 		<title>The View from the Iron Bridge &#8211; Part 1</title>
 		<link>https://castellcoch.com/2022/11/28/the-view-from-the-iron-bridge-part-1/</link>
-					<comments>https://castellcoch.com/2022/11/28/the-view-from-the-iron-bridge-part-1/#respond</comments>
 		
 		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
 		<pubDate>Mon, 28 Nov 2022 20:50:27 +0000</pubDate>
@@ -45,8 +65,6 @@
 
 					<description><![CDATA[Castell Coch rises from the forest and overlooks the River Taff. The sky is reflected in the water, creating a glassy surface with gentle ripples. I pass this spot regularly and have formed a habit of capturing the view whenever I can. Sometimes it&#8217;s grey and foggy so I may not take a photo. Occasionally ... <p class="read-more-container"><a title="The View from the Iron Bridge &#8211; Part 1" class="read-more button" href="https://castellcoch.com/2022/11/28/the-view-from-the-iron-bridge-part-1/#more-3742" aria-label="More on The View from the Iron Bridge &#8211; Part 1">Read more</a></p>]]></description>
 		
-					<wfw:commentRss>https://castellcoch.com/2022/11/28/the-view-from-the-iron-bridge-part-1/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">3742</post-id>	</item>
@@ -195,28 +213,5 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">3127</post-id>	</item>
-		<item>
-		<title>Castell Coch: The 1980s</title>
-		<link>https://castellcoch.com/2022/02/23/castell-coch-the-1980s/</link>
-					<comments>https://castellcoch.com/2022/02/23/castell-coch-the-1980s/#comments</comments>
-		
-		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
-		<pubDate>Wed, 23 Feb 2022 16:46:32 +0000</pubDate>
-				<category><![CDATA[History]]></category>
-		<category><![CDATA[1980s]]></category>
-		<category><![CDATA[guidebook]]></category>
-		<category><![CDATA[illustration]]></category>
-		<category><![CDATA[photography]]></category>
-		<category><![CDATA[postcard]]></category>
-		<category><![CDATA[tourism]]></category>
-		<guid isPermaLink="false">https://castellcoch.com/?p=2947</guid>
-
-					<description><![CDATA[I was sorting through my collection recently and noticed quite a few pieces from the 1980s. Hopefully these items will bring back memories of school trips and visits during this decade.]]></description>
-		
-					<wfw:commentRss>https://castellcoch.com/2022/02/23/castell-coch-the-1980s/feed/</wfw:commentRss>
-			<slash:comments>1</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">2947</post-id>	</item>
 	</channel>
 </rss>
