@@ -15,7 +15,7 @@
 	<atom:link href="https://tongwynlais.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://tongwynlais.com</link>
 	<description></description>
-	<lastBuildDate>Sun, 20 Nov 2022 15:47:23 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 20 Dec 2022 12:58:49 +0000</lastBuildDate>
 	<language>en-GB</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,6 +31,26 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">37574071</site>	<item>
+		<title>Postcards from Tongwynlais – Part 16</title>
+		<link>https://tongwynlais.com/2022/12/20/postcards-from-tongwynlais-part-16/</link>
+					<comments>https://tongwynlais.com/2022/12/20/postcards-from-tongwynlais-part-16/#respond</comments>
+		
+		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
+		<pubDate>Tue, 20 Dec 2022 12:58:49 +0000</pubDate>
+				<category><![CDATA[History]]></category>
+		<category><![CDATA[castell coch]]></category>
+		<category><![CDATA[dh]]></category>
+		<category><![CDATA[postcard]]></category>
+		<guid isPermaLink="false">https://tongwynlais.com/?p=18544</guid>
+
+					<description><![CDATA[I have another fantastic image from Tempest Postcards by Terence Soames. This card features an aerial photo of Castell Coch overlooking the village. It wasn&#8217;t posted so I had to do some more detective work. Terence Soames worked for Tempest in the 1950s and H. Tempest Ltd moved from Nottingham to Cornwall around this time. ... <a title="Postcards from Tongwynlais – Part 16" class="read-more" href="https://tongwynlais.com/2022/12/20/postcards-from-tongwynlais-part-16/" aria-label="More on Postcards from Tongwynlais – Part 16">more...</a>]]></description>
+		
+					<wfw:commentRss>https://tongwynlais.com/2022/12/20/postcards-from-tongwynlais-part-16/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">18544</post-id>	</item>
+		<item>
 		<title>North Cardiff Trails</title>
 		<link>https://tongwynlais.com/2022/11/20/north-cardiff-trails/</link>
 					<comments>https://tongwynlais.com/2022/11/20/north-cardiff-trails/#respond</comments>
@@ -214,26 +234,5 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">18055</post-id>	</item>
-		<item>
-		<title>Rebuilding the Tollhouse</title>
-		<link>https://tongwynlais.com/2022/04/27/rebuilding-the-tollhouse/</link>
-					<comments>https://tongwynlais.com/2022/04/27/rebuilding-the-tollhouse/#respond</comments>
-		
-		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
-		<pubDate>Wed, 27 Apr 2022 10:24:34 +0000</pubDate>
-				<category><![CDATA[History]]></category>
-		<category><![CDATA[dh]]></category>
-		<category><![CDATA[guest post]]></category>
-		<category><![CDATA[tollhouse]]></category>
-		<category><![CDATA[tongwynlais historical society]]></category>
-		<guid isPermaLink="false">https://tongwynlais.com/?p=18027</guid>
-
-					<description><![CDATA[The Tongwynlais Historical Society was formed in March 2020 with my fellow co-founder Rob Wiseman. The initial aim was to create a self-guided audio trail along the historic sites in the village from the Ironbridge, through the village to Castell Coch and loop back passed Ivy Cottage and back to the Ironbridge. We wanted to research interesting historical snippets from different aspects of the life and times of the people who once lived in the village. From the long forgotten railway station, the vineyard, the mill, lime quarry, local shops etc. with an aim to bring local history back to life for visitors and residents alike.]]></description>
-		
-					<wfw:commentRss>https://tongwynlais.com/2022/04/27/rebuilding-the-tollhouse/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">18027</post-id>	</item>
 	</channel>
 </rss>
