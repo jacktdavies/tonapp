@@ -15,7 +15,7 @@
 	<atom:link href="https://tongwynlais.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://tongwynlais.com</link>
 	<description></description>
-	<lastBuildDate>Tue, 20 Dec 2022 12:58:49 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 17 Jan 2023 13:34:51 +0000</lastBuildDate>
 	<language>en-GB</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,9 +31,28 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">37574071</site>	<item>
+		<title>HOKA Torrent 2 &#8211; 350 Mile Review</title>
+		<link>https://tongwynlais.com/2023/01/17/hoka-torrent-2-350-mile-review/</link>
+					<comments>https://tongwynlais.com/2023/01/17/hoka-torrent-2-350-mile-review/#respond</comments>
+		
+		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
+		<pubDate>Tue, 17 Jan 2023 13:34:50 +0000</pubDate>
+				<category><![CDATA[Adventures]]></category>
+		<category><![CDATA[dh]]></category>
+		<category><![CDATA[trail running]]></category>
+		<guid isPermaLink="false">https://tongwynlais.com/?p=18587</guid>
+
+					<description><![CDATA[Overview Trail running is a big part of my life so I&#8217;ve started this new series on a runner&#8217;s most important piece of equipment. This is my long term &#8220;review&#8221; of the HOKA Torrent 2 after 350 miles. After using three generations of the Saucony Peregrine series I decided to try another brand and gain ... <a title="HOKA Torrent 2 &#8211; 350 Mile Review" class="read-more" href="https://tongwynlais.com/2023/01/17/hoka-torrent-2-350-mile-review/" aria-label="More on HOKA Torrent 2 &#8211; 350 Mile Review">more...</a>]]></description>
+		
+					<wfw:commentRss>https://tongwynlais.com/2023/01/17/hoka-torrent-2-350-mile-review/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">18587</post-id>	</item>
+		<item>
 		<title>Postcards from Tongwynlais – Part 16</title>
 		<link>https://tongwynlais.com/2022/12/20/postcards-from-tongwynlais-part-16/</link>
-					<comments>https://tongwynlais.com/2022/12/20/postcards-from-tongwynlais-part-16/#respond</comments>
+					<comments>https://tongwynlais.com/2022/12/20/postcards-from-tongwynlais-part-16/#comments</comments>
 		
 		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
 		<pubDate>Tue, 20 Dec 2022 12:58:49 +0000</pubDate>
@@ -46,7 +65,7 @@
 					<description><![CDATA[I have another fantastic image from Tempest Postcards by Terence Soames. This card features an aerial photo of Castell Coch overlooking the village. It wasn&#8217;t posted so I had to do some more detective work. Terence Soames worked for Tempest in the 1950s and H. Tempest Ltd moved from Nottingham to Cornwall around this time. ... <a title="Postcards from Tongwynlais – Part 16" class="read-more" href="https://tongwynlais.com/2022/12/20/postcards-from-tongwynlais-part-16/" aria-label="More on Postcards from Tongwynlais – Part 16">more...</a>]]></description>
 		
 					<wfw:commentRss>https://tongwynlais.com/2022/12/20/postcards-from-tongwynlais-part-16/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
+			<slash:comments>3</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">18544</post-id>	</item>
@@ -214,25 +233,5 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">12683</post-id>	</item>
-		<item>
-		<title>120 Years of Electric Transport in Cardiff</title>
-		<link>https://tongwynlais.com/2022/05/19/120-years-of-electric-transport-in-cardiff/</link>
-					<comments>https://tongwynlais.com/2022/05/19/120-years-of-electric-transport-in-cardiff/#comments</comments>
-		
-		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
-		<pubDate>Thu, 19 May 2022 19:53:30 +0000</pubDate>
-				<category><![CDATA[History]]></category>
-		<category><![CDATA[cardiff]]></category>
-		<category><![CDATA[dh]]></category>
-		<category><![CDATA[transport]]></category>
-		<guid isPermaLink="false">https://tongwynlais.com/?p=18055</guid>
-
-					<description><![CDATA[I picked up this booklet at a postcard fair a few years ago as it looked quite interesting. I don&#8217;t have a particular interest in transport history but I found the story of &#8220;electric traction&#8221; in Cardiff fascinating. May 2022 marks 120 years since the first electric tramcar was driven by the Mayor from the ... <a title="120 Years of Electric Transport in Cardiff" class="read-more" href="https://tongwynlais.com/2022/05/19/120-years-of-electric-transport-in-cardiff/" aria-label="More on 120 Years of Electric Transport in Cardiff">more...</a>]]></description>
-		
-					<wfw:commentRss>https://tongwynlais.com/2022/05/19/120-years-of-electric-transport-in-cardiff/feed/</wfw:commentRss>
-			<slash:comments>1</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">18055</post-id>	</item>
 	</channel>
 </rss>
