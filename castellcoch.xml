@@ -15,7 +15,7 @@
 	<atom:link href="https://castellcoch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://castellcoch.com</link>
 	<description></description>
-	<lastBuildDate>Sun, 18 Dec 2022 10:50:03 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 23 Jan 2023 08:00:45 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,9 +31,27 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">184115289</site>	<item>
+		<title>Postcards of Castell Coch – Part 6</title>
+		<link>https://castellcoch.com/2023/01/23/postcards-of-castell-coch-part-6/</link>
+					<comments>https://castellcoch.com/2023/01/23/postcards-of-castell-coch-part-6/#respond</comments>
+		
+		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
+		<pubDate>Mon, 23 Jan 2023 08:00:44 +0000</pubDate>
+				<category><![CDATA[History]]></category>
+		<category><![CDATA[postcard]]></category>
+		<guid isPermaLink="false">https://castellcoch.com/?p=3833</guid>
+
+					<description><![CDATA[Castell Coch is currently closed for its annual conservation housekeeping. The trees surrounding the castle are also undergoing some maintenance so I looked through some old postcards to see how the view has changed. This postcard was published by &#8220;The R. A. P. Co. Ltd. London. EC4.&#8221; It&#8217;s unposted but I believe it&#8217;s from between ... <p class="read-more-container"><a title="Postcards of Castell Coch – Part 6" class="read-more button" href="https://castellcoch.com/2023/01/23/postcards-of-castell-coch-part-6/#more-3833" aria-label="More on Postcards of Castell Coch – Part 6">Read more</a></p>]]></description>
+		
+					<wfw:commentRss>https://castellcoch.com/2023/01/23/postcards-of-castell-coch-part-6/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3833</post-id>	</item>
+		<item>
 		<title>Visiting Castell Coch in 1962</title>
 		<link>https://castellcoch.com/2022/12/18/visiting-castell-coch-in-1962/</link>
-					<comments>https://castellcoch.com/2022/12/18/visiting-castell-coch-in-1962/#respond</comments>
+					<comments>https://castellcoch.com/2022/12/18/visiting-castell-coch-in-1962/#comments</comments>
 		
 		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
 		<pubDate>Sun, 18 Dec 2022 10:50:03 +0000</pubDate>
@@ -47,7 +65,7 @@
 					<description><![CDATA[I purchased a guidebook for the Welsh Folk Museum at St Fagans from an online store as the description mentioned Castell Coch. There was no other information but I was intrigued and it wasn&#8217;t very expensive. It turned out to be this charming little pamphlet for Caerphilly Castle and Castell Coch. The guide was produced ... <p class="read-more-container"><a title="Visiting Castell Coch in 1962" class="read-more button" href="https://castellcoch.com/2022/12/18/visiting-castell-coch-in-1962/#more-3785" aria-label="More on Visiting Castell Coch in 1962">Read more</a></p>]]></description>
 		
 					<wfw:commentRss>https://castellcoch.com/2022/12/18/visiting-castell-coch-in-1962/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
+			<slash:comments>1</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">3785</post-id>	</item>
@@ -196,22 +214,5 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">3070</post-id>	</item>
-		<item>
-		<title>Castell Coch Then and Now &#8211; Part 1</title>
-		<link>https://castellcoch.com/2022/03/30/castell-coch-then-and-now-part-1/</link>
-		
-		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
-		<pubDate>Wed, 30 Mar 2022 17:45:47 +0000</pubDate>
-				<category><![CDATA[Photography]]></category>
-		<category><![CDATA[history]]></category>
-		<category><![CDATA[national museum wales]]></category>
-		<category><![CDATA[then and now]]></category>
-		<guid isPermaLink="false">https://castellcoch.com/?p=3127</guid>
-
-					<description><![CDATA[This image of Castell Coch is from Amgueddfa Cymru &#8211; National Museum Wales. The photograph is mounted on card along with shots of a T.V.R. Converted Bristol Class locomotive and Barmouth Bridge under Cader Idris. The photographs aren&#8217;t dated unfortunately. After some quick research of Barmouth Bridge though, it turns out the drawbridge in the ... <p class="read-more-container"><a title="Castell Coch Then and Now &#8211; Part 1" class="read-more button" href="https://castellcoch.com/2022/03/30/castell-coch-then-and-now-part-1/#more-3127" aria-label="More on Castell Coch Then and Now &#8211; Part 1">Read more</a></p>]]></description>
-		
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">3127</post-id>	</item>
 	</channel>
 </rss>
