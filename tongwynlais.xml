@@ -15,7 +15,7 @@
 	<atom:link href="https://tongwynlais.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://tongwynlais.com</link>
 	<description></description>
-	<lastBuildDate>Tue, 17 Jan 2023 13:34:51 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 12 Feb 2023 15:33:01 +0000</lastBuildDate>
 	<language>en-GB</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,6 +31,27 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">37574071</site>	<item>
+		<title>Villa Cardiff &#8211; Part 1</title>
+		<link>https://tongwynlais.com/2023/02/12/villa-cardiff-part-1/</link>
+					<comments>https://tongwynlais.com/2023/02/12/villa-cardiff-part-1/#respond</comments>
+		
+		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
+		<pubDate>Sun, 12 Feb 2023 15:33:01 +0000</pubDate>
+				<category><![CDATA[History]]></category>
+		<category><![CDATA[arms]]></category>
+		<category><![CDATA[cardiff]]></category>
+		<category><![CDATA[design]]></category>
+		<category><![CDATA[dh]]></category>
+		<guid isPermaLink="false">https://tongwynlais.com/?p=18662</guid>
+
+					<description><![CDATA[This post was inspired by an article from John&#38;Jane that explored the design of a modern flag for Cardiff. One image jumped out at me because I&#8217;d seen it before and not given it much thought. I&#8217;m going to explore the use of these arms, show examples of different variations and try to determine when ... <a title="Villa Cardiff &#8211; Part 1" class="read-more" href="https://tongwynlais.com/2023/02/12/villa-cardiff-part-1/" aria-label="More on Villa Cardiff &#8211; Part 1">more...</a>]]></description>
+		
+					<wfw:commentRss>https://tongwynlais.com/2023/02/12/villa-cardiff-part-1/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">18662</post-id>	</item>
+		<item>
 		<title>HOKA Torrent 2 &#8211; 350 Mile Review</title>
 		<link>https://tongwynlais.com/2023/01/17/hoka-torrent-2-350-mile-review/</link>
 					<comments>https://tongwynlais.com/2023/01/17/hoka-torrent-2-350-mile-review/#respond</comments>
@@ -214,24 +235,5 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">18159</post-id>	</item>
-		<item>
-		<title>Tongwynlais Village Then and Now – Part 4</title>
-		<link>https://tongwynlais.com/2022/06/22/tongwynlais-village-then-and-now-part-4/</link>
-					<comments>https://tongwynlais.com/2022/06/22/tongwynlais-village-then-and-now-part-4/#respond</comments>
-		
-		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
-		<pubDate>Wed, 22 Jun 2022 18:26:02 +0000</pubDate>
-				<category><![CDATA[History]]></category>
-		<category><![CDATA[dh]]></category>
-		<category><![CDATA[then and now]]></category>
-		<guid isPermaLink="false">https://tongwynlais.com/?p=12683</guid>
-
-					<description><![CDATA[Welcome back to this series where I compare old photos of Tongwynlais with a modern view. Thanks to Carol Spackman for letting me use this lovely view of children playing in Pantgwynlais. You can explore lots more on the history page. Do you have any old photos that we could share on the site? Maybe ... <a title="Tongwynlais Village Then and Now – Part 4" class="read-more" href="https://tongwynlais.com/2022/06/22/tongwynlais-village-then-and-now-part-4/" aria-label="More on Tongwynlais Village Then and Now – Part 4">more...</a>]]></description>
-		
-					<wfw:commentRss>https://tongwynlais.com/2022/06/22/tongwynlais-village-then-and-now-part-4/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">12683</post-id>	</item>
 	</channel>
 </rss>
