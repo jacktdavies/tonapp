@@ -15,7 +15,7 @@
 	<atom:link href="https://castellcoch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://castellcoch.com</link>
 	<description></description>
-	<lastBuildDate>Mon, 23 Jan 2023 08:00:45 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 28 Feb 2023 08:05:44 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,9 +31,28 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">184115289</site>	<item>
+		<title>Festival of Castles 1983</title>
+		<link>https://castellcoch.com/2023/02/28/festival-of-castles-1983/</link>
+					<comments>https://castellcoch.com/2023/02/28/festival-of-castles-1983/#respond</comments>
+		
+		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
+		<pubDate>Tue, 28 Feb 2023 08:05:44 +0000</pubDate>
+				<category><![CDATA[History]]></category>
+		<category><![CDATA[1983]]></category>
+		<category><![CDATA[cestyll 83]]></category>
+		<category><![CDATA[tourism]]></category>
+		<guid isPermaLink="false">https://castellcoch.com/?p=3848</guid>
+
+					<description><![CDATA[The Wales 1983 Festival of Castles (Gwyl Cestyll Cymru 1983) was a controversial marketing campaign created by the Wales Tourist Board. It was branded &#8220;Cestyll 83&#8221; and took place during the &#8220;Year of Castles&#8221;. The festival was launched on 28 February 1983 by the Prince and Princess of Wales at Caerphilly Castle. Euryn Rhys Roberts, ... <p class="read-more-container"><a title="Festival of Castles 1983" class="read-more button" href="https://castellcoch.com/2023/02/28/festival-of-castles-1983/#more-3848" aria-label="More on Festival of Castles 1983">Read more</a></p>]]></description>
+		
+					<wfw:commentRss>https://castellcoch.com/2023/02/28/festival-of-castles-1983/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3848</post-id>	</item>
+		<item>
 		<title>Postcards of Castell Coch – Part 6</title>
 		<link>https://castellcoch.com/2023/01/23/postcards-of-castell-coch-part-6/</link>
-					<comments>https://castellcoch.com/2023/01/23/postcards-of-castell-coch-part-6/#respond</comments>
 		
 		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
 		<pubDate>Mon, 23 Jan 2023 08:00:44 +0000</pubDate>
@@ -43,8 +62,6 @@
 
 					<description><![CDATA[Castell Coch is currently closed for its annual conservation housekeeping. The trees surrounding the castle are also undergoing some maintenance so I looked through some old postcards to see how the view has changed. This postcard was published by &#8220;The R. A. P. Co. Ltd. London. EC4.&#8221; It&#8217;s unposted but I believe it&#8217;s from between ... <p class="read-more-container"><a title="Postcards of Castell Coch – Part 6" class="read-more button" href="https://castellcoch.com/2023/01/23/postcards-of-castell-coch-part-6/#more-3833" aria-label="More on Postcards of Castell Coch – Part 6">Read more</a></p>]]></description>
 		
-					<wfw:commentRss>https://castellcoch.com/2023/01/23/postcards-of-castell-coch-part-6/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">3833</post-id>	</item>
@@ -194,25 +211,5 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">3283</post-id>	</item>
-		<item>
-		<title>Postcards of Castell Coch – Part 4</title>
-		<link>https://castellcoch.com/2022/04/23/postcards-of-castell-coch-part-4/</link>
-					<comments>https://castellcoch.com/2022/04/23/postcards-of-castell-coch-part-4/#comments</comments>
-		
-		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
-		<pubDate>Sat, 23 Apr 2022 13:41:33 +0000</pubDate>
-				<category><![CDATA[History]]></category>
-		<category><![CDATA[1960s]]></category>
-		<category><![CDATA[postcard]]></category>
-		<category><![CDATA[tempest]]></category>
-		<guid isPermaLink="false">https://castellcoch.com/?p=3070</guid>
-
-					<description><![CDATA[There are lots of postcards with aerial photos of the castle in my collection and this is one of my favourites. The company who produced the image have a huge collection of photos available to view on Amgueddfa Cymru&#8217;s website. Scaffolding has been erected on the curtain wall and it looks like roof tiles were ... <p class="read-more-container"><a title="Postcards of Castell Coch – Part 4" class="read-more button" href="https://castellcoch.com/2022/04/23/postcards-of-castell-coch-part-4/#more-3070" aria-label="More on Postcards of Castell Coch – Part 4">Read more</a></p>]]></description>
-		
-					<wfw:commentRss>https://castellcoch.com/2022/04/23/postcards-of-castell-coch-part-4/feed/</wfw:commentRss>
-			<slash:comments>1</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">3070</post-id>	</item>
 	</channel>
 </rss>
