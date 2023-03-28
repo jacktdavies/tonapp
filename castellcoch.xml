@@ -15,7 +15,7 @@
 	<atom:link href="https://castellcoch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://castellcoch.com</link>
 	<description></description>
-	<lastBuildDate>Tue, 28 Feb 2023 08:05:44 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 28 Mar 2023 14:36:12 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,9 +31,31 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">184115289</site>	<item>
+		<title>Castell Coch by Paul Sharp</title>
+		<link>https://castellcoch.com/2023/03/28/castell-coch-by-paul-sharp/</link>
+					<comments>https://castellcoch.com/2023/03/28/castell-coch-by-paul-sharp/#respond</comments>
+		
+		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
+		<pubDate>Tue, 28 Mar 2023 14:36:11 +0000</pubDate>
+				<category><![CDATA[Art]]></category>
+		<category><![CDATA[1960s]]></category>
+		<category><![CDATA[book]]></category>
+		<category><![CDATA[history]]></category>
+		<category><![CDATA[illustration]]></category>
+		<category><![CDATA[paul sharp]]></category>
+		<guid isPermaLink="false">https://castellcoch.com/?p=3919</guid>
+
+					<description><![CDATA[Paul Sharp created a beautiful sketch of Castell Coch for a 1960s motoring guide to castles in the UK. I picked up a copy and discovered a fantastic collection of artwork by the Yorkshire designer. National Benzole was a petrol brand in the UK from 1919 until the 1990s. Perhaps these books were produced to ... <p class="read-more-container"><a title="Castell Coch by Paul Sharp" class="read-more button" href="https://castellcoch.com/2023/03/28/castell-coch-by-paul-sharp/#more-3919" aria-label="More on Castell Coch by Paul Sharp">Read more</a></p>]]></description>
+		
+					<wfw:commentRss>https://castellcoch.com/2023/03/28/castell-coch-by-paul-sharp/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3919</post-id>	</item>
+		<item>
 		<title>Festival of Castles 1983</title>
 		<link>https://castellcoch.com/2023/02/28/festival-of-castles-1983/</link>
-					<comments>https://castellcoch.com/2023/02/28/festival-of-castles-1983/#respond</comments>
+					<comments>https://castellcoch.com/2023/02/28/festival-of-castles-1983/#comments</comments>
 		
 		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
 		<pubDate>Tue, 28 Feb 2023 08:05:44 +0000</pubDate>
@@ -46,7 +68,7 @@
 					<description><![CDATA[The Wales 1983 Festival of Castles (Gwyl Cestyll Cymru 1983) was a controversial marketing campaign created by the Wales Tourist Board. It was branded &#8220;Cestyll 83&#8221; and took place during the &#8220;Year of Castles&#8221;. The festival was launched on 28 February 1983 by the Prince and Princess of Wales at Caerphilly Castle. Euryn Rhys Roberts, ... <p class="read-more-container"><a title="Festival of Castles 1983" class="read-more button" href="https://castellcoch.com/2023/02/28/festival-of-castles-1983/#more-3848" aria-label="More on Festival of Castles 1983">Read more</a></p>]]></description>
 		
 					<wfw:commentRss>https://castellcoch.com/2023/02/28/festival-of-castles-1983/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
+			<slash:comments>1</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">3848</post-id>	</item>
@@ -190,26 +212,5 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">3466</post-id>	</item>
-		<item>
-		<title>Castell Coch in Country Life &#8211; Part 1</title>
-		<link>https://castellcoch.com/2022/05/25/castell-coch-in-country-life-part-1/</link>
-					<comments>https://castellcoch.com/2022/05/25/castell-coch-in-country-life-part-1/#comments</comments>
-		
-		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
-		<pubDate>Wed, 25 May 2022 07:56:13 +0000</pubDate>
-				<category><![CDATA[History]]></category>
-		<category><![CDATA[1960s]]></category>
-		<category><![CDATA[country life]]></category>
-		<category><![CDATA[magazine]]></category>
-		<category><![CDATA[mark girouard]]></category>
-		<guid isPermaLink="false">https://castellcoch.com/?p=3283</guid>
-
-					<description><![CDATA[Castell Coch was featured in Country Life magazine 60 years ago this month. Architectural writer Mark Girouard took readers on a tour of the famous Welsh landmark over two issues beginning on 10th May 1962. The magazine was founded in 1897 and celebrated its 125th anniversary earlier this month. Girouard went on to become an ... <p class="read-more-container"><a title="Castell Coch in Country Life &#8211; Part 1" class="read-more button" href="https://castellcoch.com/2022/05/25/castell-coch-in-country-life-part-1/#more-3283" aria-label="More on Castell Coch in Country Life &#8211; Part 1">Read more</a></p>]]></description>
-		
-					<wfw:commentRss>https://castellcoch.com/2022/05/25/castell-coch-in-country-life-part-1/feed/</wfw:commentRss>
-			<slash:comments>1</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">3283</post-id>	</item>
 	</channel>
 </rss>
