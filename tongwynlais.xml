@@ -15,7 +15,7 @@
 	<atom:link href="https://tongwynlais.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://tongwynlais.com</link>
 	<description></description>
-	<lastBuildDate>Mon, 13 Mar 2023 10:45:41 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 23 Apr 2023 08:30:52 +0000</lastBuildDate>
 	<language>en-GB</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,6 +31,27 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">37574071</site>	<item>
+		<title>Fforest Fawr Sculpture Trail Poems</title>
+		<link>https://tongwynlais.com/2023/04/23/fforest-fawr-sculpture-trail-poems/</link>
+					<comments>https://tongwynlais.com/2023/04/23/fforest-fawr-sculpture-trail-poems/#respond</comments>
+		
+		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
+		<pubDate>Sun, 23 Apr 2023 08:30:51 +0000</pubDate>
+				<category><![CDATA[Art]]></category>
+		<category><![CDATA[dh]]></category>
+		<category><![CDATA[fforest fawr]]></category>
+		<category><![CDATA[poetry]]></category>
+		<category><![CDATA[sculpture trail]]></category>
+		<guid isPermaLink="false">https://tongwynlais.com/?p=18766</guid>
+
+					<description><![CDATA[The sculptures in Fforest Fawr each have a poem written by the artist Simon O&#8217;Rourke. Sadly the poems have started to wear over time and they&#8217;re quite hard to read. Simon&#8217;s website has an article with information about the sculptures and the text from the poems. It explains, &#8220;The English form of the poem is ... <a title="Fforest Fawr Sculpture Trail Poems" class="read-more" href="https://tongwynlais.com/2023/04/23/fforest-fawr-sculpture-trail-poems/" aria-label="More on Fforest Fawr Sculpture Trail Poems">more...</a>]]></description>
+		
+					<wfw:commentRss>https://tongwynlais.com/2023/04/23/fforest-fawr-sculpture-trail-poems/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">18766</post-id>	</item>
+		<item>
 		<title>Fireworks at Greenmeadow</title>
 		<link>https://tongwynlais.com/2023/03/13/fireworks-at-greenmeadow/</link>
 					<comments>https://tongwynlais.com/2023/03/13/fireworks-at-greenmeadow/#respond</comments>
@@ -108,7 +129,7 @@
 					<description><![CDATA[I have another fantastic image from Tempest Postcards by Terence Soames. This card features an aerial photo of Castell Coch overlooking the village. It wasn&#8217;t posted so I had to do some more detective work. Terence Soames worked for Tempest in the 1950s and H. Tempest Ltd moved from Nottingham to Cornwall around this time. ... <a title="Postcards from Tongwynlais – Part 16" class="read-more" href="https://tongwynlais.com/2022/12/20/postcards-from-tongwynlais-part-16/" aria-label="More on Postcards from Tongwynlais – Part 16">more...</a>]]></description>
 		
 					<wfw:commentRss>https://tongwynlais.com/2022/12/20/postcards-from-tongwynlais-part-16/feed/</wfw:commentRss>
-			<slash:comments>3</slash:comments>
+			<slash:comments>4</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">18544</post-id>	</item>
@@ -217,24 +238,5 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">18268</post-id>	</item>
-		<item>
-		<title>Ten Years On: Looking Back</title>
-		<link>https://tongwynlais.com/2022/08/01/ten-years-on-looking-back/</link>
-					<comments>https://tongwynlais.com/2022/08/01/ten-years-on-looking-back/#comments</comments>
-		
-		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
-		<pubDate>Mon, 01 Aug 2022 08:38:26 +0000</pubDate>
-				<category><![CDATA[Blog]]></category>
-		<category><![CDATA[blog]]></category>
-		<category><![CDATA[dh]]></category>
-		<guid isPermaLink="false">https://tongwynlais.com/?p=18200</guid>
-
-					<description><![CDATA[Today marks a decade since I launched Tongwynlais.com. I didn&#8217;t intend to create a hyperlocal website, it sort of happened accidentally. I relocated to South Wales in 1996, living in various parts of Cardiff and down in Barry. Then I moved to Tongwynlais and fell in love with the village. “This site should probably have ... <a title="Ten Years On: Looking Back" class="read-more" href="https://tongwynlais.com/2022/08/01/ten-years-on-looking-back/" aria-label="More on Ten Years On: Looking Back">more...</a>]]></description>
-		
-					<wfw:commentRss>https://tongwynlais.com/2022/08/01/ten-years-on-looking-back/feed/</wfw:commentRss>
-			<slash:comments>1</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">18200</post-id>	</item>
 	</channel>
 </rss>
