@@ -15,7 +15,7 @@
 	<atom:link href="https://castellcoch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://castellcoch.com</link>
 	<description></description>
-	<lastBuildDate>Tue, 28 Mar 2023 14:36:12 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 30 Apr 2023 18:09:26 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,9 +31,29 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">184115289</site>	<item>
+		<title>Castell Coch on Screen &#8211; Part 1</title>
+		<link>https://castellcoch.com/2023/04/30/castell-coch-on-screen-part-1/</link>
+					<comments>https://castellcoch.com/2023/04/30/castell-coch-on-screen-part-1/#respond</comments>
+		
+		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
+		<pubDate>Sun, 30 Apr 2023 18:09:25 +0000</pubDate>
+				<category><![CDATA[Castell Coch]]></category>
+		<category><![CDATA[da vincis demons]]></category>
+		<category><![CDATA[dr who]]></category>
+		<category><![CDATA[merlin]]></category>
+		<category><![CDATA[television]]></category>
+		<guid isPermaLink="false">https://castellcoch.com/?p=3958</guid>
+
+					<description><![CDATA[Castell Coch has been used as a filming location since 1954&#8217;s &#8220;The Black Knight&#8221;. In this first instalment of &#8220;Castell Coch on Screen&#8221; I&#8217;m going to feature some recent television shows that you may have seen. Dr Who Nightmare in Silver Season 7 &#8211; Episode 12 Episode aired May 11, 2013 Castell Coch was used ... <p class="read-more-container"><a title="Castell Coch on Screen &#8211; Part 1" class="read-more button" href="https://castellcoch.com/2023/04/30/castell-coch-on-screen-part-1/#more-3958" aria-label="More on Castell Coch on Screen &#8211; Part 1">Read more</a></p>]]></description>
+		
+					<wfw:commentRss>https://castellcoch.com/2023/04/30/castell-coch-on-screen-part-1/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3958</post-id>	</item>
+		<item>
 		<title>Castell Coch by Paul Sharp</title>
 		<link>https://castellcoch.com/2023/03/28/castell-coch-by-paul-sharp/</link>
-					<comments>https://castellcoch.com/2023/03/28/castell-coch-by-paul-sharp/#respond</comments>
 		
 		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
 		<pubDate>Tue, 28 Mar 2023 14:36:11 +0000</pubDate>
@@ -47,8 +67,6 @@
 
 					<description><![CDATA[Paul Sharp created a beautiful sketch of Castell Coch for a 1960s motoring guide to castles in the UK. I picked up a copy and discovered a fantastic collection of artwork by the Yorkshire designer. National Benzole was a petrol brand in the UK from 1919 until the 1990s. Perhaps these books were produced to ... <p class="read-more-container"><a title="Castell Coch by Paul Sharp" class="read-more button" href="https://castellcoch.com/2023/03/28/castell-coch-by-paul-sharp/#more-3919" aria-label="More on Castell Coch by Paul Sharp">Read more</a></p>]]></description>
 		
-					<wfw:commentRss>https://castellcoch.com/2023/03/28/castell-coch-by-paul-sharp/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">3919</post-id>	</item>
@@ -191,26 +209,5 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">3635</post-id>	</item>
-		<item>
-		<title>Cyfrinach Castell Coch</title>
-		<link>https://castellcoch.com/2022/06/30/cyfrinach-castell-coch/</link>
-		
-		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
-		<pubDate>Thu, 30 Jun 2022 09:12:09 +0000</pubDate>
-				<category><![CDATA[Art]]></category>
-		<category><![CDATA[book]]></category>
-		<category><![CDATA[castell coch]]></category>
-		<category><![CDATA[catrin dafydd]]></category>
-		<category><![CDATA[illustration]]></category>
-		<category><![CDATA[james field]]></category>
-		<guid isPermaLink="false">https://castellcoch.com/?p=3466</guid>
-
-					<description><![CDATA[Cyfrinach Castell Coch is a children’s book written by Catrin Dafydd and illustrated by James Field.
-
-“There is an old secret behind the walls of Castell Coch, and Chloe and Sam are under great pressure to ensure that the castle is not destroyed.”]]></description>
-		
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">3466</post-id>	</item>
 	</channel>
 </rss>
