@@ -15,7 +15,7 @@
 	<atom:link href="https://tongwynlais.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://tongwynlais.com</link>
 	<description></description>
-	<lastBuildDate>Sun, 23 Apr 2023 08:30:52 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 08 May 2023 15:31:38 +0000</lastBuildDate>
 	<language>en-GB</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,9 +31,26 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">37574071</site>	<item>
+		<title>Bluebells and Bridges</title>
+		<link>https://tongwynlais.com/2023/05/08/bluebells-and-bridges/</link>
+		
+		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
+		<pubDate>Mon, 08 May 2023 15:31:36 +0000</pubDate>
+				<category><![CDATA[Photography]]></category>
+		<category><![CDATA[dh]]></category>
+		<category><![CDATA[gelynis farm]]></category>
+		<category><![CDATA[morganstown]]></category>
+		<guid isPermaLink="false">https://tongwynlais.com/?p=18867</guid>
+
+					<description><![CDATA[I&#8217;ve been out with my camera over the last few weeks, capturing some beautiful views and exploring the work going on over in Morganstown. I post a lot of my photos on Instagram but rarely include them on the blog unless they coincide with an article. This type of post may become more regular if ... <a title="Bluebells and Bridges" class="read-more" href="https://tongwynlais.com/2023/05/08/bluebells-and-bridges/" aria-label="More on Bluebells and Bridges">more...</a>]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">18867</post-id>	</item>
+		<item>
 		<title>Fforest Fawr Sculpture Trail Poems</title>
 		<link>https://tongwynlais.com/2023/04/23/fforest-fawr-sculpture-trail-poems/</link>
-					<comments>https://tongwynlais.com/2023/04/23/fforest-fawr-sculpture-trail-poems/#respond</comments>
+					<comments>https://tongwynlais.com/2023/04/23/fforest-fawr-sculpture-trail-poems/#comments</comments>
 		
 		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
 		<pubDate>Sun, 23 Apr 2023 08:30:51 +0000</pubDate>
@@ -47,7 +64,7 @@
 					<description><![CDATA[The sculptures in Fforest Fawr each have a poem written by the artist Simon O&#8217;Rourke. Sadly the poems have started to wear over time and they&#8217;re quite hard to read. Simon&#8217;s website has an article with information about the sculptures and the text from the poems. It explains, &#8220;The English form of the poem is ... <a title="Fforest Fawr Sculpture Trail Poems" class="read-more" href="https://tongwynlais.com/2023/04/23/fforest-fawr-sculpture-trail-poems/" aria-label="More on Fforest Fawr Sculpture Trail Poems">more...</a>]]></description>
 		
 					<wfw:commentRss>https://tongwynlais.com/2023/04/23/fforest-fawr-sculpture-trail-poems/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
+			<slash:comments>1</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">18766</post-id>	</item>
@@ -214,29 +231,5 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">18364</post-id>	</item>
-		<item>
-		<title>Pixel Art Tongwynlais &#8211; Part 2</title>
-		<link>https://tongwynlais.com/2022/08/30/pixel-art-tongwynlais-part-2/</link>
-					<comments>https://tongwynlais.com/2022/08/30/pixel-art-tongwynlais-part-2/#comments</comments>
-		
-		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
-		<pubDate>Tue, 30 Aug 2022 12:52:01 +0000</pubDate>
-				<category><![CDATA[Art]]></category>
-		<category><![CDATA[dh]]></category>
-		<category><![CDATA[greenmeadow house]]></category>
-		<category><![CDATA[illustration]]></category>
-		<category><![CDATA[ivy house farm]]></category>
-		<category><![CDATA[loch field cottage]]></category>
-		<category><![CDATA[pixel art]]></category>
-		<category><![CDATA[the old ton]]></category>
-		<guid isPermaLink="false">https://tongwynlais.com/?p=18268</guid>
-
-					<description><![CDATA[Pixel art describes a technique for creating digital illustrations at the individual pixel level. This type of art was the result of low resolution displays in early videogame systems. Today, our phone and computer displays have millions of pixels. Despite this, the art form is very popular and the “retro” videogame look is used in ... <a title="Pixel Art Tongwynlais &#8211; Part 2" class="read-more" href="https://tongwynlais.com/2022/08/30/pixel-art-tongwynlais-part-2/" aria-label="More on Pixel Art Tongwynlais &#8211; Part 2">more...</a>]]></description>
-		
-					<wfw:commentRss>https://tongwynlais.com/2022/08/30/pixel-art-tongwynlais-part-2/feed/</wfw:commentRss>
-			<slash:comments>1</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">18268</post-id>	</item>
 	</channel>
 </rss>
