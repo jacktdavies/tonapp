@@ -15,7 +15,7 @@
 	<atom:link href="https://castellcoch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://castellcoch.com</link>
 	<description></description>
-	<lastBuildDate>Sun, 30 Apr 2023 18:09:26 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 17 May 2023 08:51:08 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,9 +31,30 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">184115289</site>	<item>
+		<title>Castell Coch in Country Life – Part 2</title>
+		<link>https://castellcoch.com/2023/05/17/castell-coch-in-country-life-part-2/</link>
+					<comments>https://castellcoch.com/2023/05/17/castell-coch-in-country-life-part-2/#respond</comments>
+		
+		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
+		<pubDate>Wed, 17 May 2023 08:51:07 +0000</pubDate>
+				<category><![CDATA[History]]></category>
+		<category><![CDATA[1960s]]></category>
+		<category><![CDATA[country life]]></category>
+		<category><![CDATA[magazine]]></category>
+		<category><![CDATA[mark girouard]]></category>
+		<guid isPermaLink="false">https://castellcoch.com/?p=3998</guid>
+
+					<description><![CDATA[Castell Coch was featured in Country Life magazine 61 years ago this month. Architectural writer Mark Girouard took readers on a tour of the famous Welsh landmark over two issues beginning on 10th May 1962. The magazine was founded in 1897 and celebrated its 125th anniversary in 2022. Girouard went on to become an authority ... <p class="read-more-container"><a title="Castell Coch in Country Life – Part 2" class="read-more button" href="https://castellcoch.com/2023/05/17/castell-coch-in-country-life-part-2/#more-3998" aria-label="More on Castell Coch in Country Life – Part 2">Read more</a></p>]]></description>
+		
+					<wfw:commentRss>https://castellcoch.com/2023/05/17/castell-coch-in-country-life-part-2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3998</post-id>	</item>
+		<item>
 		<title>Castell Coch on Screen &#8211; Part 1</title>
 		<link>https://castellcoch.com/2023/04/30/castell-coch-on-screen-part-1/</link>
-					<comments>https://castellcoch.com/2023/04/30/castell-coch-on-screen-part-1/#respond</comments>
+					<comments>https://castellcoch.com/2023/04/30/castell-coch-on-screen-part-1/#comments</comments>
 		
 		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
 		<pubDate>Sun, 30 Apr 2023 18:09:25 +0000</pubDate>
@@ -47,7 +68,7 @@
 					<description><![CDATA[Castell Coch has been used as a filming location since 1954&#8217;s &#8220;The Black Knight&#8221;. In this first instalment of &#8220;Castell Coch on Screen&#8221; I&#8217;m going to feature some recent television shows that you may have seen. Dr Who Nightmare in Silver Season 7 &#8211; Episode 12 Episode aired May 11, 2013 Castell Coch was used ... <p class="read-more-container"><a title="Castell Coch on Screen &#8211; Part 1" class="read-more button" href="https://castellcoch.com/2023/04/30/castell-coch-on-screen-part-1/#more-3958" aria-label="More on Castell Coch on Screen &#8211; Part 1">Read more</a></p>]]></description>
 		
 					<wfw:commentRss>https://castellcoch.com/2023/04/30/castell-coch-on-screen-part-1/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
+			<slash:comments>1</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">3958</post-id>	</item>
@@ -192,22 +213,5 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">3666</post-id>	</item>
-		<item>
-		<title>Patterns of Castell Coch – Part 2</title>
-		<link>https://castellcoch.com/2022/07/17/patterns-of-castell-coch-part-2/</link>
-		
-		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
-		<pubDate>Sun, 17 Jul 2022 09:39:54 +0000</pubDate>
-				<category><![CDATA[Art]]></category>
-		<category><![CDATA[illustration]]></category>
-		<category><![CDATA[interior design]]></category>
-		<category><![CDATA[patterns]]></category>
-		<guid isPermaLink="false">https://castellcoch.com/?p=3635</guid>
-
-					<description><![CDATA[Castell Coch is famous for its spectacular interiors. I’ve decided to illustrate the stencils, murals and patterns that decorate Cardiff’s iconic Gothic Revival landmark. This tile can be found in the fireplace of the drawing room. This pattern is from the Castell Coch exhibit, which was designed by Glyn Parry-Jones. The exhibit was created in ... <p class="read-more-container"><a title="Patterns of Castell Coch – Part 2" class="read-more button" href="https://castellcoch.com/2022/07/17/patterns-of-castell-coch-part-2/#more-3635" aria-label="More on Patterns of Castell Coch – Part 2">Read more</a></p>]]></description>
-		
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">3635</post-id>	</item>
 	</channel>
 </rss>
