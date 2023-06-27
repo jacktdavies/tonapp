@@ -15,7 +15,7 @@
 	<atom:link href="https://castellcoch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://castellcoch.com</link>
 	<description></description>
-	<lastBuildDate>Wed, 17 May 2023 08:51:08 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 27 Jun 2023 09:45:09 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,9 +31,29 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">184115289</site>	<item>
+		<title>Castell Coch by John Stuart Corbett</title>
+		<link>https://castellcoch.com/2023/06/27/castell-coch-by-john-stuart-corbett/</link>
+					<comments>https://castellcoch.com/2023/06/27/castell-coch-by-john-stuart-corbett/#respond</comments>
+		
+		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
+		<pubDate>Tue, 27 Jun 2023 09:45:08 +0000</pubDate>
+				<category><![CDATA[History]]></category>
+		<category><![CDATA[1917]]></category>
+		<category><![CDATA[book]]></category>
+		<category><![CDATA[cardiff naturalists society]]></category>
+		<category><![CDATA[report]]></category>
+		<guid isPermaLink="false">https://castellcoch.com/?p=4048</guid>
+
+					<description><![CDATA[I purchased this booklet a few years ago but I&#8217;ve only recently looked into the history of the author. It&#8217;s an excerpt from Volume L (50) of the &#8220;Transactions of The Cardiff Naturalists&#8217; Society&#8221;. It contains a report by John Stuart Corbett on the Society&#8217;s visit to Castell Coch on June 27th 1917. The booklet ... <p class="read-more-container"><a title="Castell Coch by John Stuart Corbett" class="read-more button" href="https://castellcoch.com/2023/06/27/castell-coch-by-john-stuart-corbett/#more-4048" aria-label="More on Castell Coch by John Stuart Corbett">Read more</a></p>]]></description>
+		
+					<wfw:commentRss>https://castellcoch.com/2023/06/27/castell-coch-by-john-stuart-corbett/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">4048</post-id>	</item>
+		<item>
 		<title>Castell Coch in Country Life – Part 2</title>
 		<link>https://castellcoch.com/2023/05/17/castell-coch-in-country-life-part-2/</link>
-					<comments>https://castellcoch.com/2023/05/17/castell-coch-in-country-life-part-2/#respond</comments>
 		
 		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
 		<pubDate>Wed, 17 May 2023 08:51:07 +0000</pubDate>
@@ -46,8 +66,6 @@
 
 					<description><![CDATA[Castell Coch was featured in Country Life magazine 61 years ago this month. Architectural writer Mark Girouard took readers on a tour of the famous Welsh landmark over two issues beginning on 10th May 1962. The magazine was founded in 1897 and celebrated its 125th anniversary in 2022. Girouard went on to become an authority ... <p class="read-more-container"><a title="Castell Coch in Country Life – Part 2" class="read-more button" href="https://castellcoch.com/2023/05/17/castell-coch-in-country-life-part-2/#more-3998" aria-label="More on Castell Coch in Country Life – Part 2">Read more</a></p>]]></description>
 		
-					<wfw:commentRss>https://castellcoch.com/2023/05/17/castell-coch-in-country-life-part-2/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">3998</post-id>	</item>
@@ -197,21 +215,5 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">3686</post-id>	</item>
-		<item>
-		<title>Postcards of Castell Coch – Part 5</title>
-		<link>https://castellcoch.com/2022/08/31/postcards-of-castell-coch-part-5/</link>
-		
-		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
-		<pubDate>Wed, 31 Aug 2022 09:52:17 +0000</pubDate>
-				<category><![CDATA[History]]></category>
-		<category><![CDATA[deltiology]]></category>
-		<category><![CDATA[postcard]]></category>
-		<guid isPermaLink="false">https://castellcoch.com/?p=3666</guid>
-
-					<description><![CDATA[I have several postcards that use the same image so I thought I would research an interesting series of cards posted between 1905 and 1910. All three postcards were produced by Blum &#38; Degen, who produced millions of cards between 1895 and 1908. The first two postcards are later versions of the first &#8220;divided backs&#8221;, ... <p class="read-more-container"><a title="Postcards of Castell Coch – Part 5" class="read-more button" href="https://castellcoch.com/2022/08/31/postcards-of-castell-coch-part-5/#more-3666" aria-label="More on Postcards of Castell Coch – Part 5">Read more</a></p>]]></description>
-		
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">3666</post-id>	</item>
 	</channel>
 </rss>
