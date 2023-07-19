@@ -15,7 +15,7 @@
 	<atom:link href="https://tongwynlais.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://tongwynlais.com</link>
 	<description></description>
-	<lastBuildDate>Wed, 21 Jun 2023 17:38:08 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 19 Jul 2023 08:05:42 +0000</lastBuildDate>
 	<language>en-GB</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,9 +31,30 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">37574071</site>	<item>
+		<title>Pixel Art Tongwynlais – Part 3</title>
+		<link>https://tongwynlais.com/2023/07/19/pixel-art-tongwynlais-part-3/</link>
+					<comments>https://tongwynlais.com/2023/07/19/pixel-art-tongwynlais-part-3/#respond</comments>
+		
+		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
+		<pubDate>Wed, 19 Jul 2023 08:05:40 +0000</pubDate>
+				<category><![CDATA[Art]]></category>
+		<category><![CDATA[dh]]></category>
+		<category><![CDATA[illustration]]></category>
+		<category><![CDATA[pixel art]]></category>
+		<category><![CDATA[plan2ride]]></category>
+		<guid isPermaLink="false">https://tongwynlais.com/?p=18969</guid>
+
+					<description><![CDATA[Pixel art describes a technique for creating digital illustrations at the individual pixel level. This type of art was the result of low resolution displays in early videogame systems. Today, our phone and computer displays have millions of pixels. Despite this, the art form is very popular and the “retro” videogame look is used in ... <a title="Pixel Art Tongwynlais – Part 3" class="read-more" href="https://tongwynlais.com/2023/07/19/pixel-art-tongwynlais-part-3/" aria-label="More on Pixel Art Tongwynlais – Part 3">more...</a>]]></description>
+		
+					<wfw:commentRss>https://tongwynlais.com/2023/07/19/pixel-art-tongwynlais-part-3/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">18969</post-id>	</item>
+		<item>
 		<title>Postcards from Tongwynlais – Part 17</title>
 		<link>https://tongwynlais.com/2023/06/21/postcards-from-tongwynlais-part-17/</link>
-					<comments>https://tongwynlais.com/2023/06/21/postcards-from-tongwynlais-part-17/#respond</comments>
+					<comments>https://tongwynlais.com/2023/06/21/postcards-from-tongwynlais-part-17/#comments</comments>
 		
 		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
 		<pubDate>Wed, 21 Jun 2023 17:38:07 +0000</pubDate>
@@ -46,7 +67,7 @@
 					<description><![CDATA[This instalment of &#8220;Postcards from Tongwynlais&#8221; features a wonderful photo of the village looking north towards the Taff Valley. It shows the Walnut Tree Viaduct and the old school building on Ironbridge Road. The postcard was produced by &#8220;Hardings&#8217; (Bristol &#38; Cardiff)&#8221; and part of their &#8220;Progress Series&#8221;. I&#8217;ve got a few other cards by ... <a title="Postcards from Tongwynlais – Part 17" class="read-more" href="https://tongwynlais.com/2023/06/21/postcards-from-tongwynlais-part-17/" aria-label="More on Postcards from Tongwynlais – Part 17">more...</a>]]></description>
 		
 					<wfw:commentRss>https://tongwynlais.com/2023/06/21/postcards-from-tongwynlais-part-17/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
+			<slash:comments>1</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">18936</post-id>	</item>
@@ -211,26 +232,5 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">18480</post-id>	</item>
-		<item>
-		<title>The Lady in Grey</title>
-		<link>https://tongwynlais.com/2022/10/29/the-lady-in-grey/</link>
-					<comments>https://tongwynlais.com/2022/10/29/the-lady-in-grey/#respond</comments>
-		
-		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
-		<pubDate>Sat, 29 Oct 2022 12:50:04 +0000</pubDate>
-				<category><![CDATA[History]]></category>
-		<category><![CDATA[dh]]></category>
-		<category><![CDATA[greenmeadow house]]></category>
-		<category><![CDATA[halloween]]></category>
-		<category><![CDATA[welsh newspapers]]></category>
-		<guid isPermaLink="false">https://tongwynlais.com/?p=18390</guid>
-
-					<description><![CDATA[A MYSTERIOUS GHOST AT GREENMEADOW Mrs. Lewis Felt Its Arm Round Her Waist, and Other Members of the Family Have Seen It. BY “GWEN.” It is hard to believe that a ghost, real and genuine, would venture in these cold prosaic days to haunt an old country house within a few miles of practical go-ahead ... <a title="The Lady in Grey" class="read-more" href="https://tongwynlais.com/2022/10/29/the-lady-in-grey/" aria-label="More on The Lady in Grey">more...</a>]]></description>
-		
-					<wfw:commentRss>https://tongwynlais.com/2022/10/29/the-lady-in-grey/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">18390</post-id>	</item>
 	</channel>
 </rss>
