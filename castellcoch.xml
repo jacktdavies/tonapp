@@ -15,7 +15,7 @@
 	<atom:link href="https://castellcoch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://castellcoch.com</link>
 	<description></description>
-	<lastBuildDate>Tue, 27 Jun 2023 09:45:09 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 21 Jul 2023 08:00:17 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,9 +31,28 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">184115289</site>	<item>
+		<title>Letters Describing a Tour Through Part of South Wales</title>
+		<link>https://castellcoch.com/2023/07/21/letters-describing-a-tour-through-part-of-south-wales/</link>
+					<comments>https://castellcoch.com/2023/07/21/letters-describing-a-tour-through-part-of-south-wales/#respond</comments>
+		
+		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
+		<pubDate>Fri, 21 Jul 2023 08:00:15 +0000</pubDate>
+				<category><![CDATA[Art]]></category>
+		<category><![CDATA[1797]]></category>
+		<category><![CDATA[book]]></category>
+		<category><![CDATA[travel]]></category>
+		<guid isPermaLink="false">https://castellcoch.com/?p=4085</guid>
+
+					<description><![CDATA[&#8220;Letters Describing a Tour Through Part of South Wales&#8221; was written by Armand-Louis-Bon Maudet, Comte de Penhouët (1764 &#8211; 1839) and published in 1797. The book is a collection of letters written to an anonymous lady and &#8220;sketches of every object that had attracted my attention.&#8221; The Breton aristocrat was in exile in Britain because ... <p class="read-more-container"><a title="Letters Describing a Tour Through Part of South Wales" class="read-more button" href="https://castellcoch.com/2023/07/21/letters-describing-a-tour-through-part-of-south-wales/#more-4085" aria-label="More on Letters Describing a Tour Through Part of South Wales">Read more</a></p>]]></description>
+		
+					<wfw:commentRss>https://castellcoch.com/2023/07/21/letters-describing-a-tour-through-part-of-south-wales/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">4085</post-id>	</item>
+		<item>
 		<title>Castell Coch by John Stuart Corbett</title>
 		<link>https://castellcoch.com/2023/06/27/castell-coch-by-john-stuart-corbett/</link>
-					<comments>https://castellcoch.com/2023/06/27/castell-coch-by-john-stuart-corbett/#respond</comments>
 		
 		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
 		<pubDate>Tue, 27 Jun 2023 09:45:08 +0000</pubDate>
@@ -46,8 +65,6 @@
 
 					<description><![CDATA[I purchased this booklet a few years ago but I&#8217;ve only recently looked into the history of the author. It&#8217;s an excerpt from Volume L (50) of the &#8220;Transactions of The Cardiff Naturalists&#8217; Society&#8221;. It contains a report by John Stuart Corbett on the Society&#8217;s visit to Castell Coch on June 27th 1917. The booklet ... <p class="read-more-container"><a title="Castell Coch by John Stuart Corbett" class="read-more button" href="https://castellcoch.com/2023/06/27/castell-coch-by-john-stuart-corbett/#more-4048" aria-label="More on Castell Coch by John Stuart Corbett">Read more</a></p>]]></description>
 		
-					<wfw:commentRss>https://castellcoch.com/2023/06/27/castell-coch-by-john-stuart-corbett/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">4048</post-id>	</item>
@@ -198,22 +215,5 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">3700</post-id>	</item>
-		<item>
-		<title>Castell Coch by Terence Soames</title>
-		<link>https://castellcoch.com/2022/09/28/castell-coch-by-terence-soames/</link>
-		
-		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
-		<pubDate>Wed, 28 Sep 2022 09:46:56 +0000</pubDate>
-				<category><![CDATA[History]]></category>
-		<category><![CDATA[1957]]></category>
-		<category><![CDATA[aerial photo]]></category>
-		<category><![CDATA[terence soames]]></category>
-		<guid isPermaLink="false">https://castellcoch.com/?p=3686</guid>
-
-					<description><![CDATA[I shared some aerial photos of the Taff Valley by Terence Soames earlier in the year. One of the photos was this spectacular shot of the Walnut Tree Viaduct and Castell Coch, which was taken in 1957. Terence Soames was an aerial photographer and worked for H. Tempest (Cardiff) Ltd in the 1950s. The main ... <p class="read-more-container"><a title="Castell Coch by Terence Soames" class="read-more button" href="https://castellcoch.com/2022/09/28/castell-coch-by-terence-soames/#more-3686" aria-label="More on Castell Coch by Terence Soames">Read more</a></p>]]></description>
-		
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">3686</post-id>	</item>
 	</channel>
 </rss>
