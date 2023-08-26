@@ -15,7 +15,7 @@
 	<atom:link href="https://castellcoch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://castellcoch.com</link>
 	<description></description>
-	<lastBuildDate>Fri, 21 Jul 2023 08:00:17 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 26 Aug 2023 14:27:47 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,9 +31,28 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">184115289</site>	<item>
+		<title>Castell Coch in the Valentine Collection</title>
+		<link>https://castellcoch.com/2023/08/26/castell-coch-in-the-valentine-collection/</link>
+					<comments>https://castellcoch.com/2023/08/26/castell-coch-in-the-valentine-collection/#respond</comments>
+		
+		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
+		<pubDate>Sat, 26 Aug 2023 14:27:46 +0000</pubDate>
+				<category><![CDATA[Photography]]></category>
+		<category><![CDATA[james valentine]]></category>
+		<category><![CDATA[postcard]]></category>
+		<guid isPermaLink="false">https://castellcoch.com/?p=4133</guid>
+
+					<description><![CDATA[The James Valentine Collection is the photographic production of a business which began operation in 1851 in Dundee, Scotland. Although many people think of Valentine&#8217;s as postcard publishers, they produced several types of photographic products. There&#8217;s a very comprehensive history in the collection that charts the rise and fall of the business. I have quite ... <p class="read-more-container"><a title="Castell Coch in the Valentine Collection" class="read-more button" href="https://castellcoch.com/2023/08/26/castell-coch-in-the-valentine-collection/#more-4133" aria-label="More on Castell Coch in the Valentine Collection">Read more</a></p>]]></description>
+		
+					<wfw:commentRss>https://castellcoch.com/2023/08/26/castell-coch-in-the-valentine-collection/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">4133</post-id>	</item>
+		<item>
 		<title>Letters Describing a Tour Through Part of South Wales</title>
 		<link>https://castellcoch.com/2023/07/21/letters-describing-a-tour-through-part-of-south-wales/</link>
-					<comments>https://castellcoch.com/2023/07/21/letters-describing-a-tour-through-part-of-south-wales/#respond</comments>
+					<comments>https://castellcoch.com/2023/07/21/letters-describing-a-tour-through-part-of-south-wales/#comments</comments>
 		
 		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
 		<pubDate>Fri, 21 Jul 2023 08:00:15 +0000</pubDate>
@@ -46,7 +65,7 @@
 					<description><![CDATA[&#8220;Letters Describing a Tour Through Part of South Wales&#8221; was written by Armand-Louis-Bon Maudet, Comte de Penhouët (1764 &#8211; 1839) and published in 1797. The book is a collection of letters written to an anonymous lady and &#8220;sketches of every object that had attracted my attention.&#8221; The Breton aristocrat was in exile in Britain because ... <p class="read-more-container"><a title="Letters Describing a Tour Through Part of South Wales" class="read-more button" href="https://castellcoch.com/2023/07/21/letters-describing-a-tour-through-part-of-south-wales/#more-4085" aria-label="More on Letters Describing a Tour Through Part of South Wales">Read more</a></p>]]></description>
 		
 					<wfw:commentRss>https://castellcoch.com/2023/07/21/letters-describing-a-tour-through-part-of-south-wales/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
+			<slash:comments>2</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">4085</post-id>	</item>
@@ -199,21 +218,5 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">3742</post-id>	</item>
-		<item>
-		<title>Illustrations of Castell Coch by Sue Shields</title>
-		<link>https://castellcoch.com/2022/10/22/illustrations-of-castell-coch-by-sue-shields/</link>
-		
-		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
-		<pubDate>Sat, 22 Oct 2022 12:41:54 +0000</pubDate>
-				<category><![CDATA[Art]]></category>
-		<category><![CDATA[cadw]]></category>
-		<category><![CDATA[illustration]]></category>
-		<guid isPermaLink="false">https://castellcoch.com/?p=3700</guid>
-
-					<description><![CDATA[Cardiff illustrator Sue Shields produced a series of illustrations that were featured on Cadw gifts in the late 1980s and early 1990s. I purchased a beautiful plate recently and got in touch with Sue to find out how she got involved in this project. Tea Towel Sue sent me this image of a tea towel ... <p class="read-more-container"><a title="Illustrations of Castell Coch by Sue Shields" class="read-more button" href="https://castellcoch.com/2022/10/22/illustrations-of-castell-coch-by-sue-shields/#more-3700" aria-label="More on Illustrations of Castell Coch by Sue Shields">Read more</a></p>]]></description>
-		
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">3700</post-id>	</item>
 	</channel>
 </rss>
