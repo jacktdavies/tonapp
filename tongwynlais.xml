@@ -15,7 +15,7 @@
 	<atom:link href="https://tongwynlais.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://tongwynlais.com</link>
 	<description></description>
-	<lastBuildDate>Wed, 19 Jul 2023 08:05:42 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 24 Aug 2023 18:51:59 +0000</lastBuildDate>
 	<language>en-GB</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,6 +31,26 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">37574071</site>	<item>
+		<title>Cardiff in Pixels &#8211; Part 1</title>
+		<link>https://tongwynlais.com/2023/08/24/cardiff-in-pixels-part-1/</link>
+					<comments>https://tongwynlais.com/2023/08/24/cardiff-in-pixels-part-1/#comments</comments>
+		
+		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
+		<pubDate>Thu, 24 Aug 2023 18:51:30 +0000</pubDate>
+				<category><![CDATA[Art]]></category>
+		<category><![CDATA[cardiff]]></category>
+		<category><![CDATA[dh]]></category>
+		<category><![CDATA[pixel art]]></category>
+		<guid isPermaLink="false">https://tongwynlais.com/?p=19031</guid>
+
+					<description><![CDATA[I&#8217;ve really enjoyed creating pixel art illustrations of buildings in Tongwynlais. I couldn&#8217;t resist attempting some of the larger landmarks in our capital city. This was a really enjoyable project and posed some challenges with the larger buildings. I really hope you enjoy them. The Pierhead Insole Court Cardiff Castle City Hall Norwegian Church Principality ... <a title="Cardiff in Pixels &#8211; Part 1" class="read-more" href="https://tongwynlais.com/2023/08/24/cardiff-in-pixels-part-1/" aria-label="More on Cardiff in Pixels &#8211; Part 1">more...</a>]]></description>
+		
+					<wfw:commentRss>https://tongwynlais.com/2023/08/24/cardiff-in-pixels-part-1/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">19031</post-id>	</item>
+		<item>
 		<title>Pixel Art Tongwynlais – Part 3</title>
 		<link>https://tongwynlais.com/2023/07/19/pixel-art-tongwynlais-part-3/</link>
 					<comments>https://tongwynlais.com/2023/07/19/pixel-art-tongwynlais-part-3/#respond</comments>
@@ -212,25 +232,5 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">18504</post-id>	</item>
-		<item>
-		<title>In Proud and Honoured Memory</title>
-		<link>https://tongwynlais.com/2022/11/11/in-proud-and-honoured-memory/</link>
-					<comments>https://tongwynlais.com/2022/11/11/in-proud-and-honoured-memory/#comments</comments>
-		
-		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
-		<pubDate>Fri, 11 Nov 2022 07:36:55 +0000</pubDate>
-				<category><![CDATA[History]]></category>
-		<category><![CDATA[dh]]></category>
-		<category><![CDATA[remembrance]]></category>
-		<category><![CDATA[war memorial]]></category>
-		<guid isPermaLink="false">https://tongwynlais.com/?p=18480</guid>
-
-					<description><![CDATA[Ceri Stennett has been researching the history of the World Wars and collating information about those who served. He wrote &#8220;Fallen Heroes of the Great War: In Proud and Honoured Memory&#8221; with Gwyn Prescott in 2018. He followed this up in 2021 with &#8220;Fallen Heroes of World War II: In Proud and Honoured Memory&#8221;. Ceri ... <a title="In Proud and Honoured Memory" class="read-more" href="https://tongwynlais.com/2022/11/11/in-proud-and-honoured-memory/" aria-label="More on In Proud and Honoured Memory">more...</a>]]></description>
-		
-					<wfw:commentRss>https://tongwynlais.com/2022/11/11/in-proud-and-honoured-memory/feed/</wfw:commentRss>
-			<slash:comments>2</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">18480</post-id>	</item>
 	</channel>
 </rss>
