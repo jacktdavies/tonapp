@@ -15,7 +15,7 @@
 	<atom:link href="https://tongwynlais.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://tongwynlais.com</link>
 	<description></description>
-	<lastBuildDate>Thu, 24 Aug 2023 18:51:59 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 17 Sep 2023 18:36:08 +0000</lastBuildDate>
 	<language>en-GB</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,6 +31,27 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">37574071</site>	<item>
+		<title>Tongwynlais Village Then and Now – Part 5</title>
+		<link>https://tongwynlais.com/2023/09/17/tongwynlais-village-then-and-now-part-5/</link>
+					<comments>https://tongwynlais.com/2023/09/17/tongwynlais-village-then-and-now-part-5/#respond</comments>
+		
+		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
+		<pubDate>Sun, 17 Sep 2023 18:36:07 +0000</pubDate>
+				<category><![CDATA[History]]></category>
+		<category><![CDATA[bennetts]]></category>
+		<category><![CDATA[dh]]></category>
+		<category><![CDATA[parrys]]></category>
+		<category><![CDATA[then and now]]></category>
+		<guid isPermaLink="false">https://tongwynlais.com/?p=19052</guid>
+
+					<description><![CDATA[I&#8217;m delighted to bring you another instalment of &#8220;Tongwynlais Village Then and Now&#8221;. The images I&#8217;ve unearthed aren&#8217;t that old but they show a unique view of Merthyr Road in the 1980s. I reached out to my regular contributors and they&#8217;ve provided some information about Bennett&#8217;s garage and Parry&#8217;s store. Bennetts of Tongwynlais Bennett&#8217;s garage ... <a title="Tongwynlais Village Then and Now – Part 5" class="read-more" href="https://tongwynlais.com/2023/09/17/tongwynlais-village-then-and-now-part-5/" aria-label="More on Tongwynlais Village Then and Now – Part 5">more...</a>]]></description>
+		
+					<wfw:commentRss>https://tongwynlais.com/2023/09/17/tongwynlais-village-then-and-now-part-5/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">19052</post-id>	</item>
+		<item>
 		<title>Cardiff in Pixels &#8211; Part 1</title>
 		<link>https://tongwynlais.com/2023/08/24/cardiff-in-pixels-part-1/</link>
 					<comments>https://tongwynlais.com/2023/08/24/cardiff-in-pixels-part-1/#comments</comments>
@@ -211,26 +232,5 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">18544</post-id>	</item>
-		<item>
-		<title>North Cardiff Trails</title>
-		<link>https://tongwynlais.com/2022/11/20/north-cardiff-trails/</link>
-					<comments>https://tongwynlais.com/2022/11/20/north-cardiff-trails/#respond</comments>
-		
-		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
-		<pubDate>Sun, 20 Nov 2022 15:47:23 +0000</pubDate>
-				<category><![CDATA[Adventures]]></category>
-		<category><![CDATA[activities]]></category>
-		<category><![CDATA[dh]]></category>
-		<category><![CDATA[mountain bike]]></category>
-		<category><![CDATA[trail running]]></category>
-		<guid isPermaLink="false">https://tongwynlais.com/?p=18504</guid>
-
-					<description><![CDATA[I spend a lot time enjoying the local trails, either walking, running or cycling. I was interested to see a new group form earlier this year with the aim of improving the mountain bike trails in the area. North Cardiff Trails are planning to work with land owners, local riders, businesses and trail users to ... <a title="North Cardiff Trails" class="read-more" href="https://tongwynlais.com/2022/11/20/north-cardiff-trails/" aria-label="More on North Cardiff Trails">more...</a>]]></description>
-		
-					<wfw:commentRss>https://tongwynlais.com/2022/11/20/north-cardiff-trails/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">18504</post-id>	</item>
 	</channel>
 </rss>
