@@ -15,7 +15,7 @@
 	<atom:link href="https://castellcoch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://castellcoch.com</link>
 	<description></description>
-	<lastBuildDate>Sat, 26 Aug 2023 14:27:47 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 26 Sep 2023 09:02:13 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,9 +31,27 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">184115289</site>	<item>
+		<title>Postcards of Castell Coch – Part 7</title>
+		<link>https://castellcoch.com/2023/09/26/postcards-of-castell-coch-part-7/</link>
+					<comments>https://castellcoch.com/2023/09/26/postcards-of-castell-coch-part-7/#respond</comments>
+		
+		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
+		<pubDate>Tue, 26 Sep 2023 09:02:12 +0000</pubDate>
+				<category><![CDATA[History]]></category>
+		<category><![CDATA[postcard]]></category>
+		<guid isPermaLink="false">https://castellcoch.com/?p=4165</guid>
+
+					<description><![CDATA[I&#8217;ve been planning a series of blog posts that look at each room in Castell Coch. While I work on this I thought I&#8217;d share another postcard from my collection. This view of Lady Bute&#8217;s bedroom is from a 1967 postcard published by the Ministry of Public Building and Works. William Burges&#8217; stencilled cabinet isn&#8217;t ... <p class="read-more-container"><a title="Postcards of Castell Coch – Part 7" class="read-more button" href="https://castellcoch.com/2023/09/26/postcards-of-castell-coch-part-7/#more-4165" aria-label="More on Postcards of Castell Coch – Part 7">Read more</a></p>]]></description>
+		
+					<wfw:commentRss>https://castellcoch.com/2023/09/26/postcards-of-castell-coch-part-7/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">4165</post-id>	</item>
+		<item>
 		<title>Castell Coch in the Valentine Collection</title>
 		<link>https://castellcoch.com/2023/08/26/castell-coch-in-the-valentine-collection/</link>
-					<comments>https://castellcoch.com/2023/08/26/castell-coch-in-the-valentine-collection/#respond</comments>
+					<comments>https://castellcoch.com/2023/08/26/castell-coch-in-the-valentine-collection/#comments</comments>
 		
 		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
 		<pubDate>Sat, 26 Aug 2023 14:27:46 +0000</pubDate>
@@ -45,7 +63,7 @@
 					<description><![CDATA[The James Valentine Collection is the photographic production of a business which began operation in 1851 in Dundee, Scotland. Although many people think of Valentine&#8217;s as postcard publishers, they produced several types of photographic products. There&#8217;s a very comprehensive history in the collection that charts the rise and fall of the business. I have quite ... <p class="read-more-container"><a title="Castell Coch in the Valentine Collection" class="read-more button" href="https://castellcoch.com/2023/08/26/castell-coch-in-the-valentine-collection/#more-4133" aria-label="More on Castell Coch in the Valentine Collection">Read more</a></p>]]></description>
 		
 					<wfw:commentRss>https://castellcoch.com/2023/08/26/castell-coch-in-the-valentine-collection/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
+			<slash:comments>1</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">4133</post-id>	</item>
@@ -201,22 +219,5 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">3785</post-id>	</item>
-		<item>
-		<title>The View from the Iron Bridge &#8211; Part 1</title>
-		<link>https://castellcoch.com/2022/11/28/the-view-from-the-iron-bridge-part-1/</link>
-		
-		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
-		<pubDate>Mon, 28 Nov 2022 20:50:27 +0000</pubDate>
-				<category><![CDATA[Photography]]></category>
-		<category><![CDATA[fforest fawr]]></category>
-		<category><![CDATA[Iron Bridge]]></category>
-		<category><![CDATA[River Taff]]></category>
-		<guid isPermaLink="false">https://castellcoch.com/?p=3742</guid>
-
-					<description><![CDATA[Castell Coch rises from the forest and overlooks the River Taff. The sky is reflected in the water, creating a glassy surface with gentle ripples. I pass this spot regularly and have formed a habit of capturing the view whenever I can. Sometimes it&#8217;s grey and foggy so I may not take a photo. Occasionally ... <p class="read-more-container"><a title="The View from the Iron Bridge &#8211; Part 1" class="read-more button" href="https://castellcoch.com/2022/11/28/the-view-from-the-iron-bridge-part-1/#more-3742" aria-label="More on The View from the Iron Bridge &#8211; Part 1">Read more</a></p>]]></description>
-		
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">3742</post-id>	</item>
 	</channel>
 </rss>
