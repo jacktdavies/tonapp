@@ -15,7 +15,7 @@
 	<atom:link href="https://tongwynlais.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://tongwynlais.com</link>
 	<description></description>
-	<lastBuildDate>Sun, 17 Sep 2023 18:36:08 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 31 Oct 2023 10:21:30 +0000</lastBuildDate>
 	<language>en-GB</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,9 +31,29 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">37574071</site>	<item>
+		<title>The Ghosts of Greenmeadow</title>
+		<link>https://tongwynlais.com/2023/10/31/the-ghosts-of-greenmeadow/</link>
+					<comments>https://tongwynlais.com/2023/10/31/the-ghosts-of-greenmeadow/#respond</comments>
+		
+		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
+		<pubDate>Tue, 31 Oct 2023 10:21:29 +0000</pubDate>
+				<category><![CDATA[History]]></category>
+		<category><![CDATA[dh]]></category>
+		<category><![CDATA[greenmeadow house]]></category>
+		<category><![CDATA[halloween]]></category>
+		<guid isPermaLink="false">https://tongwynlais.com/?p=19104</guid>
+
+					<description><![CDATA[The Ghosts of Greenmeadow are documented in the book, &#8220;Old Whitchurch &#8211; The Story of a Glamorgan Parish&#8221; by Edgar L. Chappell. This fantastic book was first published in 1945. The stories are also recounted by Roger Brown in, &#8220;Turn of the Century Ton &#8211; Something about the history of Tongwynlais&#8221; from 1982. The stories ... <a title="The Ghosts of Greenmeadow" class="read-more" href="https://tongwynlais.com/2023/10/31/the-ghosts-of-greenmeadow/" aria-label="More on The Ghosts of Greenmeadow">more...</a>]]></description>
+		
+					<wfw:commentRss>https://tongwynlais.com/2023/10/31/the-ghosts-of-greenmeadow/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">19104</post-id>	</item>
+		<item>
 		<title>Tongwynlais Village Then and Now – Part 5</title>
 		<link>https://tongwynlais.com/2023/09/17/tongwynlais-village-then-and-now-part-5/</link>
-					<comments>https://tongwynlais.com/2023/09/17/tongwynlais-village-then-and-now-part-5/#respond</comments>
+					<comments>https://tongwynlais.com/2023/09/17/tongwynlais-village-then-and-now-part-5/#comments</comments>
 		
 		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
 		<pubDate>Sun, 17 Sep 2023 18:36:07 +0000</pubDate>
@@ -47,7 +67,7 @@
 					<description><![CDATA[I&#8217;m delighted to bring you another instalment of &#8220;Tongwynlais Village Then and Now&#8221;. The images I&#8217;ve unearthed aren&#8217;t that old but they show a unique view of Merthyr Road in the 1980s. I reached out to my regular contributors and they&#8217;ve provided some information about Bennett&#8217;s garage and Parry&#8217;s store. Bennetts of Tongwynlais Bennett&#8217;s garage ... <a title="Tongwynlais Village Then and Now – Part 5" class="read-more" href="https://tongwynlais.com/2023/09/17/tongwynlais-village-then-and-now-part-5/" aria-label="More on Tongwynlais Village Then and Now – Part 5">more...</a>]]></description>
 		
 					<wfw:commentRss>https://tongwynlais.com/2023/09/17/tongwynlais-village-then-and-now-part-5/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
+			<slash:comments>1</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">19052</post-id>	</item>
@@ -212,25 +232,5 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">18587</post-id>	</item>
-		<item>
-		<title>Postcards from Tongwynlais – Part 16</title>
-		<link>https://tongwynlais.com/2022/12/20/postcards-from-tongwynlais-part-16/</link>
-					<comments>https://tongwynlais.com/2022/12/20/postcards-from-tongwynlais-part-16/#comments</comments>
-		
-		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
-		<pubDate>Tue, 20 Dec 2022 12:58:49 +0000</pubDate>
-				<category><![CDATA[History]]></category>
-		<category><![CDATA[castell coch]]></category>
-		<category><![CDATA[dh]]></category>
-		<category><![CDATA[postcard]]></category>
-		<guid isPermaLink="false">https://tongwynlais.com/?p=18544</guid>
-
-					<description><![CDATA[I have another fantastic image from Tempest Postcards by Terence Soames. This card features an aerial photo of Castell Coch overlooking the village. It wasn&#8217;t posted so I had to do some more detective work. Terence Soames worked for Tempest in the 1950s and H. Tempest Ltd moved from Nottingham to Cornwall around this time. ... <a title="Postcards from Tongwynlais – Part 16" class="read-more" href="https://tongwynlais.com/2022/12/20/postcards-from-tongwynlais-part-16/" aria-label="More on Postcards from Tongwynlais – Part 16">more...</a>]]></description>
-		
-					<wfw:commentRss>https://tongwynlais.com/2022/12/20/postcards-from-tongwynlais-part-16/feed/</wfw:commentRss>
-			<slash:comments>4</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">18544</post-id>	</item>
 	</channel>
 </rss>
