@@ -15,7 +15,7 @@
 	<atom:link href="https://tongwynlais.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://tongwynlais.com</link>
 	<description></description>
-	<lastBuildDate>Tue, 31 Oct 2023 10:21:30 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 18 Nov 2023 09:35:46 +0000</lastBuildDate>
 	<language>en-GB</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,6 +31,27 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">37574071</site>	<item>
+		<title>Tongwynlais Walks – Part 2</title>
+		<link>https://tongwynlais.com/2023/11/18/tongwynlais-walks-part-2/</link>
+					<comments>https://tongwynlais.com/2023/11/18/tongwynlais-walks-part-2/#respond</comments>
+		
+		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
+		<pubDate>Sat, 18 Nov 2023 09:35:45 +0000</pubDate>
+				<category><![CDATA[Adventures]]></category>
+		<category><![CDATA[dh]]></category>
+		<category><![CDATA[illustration]]></category>
+		<category><![CDATA[trail running]]></category>
+		<category><![CDATA[walking]]></category>
+		<guid isPermaLink="false">https://tongwynlais.com/?p=19146</guid>
+
+					<description><![CDATA[I covered local walks in the first instalment of this series. In this post I&#8217;m going to share some information about two of the biggest Welsh walks that pass through the area and some signs you&#8217;ll see on the trails. I&#8217;ve included some basic information about the different types of routes you&#8217;ll encounter. Public Footpaths ... <a title="Tongwynlais Walks – Part 2" class="read-more" href="https://tongwynlais.com/2023/11/18/tongwynlais-walks-part-2/" aria-label="More on Tongwynlais Walks – Part 2">more...</a>]]></description>
+		
+					<wfw:commentRss>https://tongwynlais.com/2023/11/18/tongwynlais-walks-part-2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">19146</post-id>	</item>
+		<item>
 		<title>The Ghosts of Greenmeadow</title>
 		<link>https://tongwynlais.com/2023/10/31/the-ghosts-of-greenmeadow/</link>
 					<comments>https://tongwynlais.com/2023/10/31/the-ghosts-of-greenmeadow/#respond</comments>
@@ -213,24 +234,5 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">18662</post-id>	</item>
-		<item>
-		<title>HOKA Torrent 2 &#8211; 350 Mile Review</title>
-		<link>https://tongwynlais.com/2023/01/17/hoka-torrent-2-350-mile-review/</link>
-					<comments>https://tongwynlais.com/2023/01/17/hoka-torrent-2-350-mile-review/#respond</comments>
-		
-		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
-		<pubDate>Tue, 17 Jan 2023 13:34:50 +0000</pubDate>
-				<category><![CDATA[Adventures]]></category>
-		<category><![CDATA[dh]]></category>
-		<category><![CDATA[trail running]]></category>
-		<guid isPermaLink="false">https://tongwynlais.com/?p=18587</guid>
-
-					<description><![CDATA[Overview Trail running is a big part of my life so I&#8217;ve started this new series on a runner&#8217;s most important piece of equipment. This is my long term &#8220;review&#8221; of the HOKA Torrent 2 after 350 miles. After using three generations of the Saucony Peregrine series I decided to try another brand and gain ... <a title="HOKA Torrent 2 &#8211; 350 Mile Review" class="read-more" href="https://tongwynlais.com/2023/01/17/hoka-torrent-2-350-mile-review/" aria-label="More on HOKA Torrent 2 &#8211; 350 Mile Review">more...</a>]]></description>
-		
-					<wfw:commentRss>https://tongwynlais.com/2023/01/17/hoka-torrent-2-350-mile-review/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">18587</post-id>	</item>
 	</channel>
 </rss>
