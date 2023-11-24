@@ -15,7 +15,7 @@
 	<atom:link href="https://castellcoch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://castellcoch.com</link>
 	<description></description>
-	<lastBuildDate>Tue, 17 Oct 2023 12:06:48 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 24 Nov 2023 12:12:33 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,9 +31,30 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">184115289</site>	<item>
+		<title>Castell Coch by John Hassell</title>
+		<link>https://castellcoch.com/2023/11/24/castell-coch-by-john-hassell/</link>
+					<comments>https://castellcoch.com/2023/11/24/castell-coch-by-john-hassell/#respond</comments>
+		
+		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
+		<pubDate>Fri, 24 Nov 2023 12:12:33 +0000</pubDate>
+				<category><![CDATA[Art]]></category>
+		<category><![CDATA[1800s]]></category>
+		<category><![CDATA[book]]></category>
+		<category><![CDATA[illustration]]></category>
+		<category><![CDATA[John Hassell]]></category>
+		<guid isPermaLink="false">https://castellcoch.com/?p=4264</guid>
+
+					<description><![CDATA[John Hassell was an English watercolour landscape painter, engraver, illustrator, writer and publisher. &#8220;The Beauties of Antiquity Or Remnants of Feudal Splendour and Monastic Times&#8221; was published in 1806 and contains a fantastic illustration of Castell Coch. There&#8217;s a short description of the castle and some of its history. The magnificence of its front is ... <p class="read-more-container"><a title="Castell Coch by John Hassell" class="read-more button" href="https://castellcoch.com/2023/11/24/castell-coch-by-john-hassell/#more-4264" aria-label="More on Castell Coch by John Hassell">Read more</a></p>]]></description>
+		
+					<wfw:commentRss>https://castellcoch.com/2023/11/24/castell-coch-by-john-hassell/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">4264</post-id>	</item>
+		<item>
 		<title>Castell Coch by Gary Yeung</title>
 		<link>https://castellcoch.com/2023/10/17/castell-coch-by-gary-yeung/</link>
-					<comments>https://castellcoch.com/2023/10/17/castell-coch-by-gary-yeung/#respond</comments>
+					<comments>https://castellcoch.com/2023/10/17/castell-coch-by-gary-yeung/#comments</comments>
 		
 		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
 		<pubDate>Tue, 17 Oct 2023 12:06:47 +0000</pubDate>
@@ -44,7 +65,7 @@
 					<description><![CDATA[I&#8217;m really pleased to share the art of Gary Yeung after he recently posted a fantastic illustration of Castell Coch for the popular #inktober2023 drawing challenge. I&#8217;ve been following him online for a while and got in touch when I realised he&#8217;s produced quite a few pieces featuring the castle. I asked Gary to tell ... <p class="read-more-container"><a title="Castell Coch by Gary Yeung" class="read-more button" href="https://castellcoch.com/2023/10/17/castell-coch-by-gary-yeung/#more-4211" aria-label="More on Castell Coch by Gary Yeung">Read more</a></p>]]></description>
 		
 					<wfw:commentRss>https://castellcoch.com/2023/10/17/castell-coch-by-gary-yeung/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
+			<slash:comments>1</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">4211</post-id>	</item>
@@ -201,20 +222,5 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">3848</post-id>	</item>
-		<item>
-		<title>Postcards of Castell Coch – Part 6</title>
-		<link>https://castellcoch.com/2023/01/23/postcards-of-castell-coch-part-6/</link>
-		
-		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
-		<pubDate>Mon, 23 Jan 2023 08:00:44 +0000</pubDate>
-				<category><![CDATA[History]]></category>
-		<category><![CDATA[postcard]]></category>
-		<guid isPermaLink="false">https://castellcoch.com/?p=3833</guid>
-
-					<description><![CDATA[Castell Coch is currently closed for its annual conservation housekeeping. The trees surrounding the castle are also undergoing some maintenance so I looked through some old postcards to see how the view has changed. This postcard was published by &#8220;The R. A. P. Co. Ltd. London. EC4.&#8221; It&#8217;s unposted but I believe it&#8217;s from between ... <p class="read-more-container"><a title="Postcards of Castell Coch – Part 6" class="read-more button" href="https://castellcoch.com/2023/01/23/postcards-of-castell-coch-part-6/#more-3833" aria-label="More on Postcards of Castell Coch – Part 6">Read more</a></p>]]></description>
-		
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">3833</post-id>	</item>
 	</channel>
 </rss>
