@@ -15,7 +15,7 @@
 	<atom:link href="https://tongwynlais.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://tongwynlais.com</link>
 	<description></description>
-	<lastBuildDate>Sat, 18 Nov 2023 09:35:46 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 18 Dec 2023 13:27:47 +0000</lastBuildDate>
 	<language>en-GB</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,6 +31,26 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">37574071</site>	<item>
+		<title>Postcards from Tongwynlais – Part 18</title>
+		<link>https://tongwynlais.com/2023/12/18/postcards-from-tongwynlais-part-18/</link>
+					<comments>https://tongwynlais.com/2023/12/18/postcards-from-tongwynlais-part-18/#respond</comments>
+		
+		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
+		<pubDate>Mon, 18 Dec 2023 13:27:47 +0000</pubDate>
+				<category><![CDATA[History]]></category>
+		<category><![CDATA[dh]]></category>
+		<category><![CDATA[postcard]]></category>
+		<category><![CDATA[river taff]]></category>
+		<guid isPermaLink="false">https://tongwynlais.com/?p=19219</guid>
+
+					<description><![CDATA[This instalment in the series is an assortment of postcards from my collection. I normally feature one postcard and do some research into the subject but I thought I&#8217;d share these unusual examples for a change. I don&#8217;t know much about these cards but they have some interesting images. The River Taff This photo of ... <a title="Postcards from Tongwynlais – Part 18" class="read-more" href="https://tongwynlais.com/2023/12/18/postcards-from-tongwynlais-part-18/" aria-label="More on Postcards from Tongwynlais – Part 18">more...</a>]]></description>
+		
+					<wfw:commentRss>https://tongwynlais.com/2023/12/18/postcards-from-tongwynlais-part-18/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">19219</post-id>	</item>
+		<item>
 		<title>Tongwynlais Walks – Part 2</title>
 		<link>https://tongwynlais.com/2023/11/18/tongwynlais-walks-part-2/</link>
 					<comments>https://tongwynlais.com/2023/11/18/tongwynlais-walks-part-2/#respond</comments>
@@ -213,26 +233,5 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">18710</post-id>	</item>
-		<item>
-		<title>Villa Cardiff &#8211; Part 1</title>
-		<link>https://tongwynlais.com/2023/02/12/villa-cardiff-part-1/</link>
-					<comments>https://tongwynlais.com/2023/02/12/villa-cardiff-part-1/#comments</comments>
-		
-		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
-		<pubDate>Sun, 12 Feb 2023 15:33:01 +0000</pubDate>
-				<category><![CDATA[History]]></category>
-		<category><![CDATA[arms]]></category>
-		<category><![CDATA[cardiff]]></category>
-		<category><![CDATA[design]]></category>
-		<category><![CDATA[dh]]></category>
-		<guid isPermaLink="false">https://tongwynlais.com/?p=18662</guid>
-
-					<description><![CDATA[This post was inspired by an article from John&#38;Jane that explored the design of a modern flag for Cardiff. One image jumped out at me because I&#8217;d seen it before and not given it much thought. I&#8217;m going to explore the use of these arms, show examples of different variations and try to determine when ... <a title="Villa Cardiff &#8211; Part 1" class="read-more" href="https://tongwynlais.com/2023/02/12/villa-cardiff-part-1/" aria-label="More on Villa Cardiff &#8211; Part 1">more...</a>]]></description>
-		
-					<wfw:commentRss>https://tongwynlais.com/2023/02/12/villa-cardiff-part-1/feed/</wfw:commentRss>
-			<slash:comments>1</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">18662</post-id>	</item>
 	</channel>
 </rss>
