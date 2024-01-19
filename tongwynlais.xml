@@ -15,7 +15,7 @@
 	<atom:link href="https://tongwynlais.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://tongwynlais.com</link>
 	<description></description>
-	<lastBuildDate>Mon, 18 Dec 2023 13:27:47 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 19 Jan 2024 08:19:23 +0000</lastBuildDate>
 	<language>en-GB</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,6 +31,26 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">37574071</site>	<item>
+		<title>Turn of the Century Ton</title>
+		<link>https://tongwynlais.com/2024/01/19/turn-of-the-century-ton/</link>
+					<comments>https://tongwynlais.com/2024/01/19/turn-of-the-century-ton/#respond</comments>
+		
+		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
+		<pubDate>Fri, 19 Jan 2024 08:19:22 +0000</pubDate>
+				<category><![CDATA[History]]></category>
+		<category><![CDATA[books]]></category>
+		<category><![CDATA[dh]]></category>
+		<category><![CDATA[roger brown]]></category>
+		<guid isPermaLink="false">https://tongwynlais.com/?p=19275</guid>
+
+					<description><![CDATA[I&#8217;ve acquired a collection of books over the years but I haven&#8217;t written about any of them. I&#8217;m going to start with one of my favourite items by Roger L Brown. Roger Brown was the vicar of St Michael&#8217;s Church from 1979 to 1993 and a keen historian. He retired and moved away from the ... <a title="Turn of the Century Ton" class="read-more" href="https://tongwynlais.com/2024/01/19/turn-of-the-century-ton/" aria-label="More on Turn of the Century Ton">more...</a>]]></description>
+		
+					<wfw:commentRss>https://tongwynlais.com/2024/01/19/turn-of-the-century-ton/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">19275</post-id>	</item>
+		<item>
 		<title>Postcards from Tongwynlais – Part 18</title>
 		<link>https://tongwynlais.com/2023/12/18/postcards-from-tongwynlais-part-18/</link>
 					<comments>https://tongwynlais.com/2023/12/18/postcards-from-tongwynlais-part-18/#respond</comments>
@@ -211,27 +231,5 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">18766</post-id>	</item>
-		<item>
-		<title>Fireworks at Greenmeadow</title>
-		<link>https://tongwynlais.com/2023/03/13/fireworks-at-greenmeadow/</link>
-					<comments>https://tongwynlais.com/2023/03/13/fireworks-at-greenmeadow/#respond</comments>
-		
-		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
-		<pubDate>Mon, 13 Mar 2023 10:45:41 +0000</pubDate>
-				<category><![CDATA[History]]></category>
-		<category><![CDATA[1863]]></category>
-		<category><![CDATA[dh]]></category>
-		<category><![CDATA[greenmeadow house]]></category>
-		<category><![CDATA[Lewis]]></category>
-		<category><![CDATA[newspaper]]></category>
-		<guid isPermaLink="false">https://tongwynlais.com/?p=18710</guid>
-
-					<description><![CDATA[This news story was published on 13th March 1863 in The Cardiff Times. The village celebrated the wedding of Albert Edward, Prince of Wales, and Princess Alexandra of Denmark. Here an interesting seen was presented on the 10th inst., in honour of the marriage of the Prince of Wales. The members of the Sunday School ... <a title="Fireworks at Greenmeadow" class="read-more" href="https://tongwynlais.com/2023/03/13/fireworks-at-greenmeadow/" aria-label="More on Fireworks at Greenmeadow">more...</a>]]></description>
-		
-					<wfw:commentRss>https://tongwynlais.com/2023/03/13/fireworks-at-greenmeadow/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">18710</post-id>	</item>
 	</channel>
 </rss>
