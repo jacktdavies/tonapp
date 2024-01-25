@@ -15,7 +15,7 @@
 	<atom:link href="https://castellcoch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://castellcoch.com</link>
 	<description></description>
-	<lastBuildDate>Thu, 14 Dec 2023 20:36:59 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 25 Jan 2024 13:30:04 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,9 +31,27 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">184115289</site>	<item>
+		<title>Postcards of Castell Coch – Part 8</title>
+		<link>https://castellcoch.com/2024/01/25/postcards-of-castell-coch-part-8/</link>
+					<comments>https://castellcoch.com/2024/01/25/postcards-of-castell-coch-part-8/#respond</comments>
+		
+		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
+		<pubDate>Thu, 25 Jan 2024 13:30:03 +0000</pubDate>
+				<category><![CDATA[History]]></category>
+		<category><![CDATA[postcard]]></category>
+		<guid isPermaLink="false">https://castellcoch.com/?p=4433</guid>
+
+					<description><![CDATA[When I&#8217;m researching old postcards, it&#8217;s sometimes a struggle to identify the publisher and often difficult to find out much information about them. I was delighted to discover the amazing TuckDB Postcards, which has documented over 135,000 cards from the famous publisher. CDF 72 &#8211; Castle Coch, Near Cardiff (1959) I bought this postcard a ... <p class="read-more-container"><a title="Postcards of Castell Coch – Part 8" class="read-more button" href="https://castellcoch.com/2024/01/25/postcards-of-castell-coch-part-8/#more-4433" aria-label="More on Postcards of Castell Coch – Part 8">Read more</a></p>]]></description>
+		
+					<wfw:commentRss>https://castellcoch.com/2024/01/25/postcards-of-castell-coch-part-8/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">4433</post-id>	</item>
+		<item>
 		<title>Castles and Abbeys of Wales</title>
 		<link>https://castellcoch.com/2023/12/14/castles-and-abbeys-of-wales/</link>
-					<comments>https://castellcoch.com/2023/12/14/castles-and-abbeys-of-wales/#respond</comments>
+					<comments>https://castellcoch.com/2023/12/14/castles-and-abbeys-of-wales/#comments</comments>
 		
 		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
 		<pubDate>Thu, 14 Dec 2023 20:36:57 +0000</pubDate>
@@ -47,7 +65,7 @@
 					<description><![CDATA[&#8220;Castles and Abbeys of Wales&#8221; was written by D J Cathcart King (MC, LLM, FSA) and published by the Department of the Environment in 1975. The 40 page book features 49 monuments and 32 photographs. The two photos of Castell Coch (below) are prominently featured in the centre of the book. The monuments are organised ... <p class="read-more-container"><a title="Castles and Abbeys of Wales" class="read-more button" href="https://castellcoch.com/2023/12/14/castles-and-abbeys-of-wales/#more-4337" aria-label="More on Castles and Abbeys of Wales">Read more</a></p>]]></description>
 		
 					<wfw:commentRss>https://castellcoch.com/2023/12/14/castles-and-abbeys-of-wales/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
+			<slash:comments>2</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">4337</post-id>	</item>
@@ -201,24 +219,5 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">3958</post-id>	</item>
-		<item>
-		<title>Castell Coch by Paul Sharp</title>
-		<link>https://castellcoch.com/2023/03/28/castell-coch-by-paul-sharp/</link>
-		
-		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
-		<pubDate>Tue, 28 Mar 2023 14:36:11 +0000</pubDate>
-				<category><![CDATA[Art]]></category>
-		<category><![CDATA[1960s]]></category>
-		<category><![CDATA[book]]></category>
-		<category><![CDATA[history]]></category>
-		<category><![CDATA[illustration]]></category>
-		<category><![CDATA[paul sharp]]></category>
-		<guid isPermaLink="false">https://castellcoch.com/?p=3919</guid>
-
-					<description><![CDATA[Paul Sharp created a beautiful sketch of Castell Coch for a 1960s motoring guide to castles in the UK. I picked up a copy and discovered a fantastic collection of artwork by the Yorkshire designer. National Benzole was a petrol brand in the UK from 1919 until the 1990s. Perhaps these books were produced to ... <p class="read-more-container"><a title="Castell Coch by Paul Sharp" class="read-more button" href="https://castellcoch.com/2023/03/28/castell-coch-by-paul-sharp/#more-3919" aria-label="More on Castell Coch by Paul Sharp">Read more</a></p>]]></description>
-		
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">3919</post-id>	</item>
 	</channel>
 </rss>
