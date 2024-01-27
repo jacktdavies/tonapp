@@ -54,6 +54,7 @@ span.cct::before {
 
 #ct {
   grid-area: ct;
+  justify-self: center;
 }
 
 .tdcinfo {
