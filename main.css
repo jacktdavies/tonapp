@@ -32,7 +32,7 @@ span.cct::before {
     display: grid;
     grid-template-columns: 1fr 1fr;
     grid-template-rows: 1fr;
-    grid-template-areas: "title title" "tdcinfo ccinfo" "tdc cc";
+    grid-template-areas: "title title" "ct ct" "tdcinfo ccinfo" "tdc cc";
   }
 
   span.cct::before {
