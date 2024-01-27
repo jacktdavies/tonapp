@@ -54,7 +54,6 @@ span.cct::before {
 
 #ct {
   grid-area: ct;
-  justify-self: center;
 }
 
 .tdcinfo {
@@ -71,7 +70,8 @@ img {
 }
 
 #ct img {
-  width:45rem;
+  width: 90%;
+  padding: 2% 5%;
 }
 
 h1 {
