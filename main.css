@@ -52,6 +52,10 @@ span.cct::before {
   grid-area: title;
 }
 
+#ct {
+  grid-area: ct;
+}
+
 .tdcinfo {
   grid-area: tdcinfo;
 }
@@ -63,6 +67,10 @@ span.cct::before {
 img {
   width: 2rem;
   padding: 0.2rem 1rem 0.2rem 0.2rem;
+}
+
+#ct img {
+  width:80%;
 }
 
 h1 {
