@@ -15,7 +15,7 @@
 	<atom:link href="https://tongwynlais.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://tongwynlais.com</link>
 	<description></description>
-	<lastBuildDate>Sat, 17 Feb 2024 10:07:37 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 24 Mar 2024 08:00:58 +0000</lastBuildDate>
 	<language>en-GB</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,9 +31,30 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">37574071</site>	<item>
+		<title>Serious Fire at Tongwynlais</title>
+		<link>https://tongwynlais.com/2024/03/24/serious-fire-at-tongwynlais/</link>
+					<comments>https://tongwynlais.com/2024/03/24/serious-fire-at-tongwynlais/#respond</comments>
+		
+		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
+		<pubDate>Sun, 24 Mar 2024 07:59:40 +0000</pubDate>
+				<category><![CDATA[History]]></category>
+		<category><![CDATA[dh]]></category>
+		<category><![CDATA[news]]></category>
+		<category><![CDATA[newspaper]]></category>
+		<category><![CDATA[welsh newspapers]]></category>
+		<guid isPermaLink="false">https://tongwynlais.com/?p=19445</guid>
+
+					<description><![CDATA[One of the best ways to get an idea of what life was like in Tongwynlais is to explore Welsh Newspapers Online. This article from the South Wales Daily News was published 141 years ago, on 24th March 1883. These stories can tell us what businesses existed and who owned them. They&#8217;re an invaluable insight ... <a title="Serious Fire at Tongwynlais" class="read-more" href="https://tongwynlais.com/2024/03/24/serious-fire-at-tongwynlais/" aria-label="Read more about Serious Fire at Tongwynlais">more...</a>]]></description>
+		
+					<wfw:commentRss>https://tongwynlais.com/2024/03/24/serious-fire-at-tongwynlais/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">19445</post-id>	</item>
+		<item>
 		<title>Villa Cardiff – Part 2</title>
 		<link>https://tongwynlais.com/2024/02/17/villa-cardiff-part-2/</link>
-					<comments>https://tongwynlais.com/2024/02/17/villa-cardiff-part-2/#respond</comments>
+					<comments>https://tongwynlais.com/2024/02/17/villa-cardiff-part-2/#comments</comments>
 		
 		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
 		<pubDate>Sat, 17 Feb 2024 10:06:46 +0000</pubDate>
@@ -47,7 +68,7 @@
 					<description><![CDATA[This series was inspired by an article from John&#38;Jane that explored the design of a modern flag for Cardiff. In the first part I looked into the history of Cardiff and found some examples of the &#8220;Cardiff Arms&#8221;. Since then, I&#8217;ve been collecting even more examples and looking into the history of the design. The ... <a title="Villa Cardiff – Part 2" class="read-more" href="https://tongwynlais.com/2024/02/17/villa-cardiff-part-2/" aria-label="Read more about Villa Cardiff – Part 2">more...</a>]]></description>
 		
 					<wfw:commentRss>https://tongwynlais.com/2024/02/17/villa-cardiff-part-2/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
+			<slash:comments>1</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">19336</post-id>	</item>
@@ -214,22 +235,5 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">18936</post-id>	</item>
-		<item>
-		<title>Bluebells and Bridges</title>
-		<link>https://tongwynlais.com/2023/05/08/bluebells-and-bridges/</link>
-		
-		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
-		<pubDate>Mon, 08 May 2023 15:31:36 +0000</pubDate>
-				<category><![CDATA[Photography]]></category>
-		<category><![CDATA[dh]]></category>
-		<category><![CDATA[gelynis farm]]></category>
-		<category><![CDATA[morganstown]]></category>
-		<guid isPermaLink="false">https://tongwynlais.com/?p=18867</guid>
-
-					<description><![CDATA[I&#8217;ve been out with my camera over the last few weeks, capturing some beautiful views and exploring the work going on over in Morganstown. I post a lot of my photos on Instagram but rarely include them on the blog unless they coincide with an article. This type of post may become more regular if ... <a title="Bluebells and Bridges" class="read-more" href="https://tongwynlais.com/2023/05/08/bluebells-and-bridges/" aria-label="Read more about Bluebells and Bridges">more...</a>]]></description>
-		
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">18867</post-id>	</item>
 	</channel>
 </rss>
