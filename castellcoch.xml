@@ -15,7 +15,7 @@
 	<atom:link href="https://castellcoch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://castellcoch.com</link>
 	<description></description>
-	<lastBuildDate>Mon, 26 Feb 2024 19:21:26 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 27 Mar 2024 08:41:58 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,9 +31,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">184115289</site>	<item>
+		<title>Colourising Castell Coch &#8211; Part 1</title>
+		<link>https://castellcoch.com/2024/03/27/colourising-castell-coch-part-1/</link>
+					<comments>https://castellcoch.com/2024/03/27/colourising-castell-coch-part-1/#respond</comments>
+		
+		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
+		<pubDate>Wed, 27 Mar 2024 08:41:57 +0000</pubDate>
+				<category><![CDATA[Castell Coch]]></category>
+		<guid isPermaLink="false">https://castellcoch.com/?p=4764</guid>
+
+					<description><![CDATA[I&#8217;ve already featured a series of postcards that used a colourisation process to add colour to black and white photos. There are several colourised photos in my postcard collection and I&#8217;ve attempted to recreate the process using modern digital tools. Red or Blue? These cards are a perfect example of how colourisation produces very different ... <p class="read-more-container"><a title="Colourising Castell Coch &#8211; Part 1" class="read-more button" href="https://castellcoch.com/2024/03/27/colourising-castell-coch-part-1/#more-4764" aria-label="Read more about Colourising Castell Coch &#8211; Part 1">Read more</a></p>]]></description>
+		
+					<wfw:commentRss>https://castellcoch.com/2024/03/27/colourising-castell-coch-part-1/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">4764</post-id>	</item>
+		<item>
 		<title>Lady Bute &#8211; Part 1</title>
 		<link>https://castellcoch.com/2024/02/26/lady-bute-part-1/</link>
-					<comments>https://castellcoch.com/2024/02/26/lady-bute-part-1/#respond</comments>
 		
 		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
 		<pubDate>Mon, 26 Feb 2024 19:21:25 +0000</pubDate>
@@ -44,8 +60,6 @@
 
 					<description><![CDATA[Lady Gwendolen Mary Anne Stuart (Fitzalan-Howard) played a significant part in the development of Castell Coch. Gwendolen Fitzalan-Howard (1854 &#8211; 1932) was the daughter of The 1st Baron Howard of Glossop and granddaughter of The 13th Duke of Norfolk. She was engaged to John Crichton-Stuart, 3rd Marquess of Bute in February 1872 and the couple ... <p class="read-more-container"><a title="Lady Bute &#8211; Part 1" class="read-more button" href="https://castellcoch.com/2024/02/26/lady-bute-part-1/#more-4593" aria-label="Read more about Lady Bute &#8211; Part 1">Read more</a></p>]]></description>
 		
-					<wfw:commentRss>https://castellcoch.com/2024/02/26/lady-bute-part-1/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">4593</post-id>	</item>
@@ -199,23 +213,5 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">4048</post-id>	</item>
-		<item>
-		<title>Castell Coch in Country Life – Part 2</title>
-		<link>https://castellcoch.com/2023/05/17/castell-coch-in-country-life-part-2/</link>
-		
-		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
-		<pubDate>Wed, 17 May 2023 08:51:07 +0000</pubDate>
-				<category><![CDATA[History]]></category>
-		<category><![CDATA[1960s]]></category>
-		<category><![CDATA[country life]]></category>
-		<category><![CDATA[magazine]]></category>
-		<category><![CDATA[mark girouard]]></category>
-		<guid isPermaLink="false">https://castellcoch.com/?p=3998</guid>
-
-					<description><![CDATA[Castell Coch was featured in Country Life magazine 61 years ago this month. Architectural writer Mark Girouard took readers on a tour of the famous Welsh landmark over two issues beginning on 10th May 1962. The magazine was founded in 1897 and celebrated its 125th anniversary in 2022. Girouard went on to become an authority ... <p class="read-more-container"><a title="Castell Coch in Country Life – Part 2" class="read-more button" href="https://castellcoch.com/2023/05/17/castell-coch-in-country-life-part-2/#more-3998" aria-label="Read more about Castell Coch in Country Life – Part 2">Read more</a></p>]]></description>
-		
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">3998</post-id>	</item>
 	</channel>
 </rss>
