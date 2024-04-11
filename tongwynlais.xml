@@ -15,7 +15,7 @@
 	<atom:link href="https://tongwynlais.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://tongwynlais.com</link>
 	<description></description>
-	<lastBuildDate>Sun, 24 Mar 2024 08:00:58 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 11 Apr 2024 16:47:18 +0000</lastBuildDate>
 	<language>en-GB</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,9 +31,28 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">37574071</site>	<item>
+		<title>50 Years in Cardiff</title>
+		<link>https://tongwynlais.com/2024/04/11/50-years-in-cardiff/</link>
+					<comments>https://tongwynlais.com/2024/04/11/50-years-in-cardiff/#respond</comments>
+		
+		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
+		<pubDate>Thu, 11 Apr 2024 16:47:18 +0000</pubDate>
+				<category><![CDATA[History]]></category>
+		<category><![CDATA[cardiff]]></category>
+		<category><![CDATA[dh]]></category>
+		<guid isPermaLink="false">https://tongwynlais.com/?p=19476</guid>
+
+					<description><![CDATA[2024 is the 50th anniversary of Tongwynlais becoming part of the City of Cardiff. The Parish of Tongwynlais was part of Llandaff and Dinas Powis District from its formation in 1894. The District&#8217;s name was changed to Cardiff Rural District in 1922. Cardiff Rural District was part of the county of Glamorgan. It stretched from ... <a title="50 Years in Cardiff" class="read-more" href="https://tongwynlais.com/2024/04/11/50-years-in-cardiff/" aria-label="Read more about 50 Years in Cardiff">more...</a>]]></description>
+		
+					<wfw:commentRss>https://tongwynlais.com/2024/04/11/50-years-in-cardiff/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">19476</post-id>	</item>
+		<item>
 		<title>Serious Fire at Tongwynlais</title>
 		<link>https://tongwynlais.com/2024/03/24/serious-fire-at-tongwynlais/</link>
-					<comments>https://tongwynlais.com/2024/03/24/serious-fire-at-tongwynlais/#respond</comments>
+					<comments>https://tongwynlais.com/2024/03/24/serious-fire-at-tongwynlais/#comments</comments>
 		
 		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
 		<pubDate>Sun, 24 Mar 2024 07:59:40 +0000</pubDate>
@@ -47,7 +66,7 @@
 					<description><![CDATA[One of the best ways to get an idea of what life was like in Tongwynlais is to explore Welsh Newspapers Online. This article from the South Wales Daily News was published 141 years ago, on 24th March 1883. These stories can tell us what businesses existed and who owned them. They&#8217;re an invaluable insight ... <a title="Serious Fire at Tongwynlais" class="read-more" href="https://tongwynlais.com/2024/03/24/serious-fire-at-tongwynlais/" aria-label="Read more about Serious Fire at Tongwynlais">more...</a>]]></description>
 		
 					<wfw:commentRss>https://tongwynlais.com/2024/03/24/serious-fire-at-tongwynlais/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
+			<slash:comments>1</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">19445</post-id>	</item>
@@ -215,25 +234,5 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">18969</post-id>	</item>
-		<item>
-		<title>Postcards from Tongwynlais – Part 17</title>
-		<link>https://tongwynlais.com/2023/06/21/postcards-from-tongwynlais-part-17/</link>
-					<comments>https://tongwynlais.com/2023/06/21/postcards-from-tongwynlais-part-17/#comments</comments>
-		
-		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
-		<pubDate>Wed, 21 Jun 2023 17:38:07 +0000</pubDate>
-				<category><![CDATA[History]]></category>
-		<category><![CDATA[dh]]></category>
-		<category><![CDATA[hardings]]></category>
-		<category><![CDATA[postcard]]></category>
-		<guid isPermaLink="false">https://tongwynlais.com/?p=18936</guid>
-
-					<description><![CDATA[This instalment of &#8220;Postcards from Tongwynlais&#8221; features a wonderful photo of the village looking north towards the Taff Valley. It shows the Walnut Tree Viaduct and the old school building on Ironbridge Road. The postcard was produced by &#8220;Hardings&#8217; (Bristol &#38; Cardiff)&#8221; and part of their &#8220;Progress Series&#8221;. I&#8217;ve got a few other cards by ... <a title="Postcards from Tongwynlais – Part 17" class="read-more" href="https://tongwynlais.com/2023/06/21/postcards-from-tongwynlais-part-17/" aria-label="Read more about Postcards from Tongwynlais – Part 17">more...</a>]]></description>
-		
-					<wfw:commentRss>https://tongwynlais.com/2023/06/21/postcards-from-tongwynlais-part-17/feed/</wfw:commentRss>
-			<slash:comments>1</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">18936</post-id>	</item>
 	</channel>
 </rss>
