@@ -15,7 +15,7 @@
 	<atom:link href="https://castellcoch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://castellcoch.com</link>
 	<description></description>
-	<lastBuildDate>Wed, 27 Mar 2024 08:41:58 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 25 Apr 2024 18:04:15 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,19 +31,39 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">184115289</site>	<item>
+		<title>Photos of Castell Coch &#8211; Part 1</title>
+		<link>https://castellcoch.com/2024/04/25/photos-of-castell-coch-part-1/</link>
+					<comments>https://castellcoch.com/2024/04/25/photos-of-castell-coch-part-1/#respond</comments>
+		
+		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
+		<pubDate>Thu, 25 Apr 2024 18:04:14 +0000</pubDate>
+				<category><![CDATA[Photography]]></category>
+		<category><![CDATA[castell coch]]></category>
+		<guid isPermaLink="false">https://castellcoch.com/?p=4871</guid>
+
+					<description><![CDATA[I don&#8217;t post that many of my own photos on the website. I share them regularly on Instagram but I&#8217;ve never had a dedicated series on the blog. I&#8217;ve started taking my camera out a bit more often so I&#8217;m going to post a collection every now and again. I took this shot of the ... <p class="read-more-container"><a title="Photos of Castell Coch &#8211; Part 1" class="read-more button" href="https://castellcoch.com/2024/04/25/photos-of-castell-coch-part-1/#more-4871" aria-label="Read more about Photos of Castell Coch &#8211; Part 1">Read more</a></p>]]></description>
+		
+					<wfw:commentRss>https://castellcoch.com/2024/04/25/photos-of-castell-coch-part-1/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">4871</post-id>	</item>
+		<item>
 		<title>Colourising Castell Coch &#8211; Part 1</title>
 		<link>https://castellcoch.com/2024/03/27/colourising-castell-coch-part-1/</link>
-					<comments>https://castellcoch.com/2024/03/27/colourising-castell-coch-part-1/#respond</comments>
+					<comments>https://castellcoch.com/2024/03/27/colourising-castell-coch-part-1/#comments</comments>
 		
 		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
 		<pubDate>Wed, 27 Mar 2024 08:41:57 +0000</pubDate>
 				<category><![CDATA[Castell Coch]]></category>
+		<category><![CDATA[history]]></category>
+		<category><![CDATA[postcard]]></category>
 		<guid isPermaLink="false">https://castellcoch.com/?p=4764</guid>
 
 					<description><![CDATA[I&#8217;ve already featured a series of postcards that used a colourisation process to add colour to black and white photos. There are several colourised photos in my postcard collection and I&#8217;ve attempted to recreate the process using modern digital tools. Red or Blue? These cards are a perfect example of how colourisation produces very different ... <p class="read-more-container"><a title="Colourising Castell Coch &#8211; Part 1" class="read-more button" href="https://castellcoch.com/2024/03/27/colourising-castell-coch-part-1/#more-4764" aria-label="Read more about Colourising Castell Coch &#8211; Part 1">Read more</a></p>]]></description>
 		
 					<wfw:commentRss>https://castellcoch.com/2024/03/27/colourising-castell-coch-part-1/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
+			<slash:comments>2</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">4764</post-id>	</item>
@@ -195,23 +215,5 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">4085</post-id>	</item>
-		<item>
-		<title>Castell Coch by John Stuart Corbett</title>
-		<link>https://castellcoch.com/2023/06/27/castell-coch-by-john-stuart-corbett/</link>
-		
-		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
-		<pubDate>Tue, 27 Jun 2023 09:45:08 +0000</pubDate>
-				<category><![CDATA[History]]></category>
-		<category><![CDATA[1917]]></category>
-		<category><![CDATA[book]]></category>
-		<category><![CDATA[cardiff naturalists society]]></category>
-		<category><![CDATA[report]]></category>
-		<guid isPermaLink="false">https://castellcoch.com/?p=4048</guid>
-
-					<description><![CDATA[I purchased this booklet a few years ago but I&#8217;ve only recently looked into the history of the author. It&#8217;s an excerpt from Volume L (50) of the &#8220;Transactions of The Cardiff Naturalists&#8217; Society&#8221;. It contains a report by John Stuart Corbett on the Society&#8217;s visit to Castell Coch on June 27th 1917. The booklet ... <p class="read-more-container"><a title="Castell Coch by John Stuart Corbett" class="read-more button" href="https://castellcoch.com/2023/06/27/castell-coch-by-john-stuart-corbett/#more-4048" aria-label="Read more about Castell Coch by John Stuart Corbett">Read more</a></p>]]></description>
-		
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">4048</post-id>	</item>
 	</channel>
 </rss>
