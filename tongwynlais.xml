@@ -15,7 +15,7 @@
 	<atom:link href="https://tongwynlais.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://tongwynlais.com</link>
 	<description></description>
-	<lastBuildDate>Thu, 11 Apr 2024 16:47:18 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 24 May 2024 13:07:25 +0000</lastBuildDate>
 	<language>en-GB</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,6 +31,26 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">37574071</site>	<item>
+		<title>New Postcards from Tongwynlais &#8211; Part 1</title>
+		<link>https://tongwynlais.com/2024/05/24/new-postcards-from-tongwynlais-part-1/</link>
+					<comments>https://tongwynlais.com/2024/05/24/new-postcards-from-tongwynlais-part-1/#respond</comments>
+		
+		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
+		<pubDate>Fri, 24 May 2024 13:07:24 +0000</pubDate>
+				<category><![CDATA[Art]]></category>
+		<category><![CDATA[design]]></category>
+		<category><![CDATA[dh]]></category>
+		<category><![CDATA[postcard]]></category>
+		<guid isPermaLink="false">https://tongwynlais.com/?p=19550</guid>
+
+					<description><![CDATA[I love old postcards but I often wonder what a modern postcard of Tongwynlais would look like. I&#8217;ve been using some vintage Cardiff postcards for inspiration. Here are a few examples where I&#8217;ve updated the content with new photos. In the next instalment I&#8217;m going to create some more contemporary designs. Postcards from Tongwynlais I&#8217;ve ... <a title="New Postcards from Tongwynlais &#8211; Part 1" class="read-more" href="https://tongwynlais.com/2024/05/24/new-postcards-from-tongwynlais-part-1/" aria-label="Read more about New Postcards from Tongwynlais &#8211; Part 1">more...</a>]]></description>
+		
+					<wfw:commentRss>https://tongwynlais.com/2024/05/24/new-postcards-from-tongwynlais-part-1/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">19550</post-id>	</item>
+		<item>
 		<title>50 Years in Cardiff</title>
 		<link>https://tongwynlais.com/2024/04/11/50-years-in-cardiff/</link>
 					<comments>https://tongwynlais.com/2024/04/11/50-years-in-cardiff/#respond</comments>
@@ -213,26 +233,5 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">19031</post-id>	</item>
-		<item>
-		<title>Pixel Art Tongwynlais – Part 3</title>
-		<link>https://tongwynlais.com/2023/07/19/pixel-art-tongwynlais-part-3/</link>
-					<comments>https://tongwynlais.com/2023/07/19/pixel-art-tongwynlais-part-3/#respond</comments>
-		
-		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
-		<pubDate>Wed, 19 Jul 2023 08:05:40 +0000</pubDate>
-				<category><![CDATA[Art]]></category>
-		<category><![CDATA[dh]]></category>
-		<category><![CDATA[illustration]]></category>
-		<category><![CDATA[pixel art]]></category>
-		<category><![CDATA[plan2ride]]></category>
-		<guid isPermaLink="false">https://tongwynlais.com/?p=18969</guid>
-
-					<description><![CDATA[Pixel art describes a technique for creating digital illustrations at the individual pixel level. This type of art was the result of low resolution displays in early videogame systems. Today, our phone and computer displays have millions of pixels. Despite this, the art form is very popular and the “retro” videogame look is used in ... <a title="Pixel Art Tongwynlais – Part 3" class="read-more" href="https://tongwynlais.com/2023/07/19/pixel-art-tongwynlais-part-3/" aria-label="Read more about Pixel Art Tongwynlais – Part 3">more...</a>]]></description>
-		
-					<wfw:commentRss>https://tongwynlais.com/2023/07/19/pixel-art-tongwynlais-part-3/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">18969</post-id>	</item>
 	</channel>
 </rss>
