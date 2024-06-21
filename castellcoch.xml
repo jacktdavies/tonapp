@@ -15,7 +15,7 @@
 	<atom:link href="https://castellcoch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://castellcoch.com</link>
 	<description></description>
-	<lastBuildDate>Wed, 15 May 2024 08:56:59 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 20 Jun 2024 16:51:02 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,9 +31,27 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">184115289</site>	<item>
+		<title>Fatal Accident at Castell Coch</title>
+		<link>https://castellcoch.com/2024/06/20/fatal-accident-at-castell-coch/</link>
+					<comments>https://castellcoch.com/2024/06/20/fatal-accident-at-castell-coch/#respond</comments>
+		
+		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
+		<pubDate>Thu, 20 Jun 2024 16:51:01 +0000</pubDate>
+				<category><![CDATA[History]]></category>
+		<category><![CDATA[newspaper]]></category>
+		<category><![CDATA[old news]]></category>
+		<guid isPermaLink="false">https://castellcoch.com/?p=5121</guid>
+
+					<description><![CDATA[Scaffolding is being erected on the Well Tower at Castell Coch for some upcoming conservation work. I happened to find a related story that happened 145 years ago this month when the castle was being reconstructed. The South Wales Daily News reported on Friday 18th July 1879 that George Maidment had died in a tragic ... <p class="read-more-container"><a title="Fatal Accident at Castell Coch" class="read-more button" href="https://castellcoch.com/2024/06/20/fatal-accident-at-castell-coch/#more-5121" aria-label="Read more about Fatal Accident at Castell Coch">Read more</a></p>]]></description>
+		
+					<wfw:commentRss>https://castellcoch.com/2024/06/20/fatal-accident-at-castell-coch/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">5121</post-id>	</item>
+		<item>
 		<title>Preserving Castell Coch</title>
 		<link>https://castellcoch.com/2024/05/15/preserving-castell-coch/</link>
-					<comments>https://castellcoch.com/2024/05/15/preserving-castell-coch/#respond</comments>
 		
 		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
 		<pubDate>Wed, 15 May 2024 08:56:58 +0000</pubDate>
@@ -44,8 +62,6 @@
 
 					<description><![CDATA[Cadw have announced an extensive conservation project to remove moisture from the Well Tower at Castell Coch. The damp is causing significant damage to the intricate decorations and fabric of the building. The work is scheduled to take two years, beginning in spring 2024. Cadw noted, &#8220;This phase of work in 2024 will not affect ... <p class="read-more-container"><a title="Preserving Castell Coch" class="read-more button" href="https://castellcoch.com/2024/05/15/preserving-castell-coch/#more-4970" aria-label="Read more about Preserving Castell Coch">Read more</a></p>]]></description>
 		
-					<wfw:commentRss>https://castellcoch.com/2024/05/15/preserving-castell-coch/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">4970</post-id>	</item>
@@ -192,24 +208,5 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">4165</post-id>	</item>
-		<item>
-		<title>Castell Coch in the Valentine Collection</title>
-		<link>https://castellcoch.com/2023/08/26/castell-coch-in-the-valentine-collection/</link>
-					<comments>https://castellcoch.com/2023/08/26/castell-coch-in-the-valentine-collection/#comments</comments>
-		
-		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
-		<pubDate>Sat, 26 Aug 2023 14:27:46 +0000</pubDate>
-				<category><![CDATA[Photography]]></category>
-		<category><![CDATA[james valentine]]></category>
-		<category><![CDATA[postcard]]></category>
-		<guid isPermaLink="false">https://castellcoch.com/?p=4133</guid>
-
-					<description><![CDATA[The James Valentine Collection is the photographic production of a business which began operation in 1851 in Dundee, Scotland. Although many people think of Valentine&#8217;s as postcard publishers, they produced several types of photographic products. There&#8217;s a very comprehensive history in the collection that charts the rise and fall of the business. I have quite ... <p class="read-more-container"><a title="Castell Coch in the Valentine Collection" class="read-more button" href="https://castellcoch.com/2023/08/26/castell-coch-in-the-valentine-collection/#more-4133" aria-label="Read more about Castell Coch in the Valentine Collection">Read more</a></p>]]></description>
-		
-					<wfw:commentRss>https://castellcoch.com/2023/08/26/castell-coch-in-the-valentine-collection/feed/</wfw:commentRss>
-			<slash:comments>1</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">4133</post-id>	</item>
 	</channel>
 </rss>
