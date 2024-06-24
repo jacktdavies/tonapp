@@ -15,7 +15,7 @@
 	<atom:link href="https://tongwynlais.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://tongwynlais.com</link>
 	<description></description>
-	<lastBuildDate>Fri, 24 May 2024 13:07:25 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 24 Jun 2024 08:07:03 +0000</lastBuildDate>
 	<language>en-GB</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,9 +31,30 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">37574071</site>	<item>
+		<title>Tongwynlais Adventures &#8211; Trail Running</title>
+		<link>https://tongwynlais.com/2024/06/24/tongwynlais-adventures-trail-running/</link>
+					<comments>https://tongwynlais.com/2024/06/24/tongwynlais-adventures-trail-running/#respond</comments>
+		
+		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
+		<pubDate>Mon, 24 Jun 2024 08:07:02 +0000</pubDate>
+				<category><![CDATA[Adventures]]></category>
+		<category><![CDATA[dh]]></category>
+		<category><![CDATA[outdoors]]></category>
+		<category><![CDATA[trail running]]></category>
+		<category><![CDATA[walking]]></category>
+		<guid isPermaLink="false">https://tongwynlais.com/?p=19636</guid>
+
+					<description><![CDATA[I started trail running in 2014 and I&#8217;ve written a few posts about my adventures in and around Tongwynlais. My new website, Cardiff Trails, launched in March 2023. I wanted my own space to log runs, share photos and write about running gear. If you&#8217;ve ever considered trail running, hopefully I can help you find ... <a title="Tongwynlais Adventures &#8211; Trail Running" class="read-more" href="https://tongwynlais.com/2024/06/24/tongwynlais-adventures-trail-running/" aria-label="Read more about Tongwynlais Adventures &#8211; Trail Running">more...</a>]]></description>
+		
+					<wfw:commentRss>https://tongwynlais.com/2024/06/24/tongwynlais-adventures-trail-running/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">19636</post-id>	</item>
+		<item>
 		<title>New Postcards from Tongwynlais &#8211; Part 1</title>
 		<link>https://tongwynlais.com/2024/05/24/new-postcards-from-tongwynlais-part-1/</link>
-					<comments>https://tongwynlais.com/2024/05/24/new-postcards-from-tongwynlais-part-1/#respond</comments>
+					<comments>https://tongwynlais.com/2024/05/24/new-postcards-from-tongwynlais-part-1/#comments</comments>
 		
 		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
 		<pubDate>Fri, 24 May 2024 13:07:24 +0000</pubDate>
@@ -46,7 +67,7 @@
 					<description><![CDATA[I love old postcards but I often wonder what a modern postcard of Tongwynlais would look like. I&#8217;ve been using some vintage Cardiff postcards for inspiration. Here are a few examples where I&#8217;ve updated the content with new photos. In the next instalment I&#8217;m going to create some more contemporary designs. Postcards from Tongwynlais I&#8217;ve ... <a title="New Postcards from Tongwynlais &#8211; Part 1" class="read-more" href="https://tongwynlais.com/2024/05/24/new-postcards-from-tongwynlais-part-1/" aria-label="Read more about New Postcards from Tongwynlais &#8211; Part 1">more...</a>]]></description>
 		
 					<wfw:commentRss>https://tongwynlais.com/2024/05/24/new-postcards-from-tongwynlais-part-1/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
+			<slash:comments>1</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">19550</post-id>	</item>
@@ -134,7 +155,7 @@
 		<item>
 		<title>Postcards from Tongwynlais – Part 18</title>
 		<link>https://tongwynlais.com/2023/12/18/postcards-from-tongwynlais-part-18/</link>
-					<comments>https://tongwynlais.com/2023/12/18/postcards-from-tongwynlais-part-18/#respond</comments>
+					<comments>https://tongwynlais.com/2023/12/18/postcards-from-tongwynlais-part-18/#comments</comments>
 		
 		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
 		<pubDate>Mon, 18 Dec 2023 13:27:47 +0000</pubDate>
@@ -147,7 +168,7 @@
 					<description><![CDATA[This instalment in the series is an assortment of postcards from my collection. I normally feature one postcard and do some research into the subject but I thought I&#8217;d share these unusual examples for a change. I don&#8217;t know much about these cards but they have some interesting images. The River Taff This photo of ... <a title="Postcards from Tongwynlais – Part 18" class="read-more" href="https://tongwynlais.com/2023/12/18/postcards-from-tongwynlais-part-18/" aria-label="Read more about Postcards from Tongwynlais – Part 18">more...</a>]]></description>
 		
 					<wfw:commentRss>https://tongwynlais.com/2023/12/18/postcards-from-tongwynlais-part-18/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
+			<slash:comments>1</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">19219</post-id>	</item>
@@ -213,25 +234,5 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">19052</post-id>	</item>
-		<item>
-		<title>Cardiff in Pixels &#8211; Part 1</title>
-		<link>https://tongwynlais.com/2023/08/24/cardiff-in-pixels-part-1/</link>
-					<comments>https://tongwynlais.com/2023/08/24/cardiff-in-pixels-part-1/#comments</comments>
-		
-		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
-		<pubDate>Thu, 24 Aug 2023 18:51:30 +0000</pubDate>
-				<category><![CDATA[Art]]></category>
-		<category><![CDATA[cardiff]]></category>
-		<category><![CDATA[dh]]></category>
-		<category><![CDATA[pixel art]]></category>
-		<guid isPermaLink="false">https://tongwynlais.com/?p=19031</guid>
-
-					<description><![CDATA[I&#8217;ve really enjoyed creating pixel art illustrations of buildings in Tongwynlais. I couldn&#8217;t resist attempting some of the larger landmarks in our capital city. This was a really enjoyable project and posed some challenges with the larger buildings. I really hope you enjoy them. The Pierhead Insole Court Cardiff Castle City Hall Norwegian Church Principality ... <a title="Cardiff in Pixels &#8211; Part 1" class="read-more" href="https://tongwynlais.com/2023/08/24/cardiff-in-pixels-part-1/" aria-label="Read more about Cardiff in Pixels &#8211; Part 1">more...</a>]]></description>
-		
-					<wfw:commentRss>https://tongwynlais.com/2023/08/24/cardiff-in-pixels-part-1/feed/</wfw:commentRss>
-			<slash:comments>2</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">19031</post-id>	</item>
 	</channel>
 </rss>
