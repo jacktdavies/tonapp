@@ -15,7 +15,7 @@
 	<atom:link href="https://castellcoch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://castellcoch.com</link>
 	<description></description>
-	<lastBuildDate>Thu, 20 Jun 2024 16:51:02 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 09 Jul 2024 16:39:59 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,9 +31,27 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">184115289</site>	<item>
+		<title>Castell Coch on Screen – Part 2</title>
+		<link>https://castellcoch.com/2024/07/09/castell-coch-on-screen-part-2/</link>
+					<comments>https://castellcoch.com/2024/07/09/castell-coch-on-screen-part-2/#respond</comments>
+		
+		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
+		<pubDate>Tue, 09 Jul 2024 16:39:58 +0000</pubDate>
+				<category><![CDATA[Castell Coch]]></category>
+		<category><![CDATA[film]]></category>
+		<category><![CDATA[television]]></category>
+		<guid isPermaLink="false">https://castellcoch.com/?p=5257</guid>
+
+					<description><![CDATA[Welcome to another collection of appearances by Castell Coch on our television and movie screens. The Black Knight is well known as it was a big film in the 1950s. Knightmare was very popular kids TV show that I remember watching. She Fell Among Thieves is a bit more obscure but features an interesting set. ... <p class="read-more-container"><a title="Castell Coch on Screen – Part 2" class="read-more button" href="https://castellcoch.com/2024/07/09/castell-coch-on-screen-part-2/#more-5257" aria-label="Read more about Castell Coch on Screen – Part 2">Read more</a></p>]]></description>
+		
+					<wfw:commentRss>https://castellcoch.com/2024/07/09/castell-coch-on-screen-part-2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">5257</post-id>	</item>
+		<item>
 		<title>Fatal Accident at Castell Coch</title>
 		<link>https://castellcoch.com/2024/06/20/fatal-accident-at-castell-coch/</link>
-					<comments>https://castellcoch.com/2024/06/20/fatal-accident-at-castell-coch/#respond</comments>
 		
 		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
 		<pubDate>Thu, 20 Jun 2024 16:51:01 +0000</pubDate>
@@ -44,8 +62,6 @@
 
 					<description><![CDATA[Scaffolding is being erected on the Well Tower at Castell Coch for some upcoming conservation work. I happened to find a related story that happened 145 years ago this month when the castle was being reconstructed. The South Wales Daily News reported on Friday 18th July 1879 that George Maidment had died in a tragic ... <p class="read-more-container"><a title="Fatal Accident at Castell Coch" class="read-more button" href="https://castellcoch.com/2024/06/20/fatal-accident-at-castell-coch/#more-5121" aria-label="Read more about Fatal Accident at Castell Coch">Read more</a></p>]]></description>
 		
-					<wfw:commentRss>https://castellcoch.com/2024/06/20/fatal-accident-at-castell-coch/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">5121</post-id>	</item>
@@ -190,23 +206,5 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">4211</post-id>	</item>
-		<item>
-		<title>Postcards of Castell Coch – Part 7</title>
-		<link>https://castellcoch.com/2023/09/26/postcards-of-castell-coch-part-7/</link>
-					<comments>https://castellcoch.com/2023/09/26/postcards-of-castell-coch-part-7/#comments</comments>
-		
-		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
-		<pubDate>Tue, 26 Sep 2023 09:02:12 +0000</pubDate>
-				<category><![CDATA[History]]></category>
-		<category><![CDATA[postcard]]></category>
-		<guid isPermaLink="false">https://castellcoch.com/?p=4165</guid>
-
-					<description><![CDATA[I&#8217;ve been planning a series of blog posts that look at each room in Castell Coch. While I work on this I thought I&#8217;d share another postcard from my collection. This view of Lady Bute&#8217;s bedroom is from a 1967 postcard published by the Ministry of Public Building and Works. William Burges&#8217; stencilled cabinet isn&#8217;t ... <p class="read-more-container"><a title="Postcards of Castell Coch – Part 7" class="read-more button" href="https://castellcoch.com/2023/09/26/postcards-of-castell-coch-part-7/#more-4165" aria-label="Read more about Postcards of Castell Coch – Part 7">Read more</a></p>]]></description>
-		
-					<wfw:commentRss>https://castellcoch.com/2023/09/26/postcards-of-castell-coch-part-7/feed/</wfw:commentRss>
-			<slash:comments>2</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">4165</post-id>	</item>
 	</channel>
 </rss>
