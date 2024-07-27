@@ -15,7 +15,7 @@
 	<atom:link href="https://tongwynlais.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://tongwynlais.com</link>
 	<description></description>
-	<lastBuildDate>Mon, 24 Jun 2024 08:07:03 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 27 Jul 2024 06:59:49 +0000</lastBuildDate>
 	<language>en-GB</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,6 +31,27 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">37574071</site>	<item>
+		<title>Attractive Foot Race</title>
+		<link>https://tongwynlais.com/2024/07/27/attractive-foot-race/</link>
+					<comments>https://tongwynlais.com/2024/07/27/attractive-foot-race/#respond</comments>
+		
+		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
+		<pubDate>Sat, 27 Jul 2024 06:59:48 +0000</pubDate>
+				<category><![CDATA[History]]></category>
+		<category><![CDATA[dh]]></category>
+		<category><![CDATA[news]]></category>
+		<category><![CDATA[newspaper]]></category>
+		<category><![CDATA[welsh newspapers]]></category>
+		<guid isPermaLink="false">https://tongwynlais.com/?p=19690</guid>
+
+					<description><![CDATA[In today&#8217;s &#8220;Old News&#8221;, I present the intriguingly titled article, &#8220;Attractive Foot Race&#8221;. The race appears to be the highlight of a sports day hosted by the Tongwynlais Brass Band on Greenmeadow Park. Both &#8220;victuallers&#8221; (a person who is licensed to sell alcohol) were named Thomas and were, presumably, the landlords of the New Inn ... <a title="Attractive Foot Race" class="read-more" href="https://tongwynlais.com/2024/07/27/attractive-foot-race/" aria-label="Read more about Attractive Foot Race">more...</a>]]></description>
+		
+					<wfw:commentRss>https://tongwynlais.com/2024/07/27/attractive-foot-race/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">19690</post-id>	</item>
+		<item>
 		<title>Tongwynlais Adventures &#8211; Trail Running</title>
 		<link>https://tongwynlais.com/2024/06/24/tongwynlais-adventures-trail-running/</link>
 					<comments>https://tongwynlais.com/2024/06/24/tongwynlais-adventures-trail-running/#respond</comments>
@@ -213,26 +234,5 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">19104</post-id>	</item>
-		<item>
-		<title>Tongwynlais Village Then and Now – Part 5</title>
-		<link>https://tongwynlais.com/2023/09/17/tongwynlais-village-then-and-now-part-5/</link>
-					<comments>https://tongwynlais.com/2023/09/17/tongwynlais-village-then-and-now-part-5/#comments</comments>
-		
-		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
-		<pubDate>Sun, 17 Sep 2023 18:36:07 +0000</pubDate>
-				<category><![CDATA[History]]></category>
-		<category><![CDATA[bennetts]]></category>
-		<category><![CDATA[dh]]></category>
-		<category><![CDATA[parrys]]></category>
-		<category><![CDATA[then and now]]></category>
-		<guid isPermaLink="false">https://tongwynlais.com/?p=19052</guid>
-
-					<description><![CDATA[I&#8217;m delighted to bring you another instalment of &#8220;Tongwynlais Village Then and Now&#8221;. The images I&#8217;ve unearthed aren&#8217;t that old but they show a unique view of Merthyr Road in the 1980s. I reached out to my regular contributors and they&#8217;ve provided some information about Bennett&#8217;s garage and Parry&#8217;s store. Bennetts of Tongwynlais Bennett&#8217;s garage ... <a title="Tongwynlais Village Then and Now – Part 5" class="read-more" href="https://tongwynlais.com/2023/09/17/tongwynlais-village-then-and-now-part-5/" aria-label="Read more about Tongwynlais Village Then and Now – Part 5">more...</a>]]></description>
-		
-					<wfw:commentRss>https://tongwynlais.com/2023/09/17/tongwynlais-village-then-and-now-part-5/feed/</wfw:commentRss>
-			<slash:comments>1</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">19052</post-id>	</item>
 	</channel>
 </rss>
