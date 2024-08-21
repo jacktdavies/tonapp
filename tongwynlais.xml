@@ -15,7 +15,7 @@
 	<atom:link href="https://tongwynlais.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://tongwynlais.com</link>
 	<description></description>
-	<lastBuildDate>Sat, 27 Jul 2024 06:59:49 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 21 Aug 2024 07:33:57 +0000</lastBuildDate>
 	<language>en-GB</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,9 +31,30 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">37574071</site>	<item>
+		<title>Lewis Arms Local Heritage List</title>
+		<link>https://tongwynlais.com/2024/08/21/lewis-arms-local-heritage-list/</link>
+					<comments>https://tongwynlais.com/2024/08/21/lewis-arms-local-heritage-list/#respond</comments>
+		
+		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
+		<pubDate>Wed, 21 Aug 2024 07:33:56 +0000</pubDate>
+				<category><![CDATA[History]]></category>
+		<category><![CDATA[cardiff council]]></category>
+		<category><![CDATA[dh]]></category>
+		<category><![CDATA[heritage]]></category>
+		<category><![CDATA[lewis arms]]></category>
+		<guid isPermaLink="false">https://tongwynlais.com/?p=20023</guid>
+
+					<description><![CDATA[The Lewis Arms has been added to Cardiff Council&#8217;s Draft Local Heritage List consultation. The &#8220;Cardiff Local List of Buildings and Sites of Architectural or Historic Interest&#8221; focuses on, &#8220;locally significant public houses, hotels and clubs (both past and present).&#8221; The consultation runs from 24th July – 18th September 2024. There&#8217;s some information about the ... <a title="Lewis Arms Local Heritage List" class="read-more" href="https://tongwynlais.com/2024/08/21/lewis-arms-local-heritage-list/" aria-label="Read more about Lewis Arms Local Heritage List">more...</a>]]></description>
+		
+					<wfw:commentRss>https://tongwynlais.com/2024/08/21/lewis-arms-local-heritage-list/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">20023</post-id>	</item>
+		<item>
 		<title>Attractive Foot Race</title>
 		<link>https://tongwynlais.com/2024/07/27/attractive-foot-race/</link>
-					<comments>https://tongwynlais.com/2024/07/27/attractive-foot-race/#respond</comments>
+					<comments>https://tongwynlais.com/2024/07/27/attractive-foot-race/#comments</comments>
 		
 		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
 		<pubDate>Sat, 27 Jul 2024 06:59:48 +0000</pubDate>
@@ -47,7 +68,7 @@
 					<description><![CDATA[In today&#8217;s &#8220;Old News&#8221;, I present the intriguingly titled article, &#8220;Attractive Foot Race&#8221;. The race appears to be the highlight of a sports day hosted by the Tongwynlais Brass Band on Greenmeadow Park. Both &#8220;victuallers&#8221; (a person who is licensed to sell alcohol) were named Thomas and were, presumably, the landlords of the New Inn ... <a title="Attractive Foot Race" class="read-more" href="https://tongwynlais.com/2024/07/27/attractive-foot-race/" aria-label="Read more about Attractive Foot Race">more...</a>]]></description>
 		
 					<wfw:commentRss>https://tongwynlais.com/2024/07/27/attractive-foot-race/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
+			<slash:comments>1</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">19690</post-id>	</item>
@@ -214,25 +235,5 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">19146</post-id>	</item>
-		<item>
-		<title>The Ghosts of Greenmeadow</title>
-		<link>https://tongwynlais.com/2023/10/31/the-ghosts-of-greenmeadow/</link>
-					<comments>https://tongwynlais.com/2023/10/31/the-ghosts-of-greenmeadow/#respond</comments>
-		
-		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
-		<pubDate>Tue, 31 Oct 2023 10:21:29 +0000</pubDate>
-				<category><![CDATA[History]]></category>
-		<category><![CDATA[dh]]></category>
-		<category><![CDATA[greenmeadow house]]></category>
-		<category><![CDATA[halloween]]></category>
-		<guid isPermaLink="false">https://tongwynlais.com/?p=19104</guid>
-
-					<description><![CDATA[The Ghosts of Greenmeadow are documented in the book, &#8220;Old Whitchurch &#8211; The Story of a Glamorgan Parish&#8221; by Edgar L. Chappell. This fantastic book was first published in 1945. The stories are also recounted by Roger Brown in, &#8220;Turn of the Century Ton &#8211; Something about the history of Tongwynlais&#8221; from 1982. The stories ... <a title="The Ghosts of Greenmeadow" class="read-more" href="https://tongwynlais.com/2023/10/31/the-ghosts-of-greenmeadow/" aria-label="Read more about The Ghosts of Greenmeadow">more...</a>]]></description>
-		
-					<wfw:commentRss>https://tongwynlais.com/2023/10/31/the-ghosts-of-greenmeadow/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">19104</post-id>	</item>
 	</channel>
 </rss>
