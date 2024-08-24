@@ -15,7 +15,7 @@
 	<atom:link href="https://castellcoch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://castellcoch.com</link>
 	<description></description>
-	<lastBuildDate>Tue, 09 Jul 2024 16:39:59 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 24 Aug 2024 10:09:14 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,9 +31,26 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">184115289</site>	<item>
+		<title>Postcards of Castell Coch – Part 9</title>
+		<link>https://castellcoch.com/2024/08/24/postcards-of-castell-coch-part-9/</link>
+					<comments>https://castellcoch.com/2024/08/24/postcards-of-castell-coch-part-9/#respond</comments>
+		
+		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
+		<pubDate>Sat, 24 Aug 2024 10:09:13 +0000</pubDate>
+				<category><![CDATA[History]]></category>
+		<category><![CDATA[postcard]]></category>
+		<guid isPermaLink="false">https://castellcoch.com/?p=5428</guid>
+
+					<description><![CDATA[In this instalment of Postcards of Castell Coch I investigate a 1908 card from a rare Cardiff publisher. Researching this postcard sent me down a rabbit hole investigating the history of a small Cardiff business that was established in 1880 and expanded into the early 1900s. I spent hours looking through decades of adverts in ... <p class="read-more-container"><a title="Postcards of Castell Coch – Part 9" class="read-more button" href="https://castellcoch.com/2024/08/24/postcards-of-castell-coch-part-9/#more-5428" aria-label="Read more about Postcards of Castell Coch – Part 9">Read more</a></p>]]></description>
+		
+					<wfw:commentRss>https://castellcoch.com/2024/08/24/postcards-of-castell-coch-part-9/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">5428</post-id>	</item>
+		<item>
 		<title>Castell Coch on Screen – Part 2</title>
 		<link>https://castellcoch.com/2024/07/09/castell-coch-on-screen-part-2/</link>
-					<comments>https://castellcoch.com/2024/07/09/castell-coch-on-screen-part-2/#respond</comments>
 		
 		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
 		<pubDate>Tue, 09 Jul 2024 16:39:58 +0000</pubDate>
@@ -44,8 +61,6 @@
 
 					<description><![CDATA[Welcome to another collection of appearances by Castell Coch on our television and movie screens. The Black Knight is well known as it was a big film in the 1950s. Knightmare was very popular kids TV show that I remember watching. She Fell Among Thieves is a bit more obscure but features an interesting set. ... <p class="read-more-container"><a title="Castell Coch on Screen – Part 2" class="read-more button" href="https://castellcoch.com/2024/07/09/castell-coch-on-screen-part-2/#more-5257" aria-label="Read more about Castell Coch on Screen – Part 2">Read more</a></p>]]></description>
 		
-					<wfw:commentRss>https://castellcoch.com/2024/07/09/castell-coch-on-screen-part-2/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">5257</post-id>	</item>
@@ -188,23 +203,5 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">4264</post-id>	</item>
-		<item>
-		<title>Castell Coch by Gary Yeung</title>
-		<link>https://castellcoch.com/2023/10/17/castell-coch-by-gary-yeung/</link>
-					<comments>https://castellcoch.com/2023/10/17/castell-coch-by-gary-yeung/#comments</comments>
-		
-		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
-		<pubDate>Tue, 17 Oct 2023 12:06:47 +0000</pubDate>
-				<category><![CDATA[Art]]></category>
-		<category><![CDATA[illustration]]></category>
-		<guid isPermaLink="false">https://castellcoch.com/?p=4211</guid>
-
-					<description><![CDATA[I&#8217;m really pleased to share the art of Gary Yeung after he recently posted a fantastic illustration of Castell Coch for the popular #inktober2023 drawing challenge. I&#8217;ve been following him online for a while and got in touch when I realised he&#8217;s produced quite a few pieces featuring the castle. I asked Gary to tell ... <p class="read-more-container"><a title="Castell Coch by Gary Yeung" class="read-more button" href="https://castellcoch.com/2023/10/17/castell-coch-by-gary-yeung/#more-4211" aria-label="Read more about Castell Coch by Gary Yeung">Read more</a></p>]]></description>
-		
-					<wfw:commentRss>https://castellcoch.com/2023/10/17/castell-coch-by-gary-yeung/feed/</wfw:commentRss>
-			<slash:comments>1</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">4211</post-id>	</item>
 	</channel>
 </rss>
