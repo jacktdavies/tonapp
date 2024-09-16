@@ -15,7 +15,7 @@
 	<atom:link href="https://tongwynlais.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://tongwynlais.com</link>
 	<description></description>
-	<lastBuildDate>Wed, 21 Aug 2024 07:33:57 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 16 Sep 2024 08:15:23 +0000</lastBuildDate>
 	<language>en-GB</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,6 +31,26 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">37574071</site>	<item>
+		<title>Postcards from Tongwynlais – Part 19</title>
+		<link>https://tongwynlais.com/2024/09/16/postcards-from-tongwynlais-part-19/</link>
+					<comments>https://tongwynlais.com/2024/09/16/postcards-from-tongwynlais-part-19/#respond</comments>
+		
+		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
+		<pubDate>Mon, 16 Sep 2024 08:15:23 +0000</pubDate>
+				<category><![CDATA[History]]></category>
+		<category><![CDATA[castell coch]]></category>
+		<category><![CDATA[dh]]></category>
+		<category><![CDATA[postcard]]></category>
+		<guid isPermaLink="false">https://tongwynlais.com/?p=20104</guid>
+
+					<description><![CDATA[I&#8217;ve been saving this postcard to try and collect all the separate photos. I haven&#8217;t had much luck so here&#8217;s a look at the only Tongwynlais multiview postcard in my collection. This card was posted on 30th August 1957 and features four scenes from the village, each with a view of Castell Coch. The sender ... <a title="Postcards from Tongwynlais – Part 19" class="read-more" href="https://tongwynlais.com/2024/09/16/postcards-from-tongwynlais-part-19/" aria-label="Read more about Postcards from Tongwynlais – Part 19">more...</a>]]></description>
+		
+					<wfw:commentRss>https://tongwynlais.com/2024/09/16/postcards-from-tongwynlais-part-19/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">20104</post-id>	</item>
+		<item>
 		<title>Lewis Arms Local Heritage List</title>
 		<link>https://tongwynlais.com/2024/08/21/lewis-arms-local-heritage-list/</link>
 					<comments>https://tongwynlais.com/2024/08/21/lewis-arms-local-heritage-list/#respond</comments>
@@ -214,26 +234,5 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">19219</post-id>	</item>
-		<item>
-		<title>Tongwynlais Walks – Part 2</title>
-		<link>https://tongwynlais.com/2023/11/18/tongwynlais-walks-part-2/</link>
-					<comments>https://tongwynlais.com/2023/11/18/tongwynlais-walks-part-2/#respond</comments>
-		
-		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
-		<pubDate>Sat, 18 Nov 2023 09:35:45 +0000</pubDate>
-				<category><![CDATA[Adventures]]></category>
-		<category><![CDATA[dh]]></category>
-		<category><![CDATA[illustration]]></category>
-		<category><![CDATA[trail running]]></category>
-		<category><![CDATA[walking]]></category>
-		<guid isPermaLink="false">https://tongwynlais.com/?p=19146</guid>
-
-					<description><![CDATA[I covered local walks in the first instalment of this series. In this post I&#8217;m going to share some information about two of the biggest Welsh walks that pass through the area and some signs you&#8217;ll see on the trails. I&#8217;ve included some basic information about the different types of routes you&#8217;ll encounter. Public Footpaths ... <a title="Tongwynlais Walks – Part 2" class="read-more" href="https://tongwynlais.com/2023/11/18/tongwynlais-walks-part-2/" aria-label="Read more about Tongwynlais Walks – Part 2">more...</a>]]></description>
-		
-					<wfw:commentRss>https://tongwynlais.com/2023/11/18/tongwynlais-walks-part-2/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">19146</post-id>	</item>
 	</channel>
 </rss>
