@@ -15,7 +15,7 @@
 	<atom:link href="https://castellcoch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://castellcoch.com</link>
 	<description></description>
-	<lastBuildDate>Sat, 24 Aug 2024 10:09:14 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 28 Sep 2024 08:28:06 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,9 +31,27 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">184115289</site>	<item>
+		<title>Stereoview of Castell Coch</title>
+		<link>https://castellcoch.com/2024/09/28/stereoview-of-castell-coch/</link>
+					<comments>https://castellcoch.com/2024/09/28/stereoview-of-castell-coch/#respond</comments>
+		
+		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
+		<pubDate>Sat, 28 Sep 2024 08:28:05 +0000</pubDate>
+				<category><![CDATA[History]]></category>
+		<category><![CDATA[stereoscope]]></category>
+		<category><![CDATA[stereoview]]></category>
+		<guid isPermaLink="false">https://castellcoch.com/?p=5593</guid>
+
+					<description><![CDATA[I recently found this example of a stereoview featuring Castell Coch. This type of photo is also called a stereographic card or stereogram. A stereoview consists of two photos that, when viewed with a device called a stereoscope, creates a three-dimensional effect. Stereoscopes This antique stereoscope was popular in the 19th century. It&#8217;s a &#8220;Holmes ... <p class="read-more-container"><a title="Stereoview of Castell Coch" class="read-more button" href="https://castellcoch.com/2024/09/28/stereoview-of-castell-coch/#more-5593" aria-label="Read more about Stereoview of Castell Coch">Read more</a></p>]]></description>
+		
+					<wfw:commentRss>https://castellcoch.com/2024/09/28/stereoview-of-castell-coch/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">5593</post-id>	</item>
+		<item>
 		<title>Postcards of Castell Coch – Part 9</title>
 		<link>https://castellcoch.com/2024/08/24/postcards-of-castell-coch-part-9/</link>
-					<comments>https://castellcoch.com/2024/08/24/postcards-of-castell-coch-part-9/#respond</comments>
 		
 		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
 		<pubDate>Sat, 24 Aug 2024 10:09:13 +0000</pubDate>
@@ -43,8 +61,6 @@
 
 					<description><![CDATA[In this instalment of Postcards of Castell Coch I investigate a 1908 card from a rare Cardiff publisher. Researching this postcard sent me down a rabbit hole investigating the history of a small Cardiff business that was established in 1880 and expanded into the early 1900s. I spent hours looking through decades of adverts in ... <p class="read-more-container"><a title="Postcards of Castell Coch – Part 9" class="read-more button" href="https://castellcoch.com/2024/08/24/postcards-of-castell-coch-part-9/#more-5428" aria-label="Read more about Postcards of Castell Coch – Part 9">Read more</a></p>]]></description>
 		
-					<wfw:commentRss>https://castellcoch.com/2024/08/24/postcards-of-castell-coch-part-9/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">5428</post-id>	</item>
@@ -185,23 +201,5 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">4337</post-id>	</item>
-		<item>
-		<title>Castell Coch by John Hassell</title>
-		<link>https://castellcoch.com/2023/11/24/castell-coch-by-john-hassell/</link>
-		
-		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
-		<pubDate>Fri, 24 Nov 2023 12:12:33 +0000</pubDate>
-				<category><![CDATA[Art]]></category>
-		<category><![CDATA[1800s]]></category>
-		<category><![CDATA[book]]></category>
-		<category><![CDATA[illustration]]></category>
-		<category><![CDATA[John Hassell]]></category>
-		<guid isPermaLink="false">https://castellcoch.com/?p=4264</guid>
-
-					<description><![CDATA[John Hassell was an English watercolour landscape painter, engraver, illustrator, writer and publisher. &#8220;The Beauties of Antiquity Or Remnants of Feudal Splendour and Monastic Times&#8221; was published in 1806 and contains a fantastic illustration of Castell Coch. There&#8217;s a short description of the castle and some of its history. The magnificence of its front is ... <p class="read-more-container"><a title="Castell Coch by John Hassell" class="read-more button" href="https://castellcoch.com/2023/11/24/castell-coch-by-john-hassell/#more-4264" aria-label="Read more about Castell Coch by John Hassell">Read more</a></p>]]></description>
-		
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">4264</post-id>	</item>
 	</channel>
 </rss>
