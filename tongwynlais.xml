@@ -15,7 +15,7 @@
 	<atom:link href="https://tongwynlais.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://tongwynlais.com</link>
 	<description></description>
-	<lastBuildDate>Mon, 16 Sep 2024 08:15:23 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 10 Oct 2024 11:33:20 +0000</lastBuildDate>
 	<language>en-GB</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,6 +31,27 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">37574071</site>	<item>
+		<title>Tongwynlais Church Building Fund</title>
+		<link>https://tongwynlais.com/2024/10/10/tongwynlais-church-building-fund/</link>
+					<comments>https://tongwynlais.com/2024/10/10/tongwynlais-church-building-fund/#respond</comments>
+		
+		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
+		<pubDate>Thu, 10 Oct 2024 11:33:20 +0000</pubDate>
+				<category><![CDATA[History]]></category>
+		<category><![CDATA[dh]]></category>
+		<category><![CDATA[news]]></category>
+		<category><![CDATA[newspaper]]></category>
+		<category><![CDATA[welsh newspapers]]></category>
+		<guid isPermaLink="false">https://tongwynlais.com/?p=20147</guid>
+
+					<description><![CDATA[The foundation stone for St Michael’s Church was laid in a ceremony that took place on 10th June 1875. The total cost was about £2,000, which is approximately £194,000 today. £1,300 had already been raised before the work began. The Cardiff Times reported on 10th October 1874 that a Bazaar was held at Cardiff Town ... <a title="Tongwynlais Church Building Fund" class="read-more" href="https://tongwynlais.com/2024/10/10/tongwynlais-church-building-fund/" aria-label="Read more about Tongwynlais Church Building Fund">more...</a>]]></description>
+		
+					<wfw:commentRss>https://tongwynlais.com/2024/10/10/tongwynlais-church-building-fund/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">20147</post-id>	</item>
+		<item>
 		<title>Postcards from Tongwynlais – Part 19</title>
 		<link>https://tongwynlais.com/2024/09/16/postcards-from-tongwynlais-part-19/</link>
 					<comments>https://tongwynlais.com/2024/09/16/postcards-from-tongwynlais-part-19/#respond</comments>
@@ -214,25 +235,5 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">19275</post-id>	</item>
-		<item>
-		<title>Postcards from Tongwynlais – Part 18</title>
-		<link>https://tongwynlais.com/2023/12/18/postcards-from-tongwynlais-part-18/</link>
-					<comments>https://tongwynlais.com/2023/12/18/postcards-from-tongwynlais-part-18/#comments</comments>
-		
-		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
-		<pubDate>Mon, 18 Dec 2023 13:27:47 +0000</pubDate>
-				<category><![CDATA[History]]></category>
-		<category><![CDATA[dh]]></category>
-		<category><![CDATA[postcard]]></category>
-		<category><![CDATA[river taff]]></category>
-		<guid isPermaLink="false">https://tongwynlais.com/?p=19219</guid>
-
-					<description><![CDATA[This instalment in the series is an assortment of postcards from my collection. I normally feature one postcard and do some research into the subject but I thought I&#8217;d share these unusual examples for a change. I don&#8217;t know much about these cards but they have some interesting images. The River Taff This photo of ... <a title="Postcards from Tongwynlais – Part 18" class="read-more" href="https://tongwynlais.com/2023/12/18/postcards-from-tongwynlais-part-18/" aria-label="Read more about Postcards from Tongwynlais – Part 18">more...</a>]]></description>
-		
-					<wfw:commentRss>https://tongwynlais.com/2023/12/18/postcards-from-tongwynlais-part-18/feed/</wfw:commentRss>
-			<slash:comments>1</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">19219</post-id>	</item>
 	</channel>
 </rss>
