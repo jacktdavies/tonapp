@@ -15,7 +15,7 @@
 	<atom:link href="https://castellcoch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://castellcoch.com</link>
 	<description></description>
-	<lastBuildDate>Sat, 28 Sep 2024 08:28:06 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 29 Oct 2024 14:23:43 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,9 +31,27 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">184115289</site>	<item>
+		<title>Cadw Turns 40</title>
+		<link>https://castellcoch.com/2024/10/29/cadw-turns-40/</link>
+					<comments>https://castellcoch.com/2024/10/29/cadw-turns-40/#respond</comments>
+		
+		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
+		<pubDate>Tue, 29 Oct 2024 14:23:42 +0000</pubDate>
+				<category><![CDATA[History]]></category>
+		<category><![CDATA[cadw]]></category>
+		<category><![CDATA[heritage]]></category>
+		<guid isPermaLink="false">https://castellcoch.com/?p=5782</guid>
+
+					<description><![CDATA[The 40th anniversary of Cadw has already been covered in the news earlier this month. The BBC article, &#8220;From castles to loos &#8211; protecting Wales&#8217; history&#8221; is well worth a read. Rather than repeat this information, I thought I&#8217;d look through my collection for items related to Cadw, share some stories I&#8217;ve published about them ... <p class="read-more-container"><a title="Cadw Turns 40" class="read-more button" href="https://castellcoch.com/2024/10/29/cadw-turns-40/#more-5782" aria-label="Read more about Cadw Turns 40">Read more</a></p>]]></description>
+		
+					<wfw:commentRss>https://castellcoch.com/2024/10/29/cadw-turns-40/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">5782</post-id>	</item>
+		<item>
 		<title>Stereoview of Castell Coch</title>
 		<link>https://castellcoch.com/2024/09/28/stereoview-of-castell-coch/</link>
-					<comments>https://castellcoch.com/2024/09/28/stereoview-of-castell-coch/#respond</comments>
 		
 		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
 		<pubDate>Sat, 28 Sep 2024 08:28:05 +0000</pubDate>
@@ -44,8 +62,6 @@
 
 					<description><![CDATA[I recently found this example of a stereoview featuring Castell Coch. This type of photo is also called a stereographic card or stereogram. A stereoview consists of two photos that, when viewed with a device called a stereoscope, creates a three-dimensional effect. Stereoscopes This antique stereoscope was popular in the 19th century. It&#8217;s a &#8220;Holmes ... <p class="read-more-container"><a title="Stereoview of Castell Coch" class="read-more button" href="https://castellcoch.com/2024/09/28/stereoview-of-castell-coch/#more-5593" aria-label="Read more about Stereoview of Castell Coch">Read more</a></p>]]></description>
 		
-					<wfw:commentRss>https://castellcoch.com/2024/09/28/stereoview-of-castell-coch/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">5593</post-id>	</item>
@@ -180,26 +196,5 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">4433</post-id>	</item>
-		<item>
-		<title>Castles and Abbeys of Wales</title>
-		<link>https://castellcoch.com/2023/12/14/castles-and-abbeys-of-wales/</link>
-					<comments>https://castellcoch.com/2023/12/14/castles-and-abbeys-of-wales/#comments</comments>
-		
-		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
-		<pubDate>Thu, 14 Dec 2023 20:36:57 +0000</pubDate>
-				<category><![CDATA[History]]></category>
-		<category><![CDATA[1970s]]></category>
-		<category><![CDATA[book]]></category>
-		<category><![CDATA[department of the environment]]></category>
-		<category><![CDATA[history]]></category>
-		<guid isPermaLink="false">https://castellcoch.com/?p=4337</guid>
-
-					<description><![CDATA[&#8220;Castles and Abbeys of Wales&#8221; was written by D J Cathcart King (MC, LLM, FSA) and published by the Department of the Environment in 1975. The 40 page book features 49 monuments and 32 photographs. The two photos of Castell Coch (below) are prominently featured in the centre of the book. The monuments are organised ... <p class="read-more-container"><a title="Castles and Abbeys of Wales" class="read-more button" href="https://castellcoch.com/2023/12/14/castles-and-abbeys-of-wales/#more-4337" aria-label="Read more about Castles and Abbeys of Wales">Read more</a></p>]]></description>
-		
-					<wfw:commentRss>https://castellcoch.com/2023/12/14/castles-and-abbeys-of-wales/feed/</wfw:commentRss>
-			<slash:comments>2</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">4337</post-id>	</item>
 	</channel>
 </rss>
