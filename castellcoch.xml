@@ -15,7 +15,7 @@
 	<atom:link href="https://castellcoch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://castellcoch.com</link>
 	<description></description>
-	<lastBuildDate>Tue, 29 Oct 2024 14:23:43 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 11 Nov 2024 18:42:58 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,9 +31,28 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">184115289</site>	<item>
+		<title>Castell Coch in World War II</title>
+		<link>https://castellcoch.com/2024/11/11/castell-coch-in-world-war-ii/</link>
+					<comments>https://castellcoch.com/2024/11/11/castell-coch-in-world-war-ii/#respond</comments>
+		
+		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
+		<pubDate>Mon, 11 Nov 2024 18:42:57 +0000</pubDate>
+				<category><![CDATA[History]]></category>
+		<category><![CDATA[1940s]]></category>
+		<category><![CDATA[second world war]]></category>
+		<guid isPermaLink="false">https://castellcoch.com/?p=5894</guid>
+
+					<description><![CDATA[The history of Castell Coch in World War II was, and still is, a bit of a mystery. I spoke to a volunteer in the castle recently and she mentioned that they knew very little about this period of its history. I asked some local residents who know lots about the village and they didn&#8217;t ... <p class="read-more-container"><a title="Castell Coch in World War II" class="read-more button" href="https://castellcoch.com/2024/11/11/castell-coch-in-world-war-ii/#more-5894" aria-label="Read more about Castell Coch in World War II">Read more</a></p>]]></description>
+		
+					<wfw:commentRss>https://castellcoch.com/2024/11/11/castell-coch-in-world-war-ii/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">5894</post-id>	</item>
+		<item>
 		<title>Cadw Turns 40</title>
 		<link>https://castellcoch.com/2024/10/29/cadw-turns-40/</link>
-					<comments>https://castellcoch.com/2024/10/29/cadw-turns-40/#respond</comments>
+					<comments>https://castellcoch.com/2024/10/29/cadw-turns-40/#comments</comments>
 		
 		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
 		<pubDate>Tue, 29 Oct 2024 14:23:42 +0000</pubDate>
@@ -45,7 +64,7 @@
 					<description><![CDATA[The 40th anniversary of Cadw has already been covered in the news earlier this month. The BBC article, &#8220;From castles to loos &#8211; protecting Wales&#8217; history&#8221; is well worth a read. Rather than repeat this information, I thought I&#8217;d look through my collection for items related to Cadw, share some stories I&#8217;ve published about them ... <p class="read-more-container"><a title="Cadw Turns 40" class="read-more button" href="https://castellcoch.com/2024/10/29/cadw-turns-40/#more-5782" aria-label="Read more about Cadw Turns 40">Read more</a></p>]]></description>
 		
 					<wfw:commentRss>https://castellcoch.com/2024/10/29/cadw-turns-40/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
+			<slash:comments>1</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">5782</post-id>	</item>
@@ -178,23 +197,5 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">4593</post-id>	</item>
-		<item>
-		<title>Postcards of Castell Coch – Part 8</title>
-		<link>https://castellcoch.com/2024/01/25/postcards-of-castell-coch-part-8/</link>
-					<comments>https://castellcoch.com/2024/01/25/postcards-of-castell-coch-part-8/#comments</comments>
-		
-		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
-		<pubDate>Thu, 25 Jan 2024 13:30:03 +0000</pubDate>
-				<category><![CDATA[History]]></category>
-		<category><![CDATA[postcard]]></category>
-		<guid isPermaLink="false">https://castellcoch.com/?p=4433</guid>
-
-					<description><![CDATA[When I&#8217;m researching old postcards, it&#8217;s sometimes a struggle to identify the publisher and often difficult to find out much information about them. I was delighted to discover the amazing TuckDB Postcards, which has documented over 135,000 cards from the famous publisher. CDF 72 &#8211; Castle Coch, Near Cardiff (1959) I bought this postcard a ... <p class="read-more-container"><a title="Postcards of Castell Coch – Part 8" class="read-more button" href="https://castellcoch.com/2024/01/25/postcards-of-castell-coch-part-8/#more-4433" aria-label="Read more about Postcards of Castell Coch – Part 8">Read more</a></p>]]></description>
-		
-					<wfw:commentRss>https://castellcoch.com/2024/01/25/postcards-of-castell-coch-part-8/feed/</wfw:commentRss>
-			<slash:comments>1</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">4433</post-id>	</item>
 	</channel>
 </rss>
