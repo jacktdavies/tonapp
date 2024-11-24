@@ -15,7 +15,7 @@
 	<atom:link href="https://tongwynlais.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://tongwynlais.com</link>
 	<description></description>
-	<lastBuildDate>Thu, 10 Oct 2024 11:33:20 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 24 Nov 2024 09:25:09 +0000</lastBuildDate>
 	<language>en-GB</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,6 +31,27 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">37574071</site>	<item>
+		<title>The Lewis&#8217; of Greenmeadow</title>
+		<link>https://tongwynlais.com/2024/11/24/the-lewis-of-greenmeadow/</link>
+					<comments>https://tongwynlais.com/2024/11/24/the-lewis-of-greenmeadow/#respond</comments>
+		
+		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
+		<pubDate>Sun, 24 Nov 2024 09:25:08 +0000</pubDate>
+				<category><![CDATA[History]]></category>
+		<category><![CDATA[books]]></category>
+		<category><![CDATA[dh]]></category>
+		<category><![CDATA[greenmeadow house]]></category>
+		<category><![CDATA[roger brown]]></category>
+		<guid isPermaLink="false">https://tongwynlais.com/?p=20236</guid>
+
+					<description><![CDATA[Roger L Brown published &#8220;The Lewis&#8217; of Greenmeadow&#8221; in 1984. He was the vicar of St Michael’s Church from 1979 to 1993 and a keen historian. I wrote about his previous book, &#8220;Turn of the Century Ton&#8220;, earlier in the year. Roger purchased a second hand lithographic printer to produce various books and pamphlets. They ... <a title="The Lewis&#8217; of Greenmeadow" class="read-more" href="https://tongwynlais.com/2024/11/24/the-lewis-of-greenmeadow/" aria-label="Read more about The Lewis&#8217; of Greenmeadow">more...</a>]]></description>
+		
+					<wfw:commentRss>https://tongwynlais.com/2024/11/24/the-lewis-of-greenmeadow/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">20236</post-id>	</item>
+		<item>
 		<title>Tongwynlais Church Building Fund</title>
 		<link>https://tongwynlais.com/2024/10/10/tongwynlais-church-building-fund/</link>
 					<comments>https://tongwynlais.com/2024/10/10/tongwynlais-church-building-fund/#respond</comments>
@@ -109,7 +130,7 @@
 					<description><![CDATA[In today&#8217;s &#8220;Old News&#8221;, I present the intriguingly titled article, &#8220;Attractive Foot Race&#8221;. The race appears to be the highlight of a sports day hosted by the Tongwynlais Brass Band on Greenmeadow Park. Both &#8220;victuallers&#8221; (a person who is licensed to sell alcohol) were named Thomas and were, presumably, the landlords of the New Inn ... <a title="Attractive Foot Race" class="read-more" href="https://tongwynlais.com/2024/07/27/attractive-foot-race/" aria-label="Read more about Attractive Foot Race">more...</a>]]></description>
 		
 					<wfw:commentRss>https://tongwynlais.com/2024/07/27/attractive-foot-race/feed/</wfw:commentRss>
-			<slash:comments>1</slash:comments>
+			<slash:comments>2</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">19690</post-id>	</item>
@@ -215,25 +236,5 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">19336</post-id>	</item>
-		<item>
-		<title>Turn of the Century Ton</title>
-		<link>https://tongwynlais.com/2024/01/19/turn-of-the-century-ton/</link>
-					<comments>https://tongwynlais.com/2024/01/19/turn-of-the-century-ton/#comments</comments>
-		
-		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
-		<pubDate>Fri, 19 Jan 2024 08:19:22 +0000</pubDate>
-				<category><![CDATA[History]]></category>
-		<category><![CDATA[books]]></category>
-		<category><![CDATA[dh]]></category>
-		<category><![CDATA[roger brown]]></category>
-		<guid isPermaLink="false">https://tongwynlais.com/?p=19275</guid>
-
-					<description><![CDATA[I&#8217;ve acquired a collection of books over the years but I haven&#8217;t written about any of them. I&#8217;m going to start with one of my favourite items by Roger L Brown. Roger Brown was the vicar of St Michael&#8217;s Church from 1979 to 1993 and a keen historian. He retired and moved away from the ... <a title="Turn of the Century Ton" class="read-more" href="https://tongwynlais.com/2024/01/19/turn-of-the-century-ton/" aria-label="Read more about Turn of the Century Ton">more...</a>]]></description>
-		
-					<wfw:commentRss>https://tongwynlais.com/2024/01/19/turn-of-the-century-ton/feed/</wfw:commentRss>
-			<slash:comments>2</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">19275</post-id>	</item>
 	</channel>
 </rss>
