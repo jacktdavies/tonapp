@@ -15,7 +15,7 @@
 	<atom:link href="https://tongwynlais.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://tongwynlais.com</link>
 	<description></description>
-	<lastBuildDate>Sun, 24 Nov 2024 09:25:09 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 20 Dec 2024 17:16:40 +0000</lastBuildDate>
 	<language>en-GB</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,9 +31,28 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">37574071</site>	<item>
+		<title>Tongwynlais in Lego &#8211; Part 1</title>
+		<link>https://tongwynlais.com/2024/12/20/tongwynlais-in-lego-part-1/</link>
+					<comments>https://tongwynlais.com/2024/12/20/tongwynlais-in-lego-part-1/#respond</comments>
+		
+		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
+		<pubDate>Fri, 20 Dec 2024 17:16:39 +0000</pubDate>
+				<category><![CDATA[Art]]></category>
+		<category><![CDATA[dh]]></category>
+		<category><![CDATA[lego]]></category>
+		<guid isPermaLink="false">https://tongwynlais.com/?p=20367</guid>
+
+					<description><![CDATA[I always loved Lego as a child and this passion was rekindled in my 30s when I had my own children. Lego always makes me think of Christmas as I received so many of my favourite sets as presents. We have a modest collection of bricks in the house from my kids&#8217; old sets and ... <a title="Tongwynlais in Lego &#8211; Part 1" class="read-more" href="https://tongwynlais.com/2024/12/20/tongwynlais-in-lego-part-1/" aria-label="Read more about Tongwynlais in Lego &#8211; Part 1">more...</a>]]></description>
+		
+					<wfw:commentRss>https://tongwynlais.com/2024/12/20/tongwynlais-in-lego-part-1/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">20367</post-id>	</item>
+		<item>
 		<title>The Lewis&#8217; of Greenmeadow</title>
 		<link>https://tongwynlais.com/2024/11/24/the-lewis-of-greenmeadow/</link>
-					<comments>https://tongwynlais.com/2024/11/24/the-lewis-of-greenmeadow/#respond</comments>
+					<comments>https://tongwynlais.com/2024/11/24/the-lewis-of-greenmeadow/#comments</comments>
 		
 		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
 		<pubDate>Sun, 24 Nov 2024 09:25:08 +0000</pubDate>
@@ -47,7 +66,7 @@
 					<description><![CDATA[Roger L Brown published &#8220;The Lewis&#8217; of Greenmeadow&#8221; in 1984. He was the vicar of St Michael’s Church from 1979 to 1993 and a keen historian. I wrote about his previous book, &#8220;Turn of the Century Ton&#8220;, earlier in the year. Roger purchased a second hand lithographic printer to produce various books and pamphlets. They ... <a title="The Lewis&#8217; of Greenmeadow" class="read-more" href="https://tongwynlais.com/2024/11/24/the-lewis-of-greenmeadow/" aria-label="Read more about The Lewis&#8217; of Greenmeadow">more...</a>]]></description>
 		
 					<wfw:commentRss>https://tongwynlais.com/2024/11/24/the-lewis-of-greenmeadow/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
+			<slash:comments>2</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">20236</post-id>	</item>
@@ -215,26 +234,5 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">19445</post-id>	</item>
-		<item>
-		<title>Villa Cardiff – Part 2</title>
-		<link>https://tongwynlais.com/2024/02/17/villa-cardiff-part-2/</link>
-					<comments>https://tongwynlais.com/2024/02/17/villa-cardiff-part-2/#comments</comments>
-		
-		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
-		<pubDate>Sat, 17 Feb 2024 10:06:46 +0000</pubDate>
-				<category><![CDATA[History]]></category>
-		<category><![CDATA[arms]]></category>
-		<category><![CDATA[cardiff]]></category>
-		<category><![CDATA[design]]></category>
-		<category><![CDATA[dh]]></category>
-		<guid isPermaLink="false">https://tongwynlais.com/?p=19336</guid>
-
-					<description><![CDATA[This series was inspired by an article from John&#38;Jane that explored the design of a modern flag for Cardiff. In the first part I looked into the history of Cardiff and found some examples of the &#8220;Cardiff Arms&#8221;. Since then, I&#8217;ve been collecting even more examples and looking into the history of the design. The ... <a title="Villa Cardiff – Part 2" class="read-more" href="https://tongwynlais.com/2024/02/17/villa-cardiff-part-2/" aria-label="Read more about Villa Cardiff – Part 2">more...</a>]]></description>
-		
-					<wfw:commentRss>https://tongwynlais.com/2024/02/17/villa-cardiff-part-2/feed/</wfw:commentRss>
-			<slash:comments>1</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">19336</post-id>	</item>
 	</channel>
 </rss>
