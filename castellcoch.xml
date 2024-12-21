@@ -15,7 +15,7 @@
 	<atom:link href="https://castellcoch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://castellcoch.com</link>
 	<description></description>
-	<lastBuildDate>Mon, 11 Nov 2024 18:42:58 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 21 Dec 2024 17:34:18 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,9 +31,27 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">184115289</site>	<item>
+		<title>Castell Coch by John Warwick Smith</title>
+		<link>https://castellcoch.com/2024/12/21/castell-coch-by-john-warwick-smith/</link>
+					<comments>https://castellcoch.com/2024/12/21/castell-coch-by-john-warwick-smith/#respond</comments>
+		
+		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
+		<pubDate>Sat, 21 Dec 2024 17:34:17 +0000</pubDate>
+				<category><![CDATA[Art]]></category>
+		<category><![CDATA[1787]]></category>
+		<category><![CDATA[painting]]></category>
+		<guid isPermaLink="false">https://castellcoch.com/?p=6213</guid>
+
+					<description><![CDATA[I&#8217;ve already shared a few illustrations of Castell Coch in the 18th and 19th centuries. This watercolour by John Warwick Smith is another fascinating glimpse of the original castle in its ruined state. From the terrain, it looks like this is the view looking north east. Ivy appears to be growing out of each tower ... <p class="read-more-container"><a title="Castell Coch by John Warwick Smith" class="read-more button" href="https://castellcoch.com/2024/12/21/castell-coch-by-john-warwick-smith/#more-6213" aria-label="Read more about Castell Coch by John Warwick Smith">Read more</a></p>]]></description>
+		
+					<wfw:commentRss>https://castellcoch.com/2024/12/21/castell-coch-by-john-warwick-smith/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">6213</post-id>	</item>
+		<item>
 		<title>Castell Coch in World War II</title>
 		<link>https://castellcoch.com/2024/11/11/castell-coch-in-world-war-ii/</link>
-					<comments>https://castellcoch.com/2024/11/11/castell-coch-in-world-war-ii/#respond</comments>
 		
 		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
 		<pubDate>Mon, 11 Nov 2024 18:42:57 +0000</pubDate>
@@ -44,8 +62,6 @@
 
 					<description><![CDATA[The history of Castell Coch in World War II was, and still is, a bit of a mystery. I spoke to a volunteer in the castle recently and she mentioned that they knew very little about this period of its history. I asked some local residents who know lots about the village and they didn&#8217;t ... <p class="read-more-container"><a title="Castell Coch in World War II" class="read-more button" href="https://castellcoch.com/2024/11/11/castell-coch-in-world-war-ii/#more-5894" aria-label="Read more about Castell Coch in World War II">Read more</a></p>]]></description>
 		
-					<wfw:commentRss>https://castellcoch.com/2024/11/11/castell-coch-in-world-war-ii/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">5894</post-id>	</item>
@@ -181,21 +197,5 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">4764</post-id>	</item>
-		<item>
-		<title>Lady Bute &#8211; Part 1</title>
-		<link>https://castellcoch.com/2024/02/26/lady-bute-part-1/</link>
-		
-		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
-		<pubDate>Mon, 26 Feb 2024 19:21:25 +0000</pubDate>
-				<category><![CDATA[History]]></category>
-		<category><![CDATA[lady-bute]]></category>
-		<category><![CDATA[people]]></category>
-		<guid isPermaLink="false">https://castellcoch.com/?p=4593</guid>
-
-					<description><![CDATA[Lady Gwendolen Mary Anne Stuart (Fitzalan-Howard) played a significant part in the development of Castell Coch. Gwendolen Fitzalan-Howard (1854 &#8211; 1932) was the daughter of The 1st Baron Howard of Glossop and granddaughter of The 13th Duke of Norfolk. She was engaged to John Crichton-Stuart, 3rd Marquess of Bute in February 1872 and the couple ... <p class="read-more-container"><a title="Lady Bute &#8211; Part 1" class="read-more button" href="https://castellcoch.com/2024/02/26/lady-bute-part-1/#more-4593" aria-label="Read more about Lady Bute &#8211; Part 1">Read more</a></p>]]></description>
-		
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">4593</post-id>	</item>
 	</channel>
 </rss>
