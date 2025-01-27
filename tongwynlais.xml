@@ -15,7 +15,7 @@
 	<atom:link href="https://tongwynlais.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://tongwynlais.com</link>
 	<description></description>
-	<lastBuildDate>Fri, 20 Dec 2024 17:16:40 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 27 Jan 2025 14:52:34 +0000</lastBuildDate>
 	<language>en-GB</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,9 +31,30 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">37574071</site>	<item>
+		<title>Pixel Art Tongwynlais – Part 4</title>
+		<link>https://tongwynlais.com/2025/01/27/pixel-art-tongwynlais-part-4/</link>
+					<comments>https://tongwynlais.com/2025/01/27/pixel-art-tongwynlais-part-4/#respond</comments>
+		
+		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
+		<pubDate>Mon, 27 Jan 2025 14:52:33 +0000</pubDate>
+				<category><![CDATA[Art]]></category>
+		<category><![CDATA[dh]]></category>
+		<category><![CDATA[illustration]]></category>
+		<category><![CDATA[lewis arms]]></category>
+		<category><![CDATA[pixel art]]></category>
+		<guid isPermaLink="false">https://tongwynlais.com/?p=20496</guid>
+
+					<description><![CDATA[Pixel art describes a technique for creating digital illustrations at the individual pixel level. This type of art was the result of low resolution displays in early videogame systems. Today, our phone and computer displays have millions of pixels. Despite this, the art form is very popular and the “retro” videogame look is used in ... <a title="Pixel Art Tongwynlais – Part 4" class="read-more" href="https://tongwynlais.com/2025/01/27/pixel-art-tongwynlais-part-4/" aria-label="Read more about Pixel Art Tongwynlais – Part 4">more...</a>]]></description>
+		
+					<wfw:commentRss>https://tongwynlais.com/2025/01/27/pixel-art-tongwynlais-part-4/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">20496</post-id>	</item>
+		<item>
 		<title>Tongwynlais in Lego &#8211; Part 1</title>
 		<link>https://tongwynlais.com/2024/12/20/tongwynlais-in-lego-part-1/</link>
-					<comments>https://tongwynlais.com/2024/12/20/tongwynlais-in-lego-part-1/#respond</comments>
+					<comments>https://tongwynlais.com/2024/12/20/tongwynlais-in-lego-part-1/#comments</comments>
 		
 		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
 		<pubDate>Fri, 20 Dec 2024 17:16:39 +0000</pubDate>
@@ -45,7 +66,7 @@
 					<description><![CDATA[I always loved Lego as a child and this passion was rekindled in my 30s when I had my own children. Lego always makes me think of Christmas as I received so many of my favourite sets as presents. We have a modest collection of bricks in the house from my kids&#8217; old sets and ... <a title="Tongwynlais in Lego &#8211; Part 1" class="read-more" href="https://tongwynlais.com/2024/12/20/tongwynlais-in-lego-part-1/" aria-label="Read more about Tongwynlais in Lego &#8211; Part 1">more...</a>]]></description>
 		
 					<wfw:commentRss>https://tongwynlais.com/2024/12/20/tongwynlais-in-lego-part-1/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
+			<slash:comments>2</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">20367</post-id>	</item>
@@ -213,26 +234,5 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">19476</post-id>	</item>
-		<item>
-		<title>Serious Fire at Tongwynlais</title>
-		<link>https://tongwynlais.com/2024/03/24/serious-fire-at-tongwynlais/</link>
-					<comments>https://tongwynlais.com/2024/03/24/serious-fire-at-tongwynlais/#comments</comments>
-		
-		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
-		<pubDate>Sun, 24 Mar 2024 07:59:40 +0000</pubDate>
-				<category><![CDATA[History]]></category>
-		<category><![CDATA[dh]]></category>
-		<category><![CDATA[news]]></category>
-		<category><![CDATA[newspaper]]></category>
-		<category><![CDATA[welsh newspapers]]></category>
-		<guid isPermaLink="false">https://tongwynlais.com/?p=19445</guid>
-
-					<description><![CDATA[One of the best ways to get an idea of what life was like in Tongwynlais is to explore Welsh Newspapers Online. This article from the South Wales Daily News was published 141 years ago, on 24th March 1883. These stories can tell us what businesses existed and who owned them. They&#8217;re an invaluable insight ... <a title="Serious Fire at Tongwynlais" class="read-more" href="https://tongwynlais.com/2024/03/24/serious-fire-at-tongwynlais/" aria-label="Read more about Serious Fire at Tongwynlais">more...</a>]]></description>
-		
-					<wfw:commentRss>https://tongwynlais.com/2024/03/24/serious-fire-at-tongwynlais/feed/</wfw:commentRss>
-			<slash:comments>1</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">19445</post-id>	</item>
 	</channel>
 </rss>
