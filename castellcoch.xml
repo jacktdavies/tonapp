@@ -12,7 +12,7 @@
 	<atom:link href="https://castellcoch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://castellcoch.com</link>
 	<description></description>
-	<lastBuildDate>Wed, 29 Jan 2025 12:06:43 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 14 Feb 2025 07:28:45 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,9 +28,27 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">184115289</site>	<item>
+		<title>Postcards of Castell Coch – Part 10</title>
+		<link>https://castellcoch.com/2025/02/14/postcards-of-castell-coch-part-10/</link>
+					<comments>https://castellcoch.com/2025/02/14/postcards-of-castell-coch-part-10/#respond</comments>
+		
+		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
+		<pubDate>Fri, 14 Feb 2025 07:28:45 +0000</pubDate>
+				<category><![CDATA[History]]></category>
+		<category><![CDATA[james valentine]]></category>
+		<category><![CDATA[postcard]]></category>
+		<guid isPermaLink="false">https://castellcoch.com/?p=6565</guid>
+
+					<description><![CDATA[For Valentine&#8217;s Day, I&#8217;m sharing this unique panoramic postcard by the famous publisher J Valentine &#38; Sons. J Valentine &#38; Sons was a prominent postcard publisher based in Dundee, Scotland. Founded in 1851 by James Valentine, the company initially focused on photography and printing before venturing into the postcard business in the late 19th century. ... <p class="read-more-container"><a title="Postcards of Castell Coch – Part 10" class="read-more button" href="https://castellcoch.com/2025/02/14/postcards-of-castell-coch-part-10/#more-6565" aria-label="Read more about Postcards of Castell Coch – Part 10">Read more</a></p>]]></description>
+		
+					<wfw:commentRss>https://castellcoch.com/2025/02/14/postcards-of-castell-coch-part-10/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">6565</post-id>	</item>
+		<item>
 		<title>Castell Coch by Mary Traynor</title>
 		<link>https://castellcoch.com/2025/01/29/castell-coch-by-mary-traynor/</link>
-					<comments>https://castellcoch.com/2025/01/29/castell-coch-by-mary-traynor/#respond</comments>
 		
 		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
 		<pubDate>Wed, 29 Jan 2025 12:06:43 +0000</pubDate>
@@ -41,8 +59,6 @@
 
 					<description><![CDATA[I&#8217;ve been aware of Mary Traynor&#8217;s work for a number of years but only recently picked up a copy of her book about Cardiff. It includes a chapter dedicated to Castell Coch with a couple of paintings by Mary. &#8220;Mary Traynor was born in China in 1934 and studied at Goldsmith’s, Birmingham College of Art ... <p class="read-more-container"><a title="Castell Coch by Mary Traynor" class="read-more button" href="https://castellcoch.com/2025/01/29/castell-coch-by-mary-traynor/#more-6468" aria-label="Read more about Castell Coch by Mary Traynor">Read more</a></p>]]></description>
 		
-					<wfw:commentRss>https://castellcoch.com/2025/01/29/castell-coch-by-mary-traynor/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">6468</post-id>	</item>
@@ -176,20 +192,5 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">4970</post-id>	</item>
-		<item>
-		<title>Photos of Castell Coch &#8211; Part 1</title>
-		<link>https://castellcoch.com/2024/04/25/photos-of-castell-coch-part-1/</link>
-		
-		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
-		<pubDate>Thu, 25 Apr 2024 18:04:14 +0000</pubDate>
-				<category><![CDATA[Photography]]></category>
-		<category><![CDATA[castell coch]]></category>
-		<guid isPermaLink="false">https://castellcoch.com/?p=4871</guid>
-
-					<description><![CDATA[I don&#8217;t post that many of my own photos on the website. I share them regularly on Instagram but I&#8217;ve never had a dedicated series on the blog. I&#8217;ve started taking my camera out a bit more often so I&#8217;m going to post a collection every now and again. I took this shot of the ... <p class="read-more-container"><a title="Photos of Castell Coch &#8211; Part 1" class="read-more button" href="https://castellcoch.com/2024/04/25/photos-of-castell-coch-part-1/#more-4871" aria-label="Read more about Photos of Castell Coch &#8211; Part 1">Read more</a></p>]]></description>
-		
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">4871</post-id>	</item>
 	</channel>
 </rss>
