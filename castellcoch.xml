@@ -12,7 +12,7 @@
 	<atom:link href="https://castellcoch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://castellcoch.com</link>
 	<description></description>
-	<lastBuildDate>Fri, 14 Feb 2025 07:28:45 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 08 Mar 2025 14:55:17 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,9 +28,26 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">184115289</site>	<item>
+		<title>Castell Coch by Antonio Mortola</title>
+		<link>https://castellcoch.com/2025/03/08/castell-coch-by-antonio-mortola/</link>
+					<comments>https://castellcoch.com/2025/03/08/castell-coch-by-antonio-mortola/#respond</comments>
+		
+		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
+		<pubDate>Sat, 08 Mar 2025 14:55:16 +0000</pubDate>
+				<category><![CDATA[Art]]></category>
+		<category><![CDATA[lego]]></category>
+		<guid isPermaLink="false">https://castellcoch.com/?p=6827</guid>
+
+					<description><![CDATA[More than ten years after publishing my first story about a Lego Castell Coch model, I&#8217;m excited to share another beautiful creation from a talented Lego builder. Antonio Mortola shared some pictures on social media last year and I recently got in touch to find out more about his work and this amazing model. Antonio&#8217;s ... <p class="read-more-container"><a title="Castell Coch by Antonio Mortola" class="read-more button" href="https://castellcoch.com/2025/03/08/castell-coch-by-antonio-mortola/#more-6827" aria-label="Read more about Castell Coch by Antonio Mortola">Read more</a></p>]]></description>
+		
+					<wfw:commentRss>https://castellcoch.com/2025/03/08/castell-coch-by-antonio-mortola/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">6827</post-id>	</item>
+		<item>
 		<title>Postcards of Castell Coch – Part 10</title>
 		<link>https://castellcoch.com/2025/02/14/postcards-of-castell-coch-part-10/</link>
-					<comments>https://castellcoch.com/2025/02/14/postcards-of-castell-coch-part-10/#respond</comments>
 		
 		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
 		<pubDate>Fri, 14 Feb 2025 07:28:45 +0000</pubDate>
@@ -41,8 +58,6 @@
 
 					<description><![CDATA[For Valentine&#8217;s Day, I&#8217;m sharing this unique panoramic postcard by the famous publisher J Valentine &#38; Sons. J Valentine &#38; Sons was a prominent postcard publisher based in Dundee, Scotland. Founded in 1851 by James Valentine, the company initially focused on photography and printing before venturing into the postcard business in the late 19th century. ... <p class="read-more-container"><a title="Postcards of Castell Coch – Part 10" class="read-more button" href="https://castellcoch.com/2025/02/14/postcards-of-castell-coch-part-10/#more-6565" aria-label="Read more about Postcards of Castell Coch – Part 10">Read more</a></p>]]></description>
 		
-					<wfw:commentRss>https://castellcoch.com/2025/02/14/postcards-of-castell-coch-part-10/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">6565</post-id>	</item>
@@ -176,21 +191,5 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">5121</post-id>	</item>
-		<item>
-		<title>Preserving Castell Coch</title>
-		<link>https://castellcoch.com/2024/05/15/preserving-castell-coch/</link>
-		
-		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
-		<pubDate>Wed, 15 May 2024 08:56:58 +0000</pubDate>
-				<category><![CDATA[Castell Coch]]></category>
-		<category><![CDATA[cadw]]></category>
-		<category><![CDATA[conservation]]></category>
-		<guid isPermaLink="false">https://castellcoch.com/?p=4970</guid>
-
-					<description><![CDATA[Cadw have announced an extensive conservation project to remove moisture from the Well Tower at Castell Coch. The damp is causing significant damage to the intricate decorations and fabric of the building. The work is scheduled to take two years, beginning in spring 2024. Cadw noted, &#8220;This phase of work in 2024 will not affect ... <p class="read-more-container"><a title="Preserving Castell Coch" class="read-more button" href="https://castellcoch.com/2024/05/15/preserving-castell-coch/#more-4970" aria-label="Read more about Preserving Castell Coch">Read more</a></p>]]></description>
-		
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">4970</post-id>	</item>
 	</channel>
 </rss>
