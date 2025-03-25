@@ -12,7 +12,7 @@
 	<atom:link href="https://tongwynlais.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://tongwynlais.com</link>
 	<description></description>
-	<lastBuildDate>Mon, 17 Feb 2025 10:07:50 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 25 Mar 2025 12:48:25 +0000</lastBuildDate>
 	<language>en-GB</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,9 +28,30 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">37574071</site>	<item>
+		<title>Villa Cardiff &#8211; Part 3</title>
+		<link>https://tongwynlais.com/2025/03/25/villa-cardiff-part-3/</link>
+					<comments>https://tongwynlais.com/2025/03/25/villa-cardiff-part-3/#respond</comments>
+		
+		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
+		<pubDate>Tue, 25 Mar 2025 12:48:24 +0000</pubDate>
+				<category><![CDATA[History]]></category>
+		<category><![CDATA[arms]]></category>
+		<category><![CDATA[cardiff]]></category>
+		<category><![CDATA[design]]></category>
+		<category><![CDATA[dh]]></category>
+		<guid isPermaLink="false">https://tongwynlais.com/?p=29233</guid>
+
+					<description><![CDATA[This series was inspired by an article from John&#38;Jane that explored the design of a modern flag for Cardiff. In the first part I looked into the history of Cardiff and found some examples of the &#8220;Cardiff Arms&#8221;. In the second part I discovered some of the history of the arms and shared more examples ... <a title="Villa Cardiff &#8211; Part 3" class="read-more" href="https://tongwynlais.com/2025/03/25/villa-cardiff-part-3/" aria-label="Read more about Villa Cardiff &#8211; Part 3">more...</a>]]></description>
+		
+					<wfw:commentRss>https://tongwynlais.com/2025/03/25/villa-cardiff-part-3/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">29233</post-id>	</item>
+		<item>
 		<title>Postcards from Tongwynlais – Part 20</title>
 		<link>https://tongwynlais.com/2025/02/17/postcards-from-tongwynlais-part-20/</link>
-					<comments>https://tongwynlais.com/2025/02/17/postcards-from-tongwynlais-part-20/#respond</comments>
+					<comments>https://tongwynlais.com/2025/02/17/postcards-from-tongwynlais-part-20/#comments</comments>
 		
 		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
 		<pubDate>Mon, 17 Feb 2025 10:07:49 +0000</pubDate>
@@ -42,7 +63,7 @@
 					<description><![CDATA[Welcome to the 20th instalment of my flagship series! This is one of my favourite images and shows the village at the beginning of the 1900s. I&#8217;ve seen a few poor quality examples of this photo. I was really pleased to find this excellent copy posted in 1907 with a very sweet message. It was ... <a title="Postcards from Tongwynlais – Part 20" class="read-more" href="https://tongwynlais.com/2025/02/17/postcards-from-tongwynlais-part-20/" aria-label="Read more about Postcards from Tongwynlais – Part 20">more...</a>]]></description>
 		
 					<wfw:commentRss>https://tongwynlais.com/2025/02/17/postcards-from-tongwynlais-part-20/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
+			<slash:comments>1</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">28151</post-id>	</item>
@@ -211,25 +232,5 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">19636</post-id>	</item>
-		<item>
-		<title>New Postcards from Tongwynlais &#8211; Part 1</title>
-		<link>https://tongwynlais.com/2024/05/24/new-postcards-from-tongwynlais-part-1/</link>
-					<comments>https://tongwynlais.com/2024/05/24/new-postcards-from-tongwynlais-part-1/#comments</comments>
-		
-		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
-		<pubDate>Fri, 24 May 2024 13:07:24 +0000</pubDate>
-				<category><![CDATA[Art]]></category>
-		<category><![CDATA[design]]></category>
-		<category><![CDATA[dh]]></category>
-		<category><![CDATA[postcard]]></category>
-		<guid isPermaLink="false">https://tongwynlais.com/?p=19550</guid>
-
-					<description><![CDATA[I love old postcards but I often wonder what a modern postcard of Tongwynlais would look like. I&#8217;ve been using some vintage Cardiff postcards for inspiration. Here are a few examples where I&#8217;ve updated the content with new photos. In the next instalment I&#8217;m going to create some more contemporary designs. Postcards from Tongwynlais I&#8217;ve ... <a title="New Postcards from Tongwynlais &#8211; Part 1" class="read-more" href="https://tongwynlais.com/2024/05/24/new-postcards-from-tongwynlais-part-1/" aria-label="Read more about New Postcards from Tongwynlais &#8211; Part 1">more...</a>]]></description>
-		
-					<wfw:commentRss>https://tongwynlais.com/2024/05/24/new-postcards-from-tongwynlais-part-1/feed/</wfw:commentRss>
-			<slash:comments>1</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">19550</post-id>	</item>
 	</channel>
 </rss>
