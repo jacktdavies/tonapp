@@ -12,7 +12,7 @@
 	<atom:link href="https://tongwynlais.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://tongwynlais.com</link>
 	<description></description>
-	<lastBuildDate>Tue, 25 Mar 2025 12:48:25 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 12 Apr 2025 09:15:20 +0000</lastBuildDate>
 	<language>en-GB</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,26 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">37574071</site>	<item>
+		<title>1st Castell Coch Survey</title>
+		<link>https://tongwynlais.com/2025/04/12/1st-castell-coch-survey/</link>
+		
+		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
+		<pubDate>Sat, 12 Apr 2025 09:15:20 +0000</pubDate>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[1st Castell Coch]]></category>
+		<category><![CDATA[beavers]]></category>
+		<category><![CDATA[cubs]]></category>
+		<category><![CDATA[dh]]></category>
+		<category><![CDATA[scouts]]></category>
+		<category><![CDATA[survey]]></category>
+		<guid isPermaLink="false">https://tongwynlais.com/?p=29359</guid>
+
+					<description><![CDATA[1st Castell Coch are looking for a new home and want your views on their plan to buy Bethesda Chapel. The group would love to have a permanent base for their meetings and for the wider community to use. History 4th Cardiff Cardiff has a rich history with scouting. The 4th Cardiff Troop was set ... <a title="1st Castell Coch Survey" class="read-more" href="https://tongwynlais.com/2025/04/12/1st-castell-coch-survey/" aria-label="Read more about 1st Castell Coch Survey">more...</a>]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">29359</post-id>	</item>
+		<item>
 		<title>Villa Cardiff &#8211; Part 3</title>
 		<link>https://tongwynlais.com/2025/03/25/villa-cardiff-part-3/</link>
 					<comments>https://tongwynlais.com/2025/03/25/villa-cardiff-part-3/#respond</comments>
@@ -211,26 +231,5 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">19690</post-id>	</item>
-		<item>
-		<title>Tongwynlais Adventures &#8211; Trail Running</title>
-		<link>https://tongwynlais.com/2024/06/24/tongwynlais-adventures-trail-running/</link>
-					<comments>https://tongwynlais.com/2024/06/24/tongwynlais-adventures-trail-running/#respond</comments>
-		
-		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
-		<pubDate>Mon, 24 Jun 2024 08:07:02 +0000</pubDate>
-				<category><![CDATA[Adventures]]></category>
-		<category><![CDATA[dh]]></category>
-		<category><![CDATA[outdoors]]></category>
-		<category><![CDATA[trail running]]></category>
-		<category><![CDATA[walking]]></category>
-		<guid isPermaLink="false">https://tongwynlais.com/?p=19636</guid>
-
-					<description><![CDATA[I started trail running in 2014 and I&#8217;ve written a few posts about my adventures in and around Tongwynlais. My new website, Cardiff Trails, launched in March 2023. I wanted my own space to log runs, share photos and write about running gear. If you&#8217;ve ever considered trail running, hopefully I can help you find ... <a title="Tongwynlais Adventures &#8211; Trail Running" class="read-more" href="https://tongwynlais.com/2024/06/24/tongwynlais-adventures-trail-running/" aria-label="Read more about Tongwynlais Adventures &#8211; Trail Running">more...</a>]]></description>
-		
-					<wfw:commentRss>https://tongwynlais.com/2024/06/24/tongwynlais-adventures-trail-running/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">19636</post-id>	</item>
 	</channel>
 </rss>
