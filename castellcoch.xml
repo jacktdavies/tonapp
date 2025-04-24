@@ -12,7 +12,7 @@
 	<atom:link href="https://castellcoch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://castellcoch.com</link>
 	<description></description>
-	<lastBuildDate>Sat, 08 Mar 2025 14:55:17 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 16 Apr 2025 12:21:13 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,9 +28,29 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">184115289</site>	<item>
+		<title>Patterns of Castell Coch – Part 3</title>
+		<link>https://castellcoch.com/2025/04/16/patterns-of-castell-coch-part-3/</link>
+					<comments>https://castellcoch.com/2025/04/16/patterns-of-castell-coch-part-3/#respond</comments>
+		
+		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
+		<pubDate>Wed, 16 Apr 2025 12:21:12 +0000</pubDate>
+				<category><![CDATA[Art]]></category>
+		<category><![CDATA[illustration]]></category>
+		<category><![CDATA[interior design]]></category>
+		<category><![CDATA[patterns]]></category>
+		<guid isPermaLink="false">https://castellcoch.com/?p=7112</guid>
+
+					<description><![CDATA[Castell Coch is famous for its spectacular interiors. I’ve decided to illustrate the stencils, murals and patterns that decorate Cardiff’s iconic Gothic Revival landmark. Part 1 and Part 2 of this series have already featured some beautiful designs. Lady Bute&#8217;s Bedroom The first patterns I&#8217;ve recreated for this instalment are prominent in Lady Bute&#8217;s bedroom. ... <p class="read-more-container"><a title="Patterns of Castell Coch – Part 3" class="read-more button" href="https://castellcoch.com/2025/04/16/patterns-of-castell-coch-part-3/#more-7112" aria-label="Read more about Patterns of Castell Coch – Part 3">Read more</a></p>]]></description>
+		
+					<wfw:commentRss>https://castellcoch.com/2025/04/16/patterns-of-castell-coch-part-3/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">7112</post-id>	</item>
+		<item>
 		<title>Castell Coch by Antonio Mortola</title>
 		<link>https://castellcoch.com/2025/03/08/castell-coch-by-antonio-mortola/</link>
-					<comments>https://castellcoch.com/2025/03/08/castell-coch-by-antonio-mortola/#respond</comments>
+					<comments>https://castellcoch.com/2025/03/08/castell-coch-by-antonio-mortola/#comments</comments>
 		
 		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
 		<pubDate>Sat, 08 Mar 2025 14:55:16 +0000</pubDate>
@@ -41,7 +61,7 @@
 					<description><![CDATA[More than ten years after publishing my first story about a Lego Castell Coch model, I&#8217;m excited to share another beautiful creation from a talented Lego builder. Antonio Mortola shared some pictures on social media last year and I recently got in touch to find out more about his work and this amazing model. Antonio&#8217;s ... <p class="read-more-container"><a title="Castell Coch by Antonio Mortola" class="read-more button" href="https://castellcoch.com/2025/03/08/castell-coch-by-antonio-mortola/#more-6827" aria-label="Read more about Castell Coch by Antonio Mortola">Read more</a></p>]]></description>
 		
 					<wfw:commentRss>https://castellcoch.com/2025/03/08/castell-coch-by-antonio-mortola/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
+			<slash:comments>2</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">6827</post-id>	</item>
@@ -175,21 +195,5 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">5257</post-id>	</item>
-		<item>
-		<title>Fatal Accident at Castell Coch</title>
-		<link>https://castellcoch.com/2024/06/20/fatal-accident-at-castell-coch/</link>
-		
-		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
-		<pubDate>Thu, 20 Jun 2024 16:51:01 +0000</pubDate>
-				<category><![CDATA[History]]></category>
-		<category><![CDATA[newspaper]]></category>
-		<category><![CDATA[old news]]></category>
-		<guid isPermaLink="false">https://castellcoch.com/?p=5121</guid>
-
-					<description><![CDATA[Scaffolding is being erected on the Well Tower at Castell Coch for some upcoming conservation work. I happened to find a related story that happened 145 years ago this month when the castle was being reconstructed. The South Wales Daily News reported on Friday 18th July 1879 that George Maidment had died in a tragic ... <p class="read-more-container"><a title="Fatal Accident at Castell Coch" class="read-more button" href="https://castellcoch.com/2024/06/20/fatal-accident-at-castell-coch/#more-5121" aria-label="Read more about Fatal Accident at Castell Coch">Read more</a></p>]]></description>
-		
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">5121</post-id>	</item>
 	</channel>
 </rss>
