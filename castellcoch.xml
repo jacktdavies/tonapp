@@ -12,7 +12,7 @@
 	<atom:link href="https://castellcoch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://castellcoch.com</link>
 	<description></description>
-	<lastBuildDate>Wed, 16 Apr 2025 12:21:13 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 25 May 2025 10:23:47 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,9 +28,28 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">184115289</site>	<item>
+		<title>The Cambrians Visit Castell Coch in 1912</title>
+		<link>https://castellcoch.com/2025/05/25/the-cambrians-visit-castell-coch-in-1912/</link>
+					<comments>https://castellcoch.com/2025/05/25/the-cambrians-visit-castell-coch-in-1912/#respond</comments>
+		
+		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
+		<pubDate>Sun, 25 May 2025 10:23:46 +0000</pubDate>
+				<category><![CDATA[History]]></category>
+		<category><![CDATA[archaeologia cambrensis]]></category>
+		<category><![CDATA[cambrians]]></category>
+		<category><![CDATA[Journal]]></category>
+		<guid isPermaLink="false">https://castellcoch.com/?p=7613</guid>
+
+					<description><![CDATA[The Cambrian Archaeological Association is a charity dedicated to preserving the history of Wales. They were founded in 1846 and have published the annual &#8220;Archaeologia Cambrensis&#8221; journal ever since. Many of the early journals are available to read online and they contain some fascinating local history. I discovered a report of the association&#8217;s tour of ... <p class="read-more-container"><a title="The Cambrians Visit Castell Coch in 1912" class="read-more button" href="https://castellcoch.com/2025/05/25/the-cambrians-visit-castell-coch-in-1912/#more-7613" aria-label="Read more about The Cambrians Visit Castell Coch in 1912">Read more</a></p>]]></description>
+		
+					<wfw:commentRss>https://castellcoch.com/2025/05/25/the-cambrians-visit-castell-coch-in-1912/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">7613</post-id>	</item>
+		<item>
 		<title>Patterns of Castell Coch – Part 3</title>
 		<link>https://castellcoch.com/2025/04/16/patterns-of-castell-coch-part-3/</link>
-					<comments>https://castellcoch.com/2025/04/16/patterns-of-castell-coch-part-3/#respond</comments>
 		
 		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
 		<pubDate>Wed, 16 Apr 2025 12:21:12 +0000</pubDate>
@@ -42,8 +61,6 @@
 
 					<description><![CDATA[Castell Coch is famous for its spectacular interiors. I’ve decided to illustrate the stencils, murals and patterns that decorate Cardiff’s iconic Gothic Revival landmark. Part 1 and Part 2 of this series have already featured some beautiful designs. Lady Bute&#8217;s Bedroom The first patterns I&#8217;ve recreated for this instalment are prominent in Lady Bute&#8217;s bedroom. ... <p class="read-more-container"><a title="Patterns of Castell Coch – Part 3" class="read-more button" href="https://castellcoch.com/2025/04/16/patterns-of-castell-coch-part-3/#more-7112" aria-label="Read more about Patterns of Castell Coch – Part 3">Read more</a></p>]]></description>
 		
-					<wfw:commentRss>https://castellcoch.com/2025/04/16/patterns-of-castell-coch-part-3/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">7112</post-id>	</item>
@@ -179,21 +196,5 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">5428</post-id>	</item>
-		<item>
-		<title>Castell Coch on Screen – Part 2</title>
-		<link>https://castellcoch.com/2024/07/09/castell-coch-on-screen-part-2/</link>
-		
-		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
-		<pubDate>Tue, 09 Jul 2024 16:39:58 +0000</pubDate>
-				<category><![CDATA[Castell Coch]]></category>
-		<category><![CDATA[film]]></category>
-		<category><![CDATA[television]]></category>
-		<guid isPermaLink="false">https://castellcoch.com/?p=5257</guid>
-
-					<description><![CDATA[Welcome to another collection of appearances by Castell Coch on our television and movie screens. The Black Knight is well known as it was a big film in the 1950s. Knightmare was very popular kids TV show that I remember watching. She Fell Among Thieves is a bit more obscure but features an interesting set. ... <p class="read-more-container"><a title="Castell Coch on Screen – Part 2" class="read-more button" href="https://castellcoch.com/2024/07/09/castell-coch-on-screen-part-2/#more-5257" aria-label="Read more about Castell Coch on Screen – Part 2">Read more</a></p>]]></description>
-		
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">5257</post-id>	</item>
 	</channel>
 </rss>
