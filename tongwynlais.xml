@@ -12,7 +12,7 @@
 	<atom:link href="https://tongwynlais.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://tongwynlais.com</link>
 	<description></description>
-	<lastBuildDate>Sat, 12 Apr 2025 09:15:20 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 17 May 2025 07:42:38 +0000</lastBuildDate>
 	<language>en-GB</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,26 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">37574071</site>	<item>
+		<title>Tongwynlais by Samuel Coupe Fox</title>
+		<link>https://tongwynlais.com/2025/05/17/tongwynlais-by-samuel-coupe-fox/</link>
+					<comments>https://tongwynlais.com/2025/05/17/tongwynlais-by-samuel-coupe-fox/#respond</comments>
+		
+		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
+		<pubDate>Sat, 17 May 2025 07:42:37 +0000</pubDate>
+				<category><![CDATA[History]]></category>
+		<category><![CDATA[dh]]></category>
+		<category><![CDATA[photography]]></category>
+		<category><![CDATA[Samuel Coupe Fox]]></category>
+		<guid isPermaLink="false">https://tongwynlais.com/?p=29531</guid>
+
+					<description><![CDATA[Samuel Coupe Fox (1863–1953) was a prolific photographer who left a fascinating collection of images, but there&#8217;s no information about him online. These images of Tongwynlais are just a few from the collection held by Amgueddfa Cymru &#8211; Museum Wales. 1897 &#8211; 1920 This first image is very interesting as it shows various people using ... <a title="Tongwynlais by Samuel Coupe Fox" class="read-more" href="https://tongwynlais.com/2025/05/17/tongwynlais-by-samuel-coupe-fox/" aria-label="Read more about Tongwynlais by Samuel Coupe Fox">more...</a>]]></description>
+		
+					<wfw:commentRss>https://tongwynlais.com/2025/05/17/tongwynlais-by-samuel-coupe-fox/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">29531</post-id>	</item>
+		<item>
 		<title>1st Castell Coch Survey</title>
 		<link>https://tongwynlais.com/2025/04/12/1st-castell-coch-survey/</link>
 		
@@ -210,26 +230,5 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">20023</post-id>	</item>
-		<item>
-		<title>Attractive Foot Race</title>
-		<link>https://tongwynlais.com/2024/07/27/attractive-foot-race/</link>
-					<comments>https://tongwynlais.com/2024/07/27/attractive-foot-race/#comments</comments>
-		
-		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
-		<pubDate>Sat, 27 Jul 2024 06:59:48 +0000</pubDate>
-				<category><![CDATA[History]]></category>
-		<category><![CDATA[dh]]></category>
-		<category><![CDATA[news]]></category>
-		<category><![CDATA[newspaper]]></category>
-		<category><![CDATA[welsh newspapers]]></category>
-		<guid isPermaLink="false">https://tongwynlais.com/?p=19690</guid>
-
-					<description><![CDATA[In today&#8217;s &#8220;Old News&#8221;, I present the intriguingly titled article, &#8220;Attractive Foot Race&#8221;. The race appears to be the highlight of a sports day hosted by the Tongwynlais Brass Band on Greenmeadow Park. Both &#8220;victuallers&#8221; (a person who is licensed to sell alcohol) were named Thomas and were, presumably, the landlords of the New Inn ... <a title="Attractive Foot Race" class="read-more" href="https://tongwynlais.com/2024/07/27/attractive-foot-race/" aria-label="Read more about Attractive Foot Race">more...</a>]]></description>
-		
-					<wfw:commentRss>https://tongwynlais.com/2024/07/27/attractive-foot-race/feed/</wfw:commentRss>
-			<slash:comments>2</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">19690</post-id>	</item>
 	</channel>
 </rss>
