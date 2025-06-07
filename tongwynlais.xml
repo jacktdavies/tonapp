@@ -12,7 +12,7 @@
 	<atom:link href="https://tongwynlais.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://tongwynlais.com</link>
 	<description></description>
-	<lastBuildDate>Sat, 17 May 2025 07:42:38 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 07 Jun 2025 07:35:01 +0000</lastBuildDate>
 	<language>en-GB</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">37574071</site>	<item>
+		<title>Pixel Art Tongwynlais – Part 5</title>
+		<link>https://tongwynlais.com/2025/06/07/pixel-art-tongwynlais-part-5/</link>
+					<comments>https://tongwynlais.com/2025/06/07/pixel-art-tongwynlais-part-5/#respond</comments>
+		
+		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
+		<pubDate>Sat, 07 Jun 2025 07:27:06 +0000</pubDate>
+				<category><![CDATA[Art]]></category>
+		<category><![CDATA[dh]]></category>
+		<category><![CDATA[pixel art]]></category>
+		<guid isPermaLink="false">https://tongwynlais.com/?p=29666</guid>
+
+					<description><![CDATA[Pixel art describes a technique for creating digital illustrations at the individual pixel level. This type of art was the result of low resolution displays in early videogame systems. Today, our phone and computer displays have millions of pixels. Despite this, the art form is very popular and the “retro” videogame look is used in ... <a title="Pixel Art Tongwynlais – Part 5" class="read-more" href="https://tongwynlais.com/2025/06/07/pixel-art-tongwynlais-part-5/" aria-label="Read more about Pixel Art Tongwynlais – Part 5">more...</a>]]></description>
+		
+					<wfw:commentRss>https://tongwynlais.com/2025/06/07/pixel-art-tongwynlais-part-5/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">29666</post-id>	</item>
+		<item>
 		<title>Tongwynlais by Samuel Coupe Fox</title>
 		<link>https://tongwynlais.com/2025/05/17/tongwynlais-by-samuel-coupe-fox/</link>
 					<comments>https://tongwynlais.com/2025/05/17/tongwynlais-by-samuel-coupe-fox/#respond</comments>
@@ -209,26 +228,5 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">20104</post-id>	</item>
-		<item>
-		<title>Lewis Arms Local Heritage List</title>
-		<link>https://tongwynlais.com/2024/08/21/lewis-arms-local-heritage-list/</link>
-					<comments>https://tongwynlais.com/2024/08/21/lewis-arms-local-heritage-list/#respond</comments>
-		
-		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
-		<pubDate>Wed, 21 Aug 2024 07:33:56 +0000</pubDate>
-				<category><![CDATA[History]]></category>
-		<category><![CDATA[cardiff council]]></category>
-		<category><![CDATA[dh]]></category>
-		<category><![CDATA[heritage]]></category>
-		<category><![CDATA[lewis arms]]></category>
-		<guid isPermaLink="false">https://tongwynlais.com/?p=20023</guid>
-
-					<description><![CDATA[The Lewis Arms has been added to Cardiff Council&#8217;s Draft Local Heritage List consultation. The &#8220;Cardiff Local List of Buildings and Sites of Architectural or Historic Interest&#8221; focuses on, &#8220;locally significant public houses, hotels and clubs (both past and present).&#8221; The consultation runs from 24th July – 18th September 2024. There&#8217;s some information about the ... <a title="Lewis Arms Local Heritage List" class="read-more" href="https://tongwynlais.com/2024/08/21/lewis-arms-local-heritage-list/" aria-label="Read more about Lewis Arms Local Heritage List">more...</a>]]></description>
-		
-					<wfw:commentRss>https://tongwynlais.com/2024/08/21/lewis-arms-local-heritage-list/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">20023</post-id>	</item>
 	</channel>
 </rss>
