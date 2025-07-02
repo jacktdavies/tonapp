@@ -12,7 +12,7 @@
 	<atom:link href="https://tongwynlais.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://tongwynlais.com</link>
 	<description></description>
-	<lastBuildDate>Sat, 07 Jun 2025 07:35:01 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 02 Jul 2025 14:51:13 +0000</lastBuildDate>
 	<language>en-GB</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,24 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">37574071</site>	<item>
+		<title>Wales Nature Week 2025</title>
+		<link>https://tongwynlais.com/2025/07/02/wales-nature-week-2025/</link>
+		
+		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
+		<pubDate>Wed, 02 Jul 2025 14:51:13 +0000</pubDate>
+				<category><![CDATA[Adventures]]></category>
+		<category><![CDATA[cardiff council]]></category>
+		<category><![CDATA[dh]]></category>
+		<category><![CDATA[Natural Resources Wales]]></category>
+		<category><![CDATA[nature]]></category>
+		<guid isPermaLink="false">https://tongwynlais.com/?p=29853</guid>
+
+					<description><![CDATA[Wales Nature Week is a celebration of nature organised by the Wales Biodiversity Partnership. Sean McHugh, Wales Biodiversity Partnership Support Team, Natural Resources Wales said, &#8220;Wales Nature Week is a fantastic opportunity for people of all ages to get involved and make a difference for nature. As we’re in a nature and climate emergency, caring ... <a title="Wales Nature Week 2025" class="read-more" href="https://tongwynlais.com/2025/07/02/wales-nature-week-2025/" aria-label="Read more about Wales Nature Week 2025">more...</a>]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">29853</post-id>	</item>
+		<item>
 		<title>Pixel Art Tongwynlais – Part 5</title>
 		<link>https://tongwynlais.com/2025/06/07/pixel-art-tongwynlais-part-5/</link>
 					<comments>https://tongwynlais.com/2025/06/07/pixel-art-tongwynlais-part-5/#respond</comments>
@@ -183,7 +201,7 @@
 					<description><![CDATA[Roger L Brown published &#8220;The Lewis&#8217; of Greenmeadow&#8221; in 1984. He was the vicar of St Michael’s Church from 1979 to 1993 and a keen historian. I wrote about his previous book, &#8220;Turn of the Century Ton&#8220;, earlier in the year. Roger purchased a second hand lithographic printer to produce various books and pamphlets. They ... <a title="The Lewis&#8217; of Greenmeadow" class="read-more" href="https://tongwynlais.com/2024/11/24/the-lewis-of-greenmeadow/" aria-label="Read more about The Lewis&#8217; of Greenmeadow">more...</a>]]></description>
 		
 					<wfw:commentRss>https://tongwynlais.com/2024/11/24/the-lewis-of-greenmeadow/feed/</wfw:commentRss>
-			<slash:comments>2</slash:comments>
+			<slash:comments>3</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">20236</post-id>	</item>
@@ -208,25 +226,5 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">20147</post-id>	</item>
-		<item>
-		<title>Postcards from Tongwynlais – Part 19</title>
-		<link>https://tongwynlais.com/2024/09/16/postcards-from-tongwynlais-part-19/</link>
-					<comments>https://tongwynlais.com/2024/09/16/postcards-from-tongwynlais-part-19/#respond</comments>
-		
-		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
-		<pubDate>Mon, 16 Sep 2024 08:15:23 +0000</pubDate>
-				<category><![CDATA[History]]></category>
-		<category><![CDATA[castell coch]]></category>
-		<category><![CDATA[dh]]></category>
-		<category><![CDATA[postcard]]></category>
-		<guid isPermaLink="false">https://tongwynlais.com/?p=20104</guid>
-
-					<description><![CDATA[I&#8217;ve been saving this postcard to try and collect all the separate photos. I haven&#8217;t had much luck so here&#8217;s a look at the only Tongwynlais multiview postcard in my collection. This card was posted on 30th August 1957 and features four scenes from the village, each with a view of Castell Coch. The sender ... <a title="Postcards from Tongwynlais – Part 19" class="read-more" href="https://tongwynlais.com/2024/09/16/postcards-from-tongwynlais-part-19/" aria-label="Read more about Postcards from Tongwynlais – Part 19">more...</a>]]></description>
-		
-					<wfw:commentRss>https://tongwynlais.com/2024/09/16/postcards-from-tongwynlais-part-19/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">20104</post-id>	</item>
 	</channel>
 </rss>
