@@ -12,7 +12,7 @@
 	<atom:link href="https://castellcoch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://castellcoch.com</link>
 	<description></description>
-	<lastBuildDate>Fri, 27 Jun 2025 15:55:12 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 19 Jul 2025 08:34:20 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,9 +28,30 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">184115289</site>	<item>
+		<title>Castell Coch: The 1990s</title>
+		<link>https://castellcoch.com/2025/07/19/castell-coch-the-1990s/</link>
+					<comments>https://castellcoch.com/2025/07/19/castell-coch-the-1990s/#respond</comments>
+		
+		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
+		<pubDate>Sat, 19 Jul 2025 08:32:11 +0000</pubDate>
+				<category><![CDATA[History]]></category>
+		<category><![CDATA[1990s]]></category>
+		<category><![CDATA[cadw]]></category>
+		<category><![CDATA[guidebook]]></category>
+		<category><![CDATA[postcard]]></category>
+		<category><![CDATA[tourism]]></category>
+		<guid isPermaLink="false">https://castellcoch.com/?p=8283</guid>
+
+					<description><![CDATA[After digging through my collection for 1980s memorabilia back in 2022, I&#8217;ve gone back to see what I have from the 1990s. I&#8217;m fascinated by the very early history of the castle but I also love more recent history (yes, I know the 90s were 30 years ago!) I have a selection of guidebooks, leaflets, ... <p class="read-more-container"><a title="Castell Coch: The 1990s" class="read-more button" href="https://castellcoch.com/2025/07/19/castell-coch-the-1990s/#more-8283" aria-label="Read more about Castell Coch: The 1990s">Read more</a></p>]]></description>
+		
+					<wfw:commentRss>https://castellcoch.com/2025/07/19/castell-coch-the-1990s/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">8283</post-id>	</item>
+		<item>
 		<title>The Castell Coch Vineyard &#8211; Part 2</title>
 		<link>https://castellcoch.com/2025/06/27/the-castell-coch-vineyard-part-2/</link>
-					<comments>https://castellcoch.com/2025/06/27/the-castell-coch-vineyard-part-2/#respond</comments>
 		
 		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
 		<pubDate>Fri, 27 Jun 2025 15:55:11 +0000</pubDate>
@@ -42,8 +63,6 @@
 
 					<description><![CDATA[I picked up a copy of, &#8220;Transactions of the Cardiff Naturalists&#8217; Society&#8221; (Volume 59 from 1926) a few years ago. It contains an article about the Castell Coch vineyard by Andrew Alexander Pettigrew. Andrew Pettigrew&#8217;s father, also called Andrew, was Lord Bute&#8217;s Head Gardener and responsible for the creating the vineyard. Andrew followed his two ... <p class="read-more-container"><a title="The Castell Coch Vineyard &#8211; Part 2" class="read-more button" href="https://castellcoch.com/2025/06/27/the-castell-coch-vineyard-part-2/#more-8059" aria-label="Read more about The Castell Coch Vineyard &#8211; Part 2">Read more</a></p>]]></description>
 		
-					<wfw:commentRss>https://castellcoch.com/2025/06/27/the-castell-coch-vineyard-part-2/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">8059</post-id>	</item>
@@ -182,21 +201,5 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">5782</post-id>	</item>
-		<item>
-		<title>Stereoview of Castell Coch</title>
-		<link>https://castellcoch.com/2024/09/28/stereoview-of-castell-coch/</link>
-		
-		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
-		<pubDate>Sat, 28 Sep 2024 08:28:05 +0000</pubDate>
-				<category><![CDATA[History]]></category>
-		<category><![CDATA[stereoscope]]></category>
-		<category><![CDATA[stereoview]]></category>
-		<guid isPermaLink="false">https://castellcoch.com/?p=5593</guid>
-
-					<description><![CDATA[I recently found this example of a stereoview featuring Castell Coch. This type of photo is also called a stereographic card or stereogram. A stereoview consists of two photos that, when viewed with a device called a stereoscope, creates a three-dimensional effect. Stereoscopes This antique stereoscope was popular in the 19th century. It&#8217;s a &#8220;Holmes ... <p class="read-more-container"><a title="Stereoview of Castell Coch" class="read-more button" href="https://castellcoch.com/2024/09/28/stereoview-of-castell-coch/#more-5593" aria-label="Read more about Stereoview of Castell Coch">Read more</a></p>]]></description>
-		
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">5593</post-id>	</item>
 	</channel>
 </rss>
