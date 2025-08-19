@@ -12,7 +12,7 @@
 	<atom:link href="https://tongwynlais.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://tongwynlais.com</link>
 	<description></description>
-	<lastBuildDate>Wed, 02 Jul 2025 14:51:13 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 30 Jul 2025 08:38:03 +0000</lastBuildDate>
 	<language>en-GB</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">37574071</site>	<item>
+		<title>Thirteen Years On: Looking Forward</title>
+		<link>https://tongwynlais.com/2025/08/01/thirteen-years-on-looking-forward/</link>
+					<comments>https://tongwynlais.com/2025/08/01/thirteen-years-on-looking-forward/#comments</comments>
+		
+		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
+		<pubDate>Fri, 01 Aug 2025 08:36:23 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[blog]]></category>
+		<category><![CDATA[dh]]></category>
+		<guid isPermaLink="false">https://tongwynlais.com/?p=30028</guid>
+
+					<description><![CDATA[Tongwynlais.com is thirteen years old today! I&#8217;ve written a few posts over the years looking back at the previous twelve months. After reaching another new milestone, I thought I&#8217;d look forward at where I want the site to go. It&#8217;s six years since I stopped posting about news. It was a tough decision but I ... <a title="Thirteen Years On: Looking Forward" class="read-more" href="https://tongwynlais.com/2025/08/01/thirteen-years-on-looking-forward/" aria-label="Read more about Thirteen Years On: Looking Forward">more...</a>]]></description>
+		
+					<wfw:commentRss>https://tongwynlais.com/2025/08/01/thirteen-years-on-looking-forward/feed/</wfw:commentRss>
+			<slash:comments>6</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">30028</post-id>	</item>
+		<item>
 		<title>Wales Nature Week 2025</title>
 		<link>https://tongwynlais.com/2025/07/02/wales-nature-week-2025/</link>
 		
@@ -205,26 +224,5 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">20236</post-id>	</item>
-		<item>
-		<title>Tongwynlais Church Building Fund</title>
-		<link>https://tongwynlais.com/2024/10/10/tongwynlais-church-building-fund/</link>
-					<comments>https://tongwynlais.com/2024/10/10/tongwynlais-church-building-fund/#respond</comments>
-		
-		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
-		<pubDate>Thu, 10 Oct 2024 11:33:20 +0000</pubDate>
-				<category><![CDATA[History]]></category>
-		<category><![CDATA[dh]]></category>
-		<category><![CDATA[news]]></category>
-		<category><![CDATA[newspaper]]></category>
-		<category><![CDATA[welsh newspapers]]></category>
-		<guid isPermaLink="false">https://tongwynlais.com/?p=20147</guid>
-
-					<description><![CDATA[The foundation stone for St Michael’s Church was laid in a ceremony that took place on 10th June 1875. The total cost was about £2,000, which is approximately £194,000 today. £1,300 had already been raised before the work began. The Cardiff Times reported on 10th October 1874 that a Bazaar was held at Cardiff Town ... <a title="Tongwynlais Church Building Fund" class="read-more" href="https://tongwynlais.com/2024/10/10/tongwynlais-church-building-fund/" aria-label="Read more about Tongwynlais Church Building Fund">more...</a>]]></description>
-		
-					<wfw:commentRss>https://tongwynlais.com/2024/10/10/tongwynlais-church-building-fund/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">20147</post-id>	</item>
 	</channel>
 </rss>
