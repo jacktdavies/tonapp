@@ -12,7 +12,7 @@
 	<atom:link href="https://castellcoch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://castellcoch.com</link>
 	<description></description>
-	<lastBuildDate>Tue, 19 Aug 2025 07:28:56 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 12 Sep 2025 07:56:28 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,9 +28,27 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">184115289</site>	<item>
+		<title>Lord Bute &#8211; Part 1</title>
+		<link>https://castellcoch.com/2025/09/12/lord-bute-part-1/</link>
+					<comments>https://castellcoch.com/2025/09/12/lord-bute-part-1/#comments</comments>
+		
+		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
+		<pubDate>Fri, 12 Sep 2025 07:55:21 +0000</pubDate>
+				<category><![CDATA[History]]></category>
+		<category><![CDATA[lord-bute]]></category>
+		<category><![CDATA[people]]></category>
+		<guid isPermaLink="false">https://castellcoch.com/?p=8795</guid>
+
+					<description><![CDATA[John Crichton-Stuart, the 3rd Marquess of Bute (1847 &#8211; 1900), was simply known as Lord Bute. The Bute family played an important part in Cardiff&#8217;s modern history and Lord Bute was the driving force behind the reconstruction of Castell Coch. The young Bute inherited a vast fortune as was, perhaps, the richest man in the ... <p class="read-more-container"><a title="Lord Bute &#8211; Part 1" class="read-more button" href="https://castellcoch.com/2025/09/12/lord-bute-part-1/#more-8795" aria-label="Read more about Lord Bute &#8211; Part 1">Read more</a></p>]]></description>
+		
+					<wfw:commentRss>https://castellcoch.com/2025/09/12/lord-bute-part-1/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">8795</post-id>	</item>
+		<item>
 		<title>Castell Coch Official Guidebook 1954</title>
 		<link>https://castellcoch.com/2025/08/19/castell-coch-official-guidebook-1954/</link>
-					<comments>https://castellcoch.com/2025/08/19/castell-coch-official-guidebook-1954/#respond</comments>
 		
 		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
 		<pubDate>Tue, 19 Aug 2025 07:28:55 +0000</pubDate>
@@ -44,8 +62,6 @@
 
 					<description><![CDATA[I published a blog post in 2021 about the Castell Coch guidebooks from 1957 to 1975. I didn&#8217;t have the original version from 1954 at the time. The original guide was written by Peter Floud, C.B.E. (1911 – 1960), who was the Keeper of Circulation at the Victoria and Albert Museum. State Guardianship After Lord ... <p class="read-more-container"><a title="Castell Coch Official Guidebook 1954" class="read-more button" href="https://castellcoch.com/2025/08/19/castell-coch-official-guidebook-1954/#more-8679" aria-label="Read more about Castell Coch Official Guidebook 1954">Read more</a></p>]]></description>
 		
-					<wfw:commentRss>https://castellcoch.com/2025/08/19/castell-coch-official-guidebook-1954/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">8679</post-id>	</item>
@@ -185,21 +201,5 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">6213</post-id>	</item>
-		<item>
-		<title>Castell Coch in World War II</title>
-		<link>https://castellcoch.com/2024/11/11/castell-coch-in-world-war-ii/</link>
-		
-		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
-		<pubDate>Mon, 11 Nov 2024 18:42:57 +0000</pubDate>
-				<category><![CDATA[History]]></category>
-		<category><![CDATA[1940s]]></category>
-		<category><![CDATA[second world war]]></category>
-		<guid isPermaLink="false">https://castellcoch.com/?p=5894</guid>
-
-					<description><![CDATA[The history of Castell Coch in World War II was, and still is, a bit of a mystery. I spoke to a volunteer in the castle recently and she mentioned that they knew very little about this period of its history. I asked some local residents who know lots about the village and they didn&#8217;t ... <p class="read-more-container"><a title="Castell Coch in World War II" class="read-more button" href="https://castellcoch.com/2024/11/11/castell-coch-in-world-war-ii/#more-5894" aria-label="Read more about Castell Coch in World War II">Read more</a></p>]]></description>
-		
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">5894</post-id>	</item>
 	</channel>
 </rss>
