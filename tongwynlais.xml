@@ -12,7 +12,7 @@
 	<atom:link href="https://tongwynlais.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://tongwynlais.com</link>
 	<description></description>
-	<lastBuildDate>Wed, 30 Jul 2025 08:38:03 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 19 Sep 2025 08:20:55 +0000</lastBuildDate>
 	<language>en-GB</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">37574071</site>	<item>
+		<title>Evans Quarries Ltd</title>
+		<link>https://tongwynlais.com/2025/09/19/evans-quarries-ltd/</link>
+					<comments>https://tongwynlais.com/2025/09/19/evans-quarries-ltd/#respond</comments>
+		
+		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
+		<pubDate>Fri, 19 Sep 2025 08:20:54 +0000</pubDate>
+				<category><![CDATA[History]]></category>
+		<category><![CDATA[cefn garw]]></category>
+		<category><![CDATA[dh]]></category>
+		<guid isPermaLink="false">https://tongwynlais.com/?p=30400</guid>
+
+					<description><![CDATA[I picked up this photo of two vintage lorries belonging to &#8220;Evans Quarries Ltd&#8221; a few years ago. Underneath the company name it says, &#8220;Tongwynlais&#8221; and &#8220;Taffs Well 40&#8221;. The load beds also have the text, &#8220;Use Cefn Garw Stone&#8221; on the side so I had a few topics to research. The vehicles are tippers ... <a title="Evans Quarries Ltd" class="read-more" href="https://tongwynlais.com/2025/09/19/evans-quarries-ltd/" aria-label="Read more about Evans Quarries Ltd">more...</a>]]></description>
+		
+					<wfw:commentRss>https://tongwynlais.com/2025/09/19/evans-quarries-ltd/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">30400</post-id>	</item>
+		<item>
 		<title>Thirteen Years On: Looking Forward</title>
 		<link>https://tongwynlais.com/2025/08/01/thirteen-years-on-looking-forward/</link>
 					<comments>https://tongwynlais.com/2025/08/01/thirteen-years-on-looking-forward/#comments</comments>
@@ -203,26 +222,5 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">20367</post-id>	</item>
-		<item>
-		<title>The Lewis&#8217; of Greenmeadow</title>
-		<link>https://tongwynlais.com/2024/11/24/the-lewis-of-greenmeadow/</link>
-					<comments>https://tongwynlais.com/2024/11/24/the-lewis-of-greenmeadow/#comments</comments>
-		
-		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
-		<pubDate>Sun, 24 Nov 2024 09:25:08 +0000</pubDate>
-				<category><![CDATA[History]]></category>
-		<category><![CDATA[books]]></category>
-		<category><![CDATA[dh]]></category>
-		<category><![CDATA[greenmeadow house]]></category>
-		<category><![CDATA[roger brown]]></category>
-		<guid isPermaLink="false">https://tongwynlais.com/?p=20236</guid>
-
-					<description><![CDATA[Roger L Brown published &#8220;The Lewis&#8217; of Greenmeadow&#8221; in 1984. He was the vicar of St Michael’s Church from 1979 to 1993 and a keen historian. I wrote about his previous book, &#8220;Turn of the Century Ton&#8220;, earlier in the year. Roger purchased a second hand lithographic printer to produce various books and pamphlets. They ... <a title="The Lewis&#8217; of Greenmeadow" class="read-more" href="https://tongwynlais.com/2024/11/24/the-lewis-of-greenmeadow/" aria-label="Read more about The Lewis&#8217; of Greenmeadow">more...</a>]]></description>
-		
-					<wfw:commentRss>https://tongwynlais.com/2024/11/24/the-lewis-of-greenmeadow/feed/</wfw:commentRss>
-			<slash:comments>3</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">20236</post-id>	</item>
 	</channel>
 </rss>
