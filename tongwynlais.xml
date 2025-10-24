@@ -12,7 +12,7 @@
 	<atom:link href="https://tongwynlais.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://tongwynlais.com</link>
 	<description></description>
-	<lastBuildDate>Fri, 19 Sep 2025 08:20:55 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 24 Oct 2025 07:16:30 +0000</lastBuildDate>
 	<language>en-GB</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">37574071</site>	<item>
+		<title>The Glamorganshire Canal at Tongwynlais</title>
+		<link>https://tongwynlais.com/2025/10/24/the-glamorganshire-canal-at-tongwynlais/</link>
+					<comments>https://tongwynlais.com/2025/10/24/the-glamorganshire-canal-at-tongwynlais/#respond</comments>
+		
+		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
+		<pubDate>Fri, 24 Oct 2025 07:15:16 +0000</pubDate>
+				<category><![CDATA[History]]></category>
+		<category><![CDATA[dh]]></category>
+		<category><![CDATA[glamorganshire canal]]></category>
+		<guid isPermaLink="false">https://tongwynlais.com/?p=30700</guid>
+
+					<description><![CDATA[The Glamorganshire Canal was devised by the ironmasters of Merthyr Tydfil to transport their goods from the valleys to Cardiff. Construction of the canal began in 1790 and the final section that linked the Cardiff docks was opened in 1798. The decline of the canal started in 1876 when competition from the railways affected its ... <a title="The Glamorganshire Canal at Tongwynlais" class="read-more" href="https://tongwynlais.com/2025/10/24/the-glamorganshire-canal-at-tongwynlais/" aria-label="Read more about The Glamorganshire Canal at Tongwynlais">more...</a>]]></description>
+		
+					<wfw:commentRss>https://tongwynlais.com/2025/10/24/the-glamorganshire-canal-at-tongwynlais/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">30700</post-id>	</item>
+		<item>
 		<title>Evans Quarries Ltd</title>
 		<link>https://tongwynlais.com/2025/09/19/evans-quarries-ltd/</link>
 					<comments>https://tongwynlais.com/2025/09/19/evans-quarries-ltd/#respond</comments>
@@ -115,7 +134,7 @@
 		<category><![CDATA[Samuel Coupe Fox]]></category>
 		<guid isPermaLink="false">https://tongwynlais.com/?p=29531</guid>
 
-					<description><![CDATA[Samuel Coupe Fox (1863–1953) was a prolific photographer who left a fascinating collection of images, but there&#8217;s no information about him online. These images of Tongwynlais are just a few from the collection held by Amgueddfa Cymru &#8211; Museum Wales. 1897 &#8211; 1920 This first image is very interesting as it shows various people using ... <a title="Tongwynlais by Samuel Coupe Fox" class="read-more" href="https://tongwynlais.com/2025/05/17/tongwynlais-by-samuel-coupe-fox/" aria-label="Read more about Tongwynlais by Samuel Coupe Fox">more...</a>]]></description>
+					<description><![CDATA[Samuel Coupe Fox was born Sutton in Ashfield in 1864. He married Alice Chaney and they had a son, William, in 1889. Samuel moved to Cardiff in 1890, where he lived until his death in 1953. He started his career as a printer&#8217;s apprentice and became a journalist after his move to Cardiff. Samuel&#8217;s interest ... <a title="Tongwynlais by Samuel Coupe Fox" class="read-more" href="https://tongwynlais.com/2025/05/17/tongwynlais-by-samuel-coupe-fox/" aria-label="Read more about Tongwynlais by Samuel Coupe Fox">more...</a>]]></description>
 		
 					<wfw:commentRss>https://tongwynlais.com/2025/05/17/tongwynlais-by-samuel-coupe-fox/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -203,24 +222,5 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">20496</post-id>	</item>
-		<item>
-		<title>Tongwynlais in Lego &#8211; Part 1</title>
-		<link>https://tongwynlais.com/2024/12/20/tongwynlais-in-lego-part-1/</link>
-					<comments>https://tongwynlais.com/2024/12/20/tongwynlais-in-lego-part-1/#comments</comments>
-		
-		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
-		<pubDate>Fri, 20 Dec 2024 17:16:39 +0000</pubDate>
-				<category><![CDATA[Art]]></category>
-		<category><![CDATA[dh]]></category>
-		<category><![CDATA[lego]]></category>
-		<guid isPermaLink="false">https://tongwynlais.com/?p=20367</guid>
-
-					<description><![CDATA[I always loved Lego as a child and this passion was rekindled in my 30s when I had my own children. Lego always makes me think of Christmas as I received so many of my favourite sets as presents. We have a modest collection of bricks in the house from my kids&#8217; old sets and ... <a title="Tongwynlais in Lego &#8211; Part 1" class="read-more" href="https://tongwynlais.com/2024/12/20/tongwynlais-in-lego-part-1/" aria-label="Read more about Tongwynlais in Lego &#8211; Part 1">more...</a>]]></description>
-		
-					<wfw:commentRss>https://tongwynlais.com/2024/12/20/tongwynlais-in-lego-part-1/feed/</wfw:commentRss>
-			<slash:comments>2</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">20367</post-id>	</item>
 	</channel>
 </rss>
