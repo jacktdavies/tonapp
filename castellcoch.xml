@@ -12,7 +12,7 @@
 	<atom:link href="https://castellcoch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://castellcoch.com</link>
 	<description></description>
-	<lastBuildDate>Wed, 01 Oct 2025 06:16:47 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 18 Nov 2025 19:05:27 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,9 +28,30 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">184115289</site>	<item>
+		<title>Postcards of Castell Coch – Part 11</title>
+		<link>https://castellcoch.com/2025/11/18/postcards-of-castell-coch-part-11/</link>
+					<comments>https://castellcoch.com/2025/11/18/postcards-of-castell-coch-part-11/#respond</comments>
+		
+		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
+		<pubDate>Tue, 18 Nov 2025 18:41:27 +0000</pubDate>
+				<category><![CDATA[History]]></category>
+		<category><![CDATA[1900s]]></category>
+		<category><![CDATA[castell coch]]></category>
+		<category><![CDATA[martin ridley]]></category>
+		<category><![CDATA[photography]]></category>
+		<guid isPermaLink="false">https://castellcoch.com/?p=9033</guid>
+
+					<description><![CDATA[I have a few postcards that feature a view of Castell Coch by photographer Martin John Ridley (1861-1936). This example was written in 1917 but not posted. The original photo is thought to be from 1905. I have another postcard using this image that was sent in 1908. The postcard is titled, &#8220;Castle Coch, Taffs ... <p class="read-more-container"><a title="Postcards of Castell Coch – Part 11" class="read-more button" href="https://castellcoch.com/2025/11/18/postcards-of-castell-coch-part-11/#more-9033" aria-label="Read more about Postcards of Castell Coch – Part 11">Read more</a></p>]]></description>
+		
+					<wfw:commentRss>https://castellcoch.com/2025/11/18/postcards-of-castell-coch-part-11/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">9033</post-id>	</item>
+		<item>
 		<title>5 Years of CastellCoch.com</title>
 		<link>https://castellcoch.com/2025/10/01/5-years-of-castellcoch-com/</link>
-					<comments>https://castellcoch.com/2025/10/01/5-years-of-castellcoch-com/#respond</comments>
+					<comments>https://castellcoch.com/2025/10/01/5-years-of-castellcoch-com/#comments</comments>
 		
 		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
 		<pubDate>Wed, 01 Oct 2025 06:16:47 +0000</pubDate>
@@ -42,7 +63,7 @@
 					<description><![CDATA[This is my first blog post looking back at the history of CastellCoch.com. I&#8217;m proud to have reached this milestone and want to share some of my favourite posts. I&#8217;ve been writing about Castell Coch for over 13 years. It&#8217;s such a unique and beloved Welsh landmark, but I was always concerned people wouldn&#8217;t find ... <p class="read-more-container"><a title="5 Years of CastellCoch.com" class="read-more button" href="https://castellcoch.com/2025/10/01/5-years-of-castellcoch-com/#more-8880" aria-label="Read more about 5 Years of CastellCoch.com">Read more</a></p>]]></description>
 		
 					<wfw:commentRss>https://castellcoch.com/2025/10/01/5-years-of-castellcoch-com/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
+			<slash:comments>1</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">8880</post-id>	</item>
@@ -206,24 +227,5 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">6565</post-id>	</item>
-		<item>
-		<title>Castell Coch by Mary Traynor</title>
-		<link>https://castellcoch.com/2025/01/29/castell-coch-by-mary-traynor/</link>
-					<comments>https://castellcoch.com/2025/01/29/castell-coch-by-mary-traynor/#respond</comments>
-		
-		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
-		<pubDate>Wed, 29 Jan 2025 12:06:43 +0000</pubDate>
-				<category><![CDATA[Art]]></category>
-		<category><![CDATA[illustration]]></category>
-		<category><![CDATA[mary traynor]]></category>
-		<guid isPermaLink="false">https://castellcoch.com/?p=6468</guid>
-
-					<description><![CDATA[I&#8217;ve been aware of Mary Traynor&#8217;s work for a number of years but only recently picked up a copy of her book about Cardiff. It includes a chapter dedicated to Castell Coch with a couple of paintings by Mary. &#8220;Mary Traynor was born in China in 1934 and studied at Goldsmith’s, Birmingham College of Art ... <p class="read-more-container"><a title="Castell Coch by Mary Traynor" class="read-more button" href="https://castellcoch.com/2025/01/29/castell-coch-by-mary-traynor/#more-6468" aria-label="Read more about Castell Coch by Mary Traynor">Read more</a></p>]]></description>
-		
-					<wfw:commentRss>https://castellcoch.com/2025/01/29/castell-coch-by-mary-traynor/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">6468</post-id>	</item>
 	</channel>
 </rss>
