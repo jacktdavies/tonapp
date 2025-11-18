@@ -12,7 +12,7 @@
 	<atom:link href="https://tongwynlais.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://tongwynlais.com</link>
 	<description></description>
-	<lastBuildDate>Fri, 24 Oct 2025 07:16:30 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 18 Nov 2025 19:03:39 +0000</lastBuildDate>
 	<language>en-GB</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,9 +28,28 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">37574071</site>	<item>
+		<title>Postcards from Tongwynlais – Part 21</title>
+		<link>https://tongwynlais.com/2025/11/18/postcards-from-tongwynlais-part-21/</link>
+					<comments>https://tongwynlais.com/2025/11/18/postcards-from-tongwynlais-part-21/#respond</comments>
+		
+		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
+		<pubDate>Tue, 18 Nov 2025 19:03:38 +0000</pubDate>
+				<category><![CDATA[History]]></category>
+		<category><![CDATA[dh]]></category>
+		<category><![CDATA[postcard]]></category>
+		<guid isPermaLink="false">https://tongwynlais.com/?p=30896</guid>
+
+					<description><![CDATA[I have a few postcards that feature a view of Castell Coch by photographer Martin John Ridley (1861-1936). This example was written in 1917 but not posted. The original photo is thought to be from 1905. I have another postcard using this image that was sent in 1908. The postcard is titled, &#8220;Castle Coch, Taffs ... <a title="Postcards from Tongwynlais – Part 21" class="read-more" href="https://tongwynlais.com/2025/11/18/postcards-from-tongwynlais-part-21/" aria-label="Read more about Postcards from Tongwynlais – Part 21">more...</a>]]></description>
+		
+					<wfw:commentRss>https://tongwynlais.com/2025/11/18/postcards-from-tongwynlais-part-21/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">30896</post-id>	</item>
+		<item>
 		<title>The Glamorganshire Canal at Tongwynlais</title>
 		<link>https://tongwynlais.com/2025/10/24/the-glamorganshire-canal-at-tongwynlais/</link>
-					<comments>https://tongwynlais.com/2025/10/24/the-glamorganshire-canal-at-tongwynlais/#respond</comments>
+					<comments>https://tongwynlais.com/2025/10/24/the-glamorganshire-canal-at-tongwynlais/#comments</comments>
 		
 		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
 		<pubDate>Fri, 24 Oct 2025 07:15:16 +0000</pubDate>
@@ -42,7 +61,7 @@
 					<description><![CDATA[The Glamorganshire Canal was devised by the ironmasters of Merthyr Tydfil to transport their goods from the valleys to Cardiff. Construction of the canal began in 1790 and the final section that linked the Cardiff docks was opened in 1798. The decline of the canal started in 1876 when competition from the railways affected its ... <a title="The Glamorganshire Canal at Tongwynlais" class="read-more" href="https://tongwynlais.com/2025/10/24/the-glamorganshire-canal-at-tongwynlais/" aria-label="Read more about The Glamorganshire Canal at Tongwynlais">more...</a>]]></description>
 		
 					<wfw:commentRss>https://tongwynlais.com/2025/10/24/the-glamorganshire-canal-at-tongwynlais/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
+			<slash:comments>2</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">30700</post-id>	</item>
@@ -201,26 +220,5 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">28151</post-id>	</item>
-		<item>
-		<title>Pixel Art Tongwynlais – Part 4</title>
-		<link>https://tongwynlais.com/2025/01/27/pixel-art-tongwynlais-part-4/</link>
-					<comments>https://tongwynlais.com/2025/01/27/pixel-art-tongwynlais-part-4/#respond</comments>
-		
-		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
-		<pubDate>Mon, 27 Jan 2025 14:52:33 +0000</pubDate>
-				<category><![CDATA[Art]]></category>
-		<category><![CDATA[dh]]></category>
-		<category><![CDATA[illustration]]></category>
-		<category><![CDATA[lewis arms]]></category>
-		<category><![CDATA[pixel art]]></category>
-		<guid isPermaLink="false">https://tongwynlais.com/?p=20496</guid>
-
-					<description><![CDATA[Pixel art describes a technique for creating digital illustrations at the individual pixel level. This type of art was the result of low resolution displays in early videogame systems. Today, our phone and computer displays have millions of pixels. Despite this, the art form is very popular and the “retro” videogame look is used in ... <a title="Pixel Art Tongwynlais – Part 4" class="read-more" href="https://tongwynlais.com/2025/01/27/pixel-art-tongwynlais-part-4/" aria-label="Read more about Pixel Art Tongwynlais – Part 4">more...</a>]]></description>
-		
-					<wfw:commentRss>https://tongwynlais.com/2025/01/27/pixel-art-tongwynlais-part-4/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">20496</post-id>	</item>
 	</channel>
 </rss>
