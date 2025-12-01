@@ -12,7 +12,7 @@
 	<atom:link href="https://tongwynlais.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://tongwynlais.com</link>
 	<description></description>
-	<lastBuildDate>Tue, 18 Nov 2025 19:03:39 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 01 Dec 2025 08:19:12 +0000</lastBuildDate>
 	<language>en-GB</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,9 +28,28 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">37574071</site>	<item>
+		<title>Villa Cardiff – Part 4</title>
+		<link>https://tongwynlais.com/2025/12/01/villa-cardiff-part-4/</link>
+					<comments>https://tongwynlais.com/2025/12/01/villa-cardiff-part-4/#respond</comments>
+		
+		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
+		<pubDate>Mon, 01 Dec 2025 08:19:11 +0000</pubDate>
+				<category><![CDATA[Cardiff]]></category>
+		<category><![CDATA[cardiff]]></category>
+		<category><![CDATA[dh]]></category>
+		<guid isPermaLink="false">https://tongwynlais.com/?p=30962</guid>
+
+					<description><![CDATA[This series was inspired by an article from John&#38;Jane that explored the design of a modern flag for Cardiff. In the first part I looked into the history of Cardiff and found some examples of the &#8220;Cardiff Arms&#8221;. In the second part I discovered some of the history of the arms and shared more examples ... <a title="Villa Cardiff – Part 4" class="read-more" href="https://tongwynlais.com/2025/12/01/villa-cardiff-part-4/" aria-label="Read more about Villa Cardiff – Part 4">more...</a>]]></description>
+		
+					<wfw:commentRss>https://tongwynlais.com/2025/12/01/villa-cardiff-part-4/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">30962</post-id>	</item>
+		<item>
 		<title>Postcards from Tongwynlais – Part 21</title>
 		<link>https://tongwynlais.com/2025/11/18/postcards-from-tongwynlais-part-21/</link>
-					<comments>https://tongwynlais.com/2025/11/18/postcards-from-tongwynlais-part-21/#respond</comments>
+					<comments>https://tongwynlais.com/2025/11/18/postcards-from-tongwynlais-part-21/#comments</comments>
 		
 		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
 		<pubDate>Tue, 18 Nov 2025 19:03:38 +0000</pubDate>
@@ -42,7 +61,7 @@
 					<description><![CDATA[I have a few postcards that feature a view of Castell Coch by photographer Martin John Ridley (1861-1936). This example was written in 1917 but not posted. The original photo is thought to be from 1905. I have another postcard using this image that was sent in 1908. The postcard is titled, &#8220;Castle Coch, Taffs ... <a title="Postcards from Tongwynlais – Part 21" class="read-more" href="https://tongwynlais.com/2025/11/18/postcards-from-tongwynlais-part-21/" aria-label="Read more about Postcards from Tongwynlais – Part 21">more...</a>]]></description>
 		
 					<wfw:commentRss>https://tongwynlais.com/2025/11/18/postcards-from-tongwynlais-part-21/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
+			<slash:comments>1</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">30896</post-id>	</item>
@@ -201,24 +220,5 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">29233</post-id>	</item>
-		<item>
-		<title>Postcards from Tongwynlais – Part 20</title>
-		<link>https://tongwynlais.com/2025/02/17/postcards-from-tongwynlais-part-20/</link>
-					<comments>https://tongwynlais.com/2025/02/17/postcards-from-tongwynlais-part-20/#comments</comments>
-		
-		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
-		<pubDate>Mon, 17 Feb 2025 10:07:49 +0000</pubDate>
-				<category><![CDATA[History]]></category>
-		<category><![CDATA[dh]]></category>
-		<category><![CDATA[postcard]]></category>
-		<guid isPermaLink="false">https://tongwynlais.com/?p=28151</guid>
-
-					<description><![CDATA[Welcome to the 20th instalment of my flagship series! This is one of my favourite images and shows the village at the beginning of the 1900s. I&#8217;ve seen a few poor quality examples of this photo. I was really pleased to find this excellent copy posted in 1907 with a very sweet message. It was ... <a title="Postcards from Tongwynlais – Part 20" class="read-more" href="https://tongwynlais.com/2025/02/17/postcards-from-tongwynlais-part-20/" aria-label="Read more about Postcards from Tongwynlais – Part 20">more...</a>]]></description>
-		
-					<wfw:commentRss>https://tongwynlais.com/2025/02/17/postcards-from-tongwynlais-part-20/feed/</wfw:commentRss>
-			<slash:comments>1</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">28151</post-id>	</item>
 	</channel>
 </rss>
