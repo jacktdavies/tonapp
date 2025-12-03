@@ -12,7 +12,7 @@
 	<atom:link href="https://castellcoch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://castellcoch.com</link>
 	<description></description>
-	<lastBuildDate>Tue, 18 Nov 2025 19:05:27 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 03 Dec 2025 09:03:31 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,9 +28,29 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">184115289</site>	<item>
+		<title>Castell Coch Minifigures</title>
+		<link>https://castellcoch.com/2025/12/03/castell-coch-minifigures/</link>
+					<comments>https://castellcoch.com/2025/12/03/castell-coch-minifigures/#respond</comments>
+		
+		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
+		<pubDate>Wed, 03 Dec 2025 09:03:30 +0000</pubDate>
+				<category><![CDATA[Art]]></category>
+		<category><![CDATA[illustration]]></category>
+		<category><![CDATA[lego]]></category>
+		<category><![CDATA[minifigure]]></category>
+		<guid isPermaLink="false">https://castellcoch.com/?p=9088</guid>
+
+					<description><![CDATA[If you&#8217;re a regular reader, you&#8217;ll know I love Lego! A few months ago I was inspired to illustrate a Lego Minifigure. I quickly got carried away and decided to see if I could design a Minifig based around Castell Coch. I started with Lady Bute. After finishing this first illustration, I knew I was ... <p class="read-more-container"><a title="Castell Coch Minifigures" class="read-more button" href="https://castellcoch.com/2025/12/03/castell-coch-minifigures/#more-9088" aria-label="Read more about Castell Coch Minifigures">Read more</a></p>]]></description>
+		
+					<wfw:commentRss>https://castellcoch.com/2025/12/03/castell-coch-minifigures/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">9088</post-id>	</item>
+		<item>
 		<title>Postcards of Castell Coch – Part 11</title>
 		<link>https://castellcoch.com/2025/11/18/postcards-of-castell-coch-part-11/</link>
-					<comments>https://castellcoch.com/2025/11/18/postcards-of-castell-coch-part-11/#respond</comments>
+					<comments>https://castellcoch.com/2025/11/18/postcards-of-castell-coch-part-11/#comments</comments>
 		
 		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
 		<pubDate>Tue, 18 Nov 2025 18:41:27 +0000</pubDate>
@@ -44,7 +64,7 @@
 					<description><![CDATA[I have a few postcards that feature a view of Castell Coch by photographer Martin John Ridley (1861-1936). This example was written in 1917 but not posted. The original photo is thought to be from 1905. I have another postcard using this image that was sent in 1908. The postcard is titled, &#8220;Castle Coch, Taffs ... <p class="read-more-container"><a title="Postcards of Castell Coch – Part 11" class="read-more button" href="https://castellcoch.com/2025/11/18/postcards-of-castell-coch-part-11/#more-9033" aria-label="Read more about Postcards of Castell Coch – Part 11">Read more</a></p>]]></description>
 		
 					<wfw:commentRss>https://castellcoch.com/2025/11/18/postcards-of-castell-coch-part-11/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
+			<slash:comments>1</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">9033</post-id>	</item>
@@ -208,24 +228,5 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">6827</post-id>	</item>
-		<item>
-		<title>Postcards of Castell Coch – Part 10</title>
-		<link>https://castellcoch.com/2025/02/14/postcards-of-castell-coch-part-10/</link>
-					<comments>https://castellcoch.com/2025/02/14/postcards-of-castell-coch-part-10/#respond</comments>
-		
-		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
-		<pubDate>Fri, 14 Feb 2025 07:28:45 +0000</pubDate>
-				<category><![CDATA[History]]></category>
-		<category><![CDATA[james valentine]]></category>
-		<category><![CDATA[postcard]]></category>
-		<guid isPermaLink="false">https://castellcoch.com/?p=6565</guid>
-
-					<description><![CDATA[For Valentine&#8217;s Day, I&#8217;m sharing this unique panoramic postcard by the famous publisher J Valentine &#38; Sons. J Valentine &#38; Sons was a prominent postcard publisher based in Dundee, Scotland. Founded in 1851 by James Valentine, the company initially focused on photography and printing before venturing into the postcard business in the late 19th century. ... <p class="read-more-container"><a title="Postcards of Castell Coch – Part 10" class="read-more button" href="https://castellcoch.com/2025/02/14/postcards-of-castell-coch-part-10/#more-6565" aria-label="Read more about Postcards of Castell Coch – Part 10">Read more</a></p>]]></description>
-		
-					<wfw:commentRss>https://castellcoch.com/2025/02/14/postcards-of-castell-coch-part-10/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">6565</post-id>	</item>
 	</channel>
 </rss>
