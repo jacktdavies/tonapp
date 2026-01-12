@@ -12,7 +12,7 @@
 	<atom:link href="https://castellcoch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://castellcoch.com</link>
 	<description></description>
-	<lastBuildDate>Wed, 03 Dec 2025 09:03:31 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 12 Jan 2026 15:18:36 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">184115289</site>	<item>
+		<title>A Welsh Fantasy</title>
+		<link>https://castellcoch.com/2026/01/12/a-welsh-fantasy/</link>
+					<comments>https://castellcoch.com/2026/01/12/a-welsh-fantasy/#respond</comments>
+		
+		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
+		<pubDate>Mon, 12 Jan 2026 15:18:35 +0000</pubDate>
+				<category><![CDATA[History]]></category>
+		<category><![CDATA[1970s]]></category>
+		<category><![CDATA[magazine]]></category>
+		<guid isPermaLink="false">https://castellcoch.com/?p=9252</guid>
+
+					<description><![CDATA[I purchased the article, &#8220;Great Houses &#8211; A Welsh Fantasy&#8221; by Ursula Robertshaw a few years. It was just a cutting from the magazine and it sat in my collection waiting to be published. I stumbled across an image of the front cover a few years later and hoped I&#8217;d find the full issue on ... <p class="read-more-container"><a title="A Welsh Fantasy" class="read-more button" href="https://castellcoch.com/2026/01/12/a-welsh-fantasy/#more-9252" aria-label="Read more about A Welsh Fantasy">Read more</a></p>]]></description>
+		
+					<wfw:commentRss>https://castellcoch.com/2026/01/12/a-welsh-fantasy/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">9252</post-id>	</item>
+		<item>
 		<title>Castell Coch Minifigures</title>
 		<link>https://castellcoch.com/2025/12/03/castell-coch-minifigures/</link>
 					<comments>https://castellcoch.com/2025/12/03/castell-coch-minifigures/#respond</comments>
@@ -102,7 +121,7 @@
 					<description><![CDATA[John Crichton-Stuart, the 3rd Marquess of Bute (1847 &#8211; 1900), was simply known as Lord Bute. The Bute family played an important part in Cardiff&#8217;s modern history and Lord Bute was the driving force behind the reconstruction of Castell Coch. The young Bute inherited a vast fortune as was, perhaps, the richest man in the ... <p class="read-more-container"><a title="Lord Bute &#8211; Part 1" class="read-more button" href="https://castellcoch.com/2025/09/12/lord-bute-part-1/#more-8795" aria-label="Read more about Lord Bute &#8211; Part 1">Read more</a></p>]]></description>
 		
 					<wfw:commentRss>https://castellcoch.com/2025/09/12/lord-bute-part-1/feed/</wfw:commentRss>
-			<slash:comments>1</slash:comments>
+			<slash:comments>2</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">8795</post-id>	</item>
@@ -210,23 +229,5 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">7112</post-id>	</item>
-		<item>
-		<title>Castell Coch by Antonio Mortola</title>
-		<link>https://castellcoch.com/2025/03/08/castell-coch-by-antonio-mortola/</link>
-					<comments>https://castellcoch.com/2025/03/08/castell-coch-by-antonio-mortola/#comments</comments>
-		
-		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
-		<pubDate>Sat, 08 Mar 2025 14:55:16 +0000</pubDate>
-				<category><![CDATA[Art]]></category>
-		<category><![CDATA[lego]]></category>
-		<guid isPermaLink="false">https://castellcoch.com/?p=6827</guid>
-
-					<description><![CDATA[More than ten years after publishing my first story about a Lego Castell Coch model, I&#8217;m excited to share another beautiful creation from a talented Lego builder. Antonio Mortola shared some pictures on social media last year and I recently got in touch to find out more about his work and this amazing model. Antonio&#8217;s ... <p class="read-more-container"><a title="Castell Coch by Antonio Mortola" class="read-more button" href="https://castellcoch.com/2025/03/08/castell-coch-by-antonio-mortola/#more-6827" aria-label="Read more about Castell Coch by Antonio Mortola">Read more</a></p>]]></description>
-		
-					<wfw:commentRss>https://castellcoch.com/2025/03/08/castell-coch-by-antonio-mortola/feed/</wfw:commentRss>
-			<slash:comments>2</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">6827</post-id>	</item>
 	</channel>
 </rss>
