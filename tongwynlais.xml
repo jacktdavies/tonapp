@@ -12,7 +12,7 @@
 	<atom:link href="https://tongwynlais.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://tongwynlais.com</link>
 	<description></description>
-	<lastBuildDate>Mon, 01 Dec 2025 08:19:12 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 28 Jan 2026 09:11:05 +0000</lastBuildDate>
 	<language>en-GB</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,9 +28,29 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">37574071</site>	<item>
+		<title>Tongwynlais in Lego – Part 2</title>
+		<link>https://tongwynlais.com/2026/01/28/tongwynlais-in-lego-part-2/</link>
+					<comments>https://tongwynlais.com/2026/01/28/tongwynlais-in-lego-part-2/#respond</comments>
+		
+		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
+		<pubDate>Wed, 28 Jan 2026 09:11:04 +0000</pubDate>
+				<category><![CDATA[Art]]></category>
+		<category><![CDATA[dh]]></category>
+		<category><![CDATA[lego]]></category>
+		<category><![CDATA[tollhouse]]></category>
+		<guid isPermaLink="false">https://tongwynlais.com/?p=31354</guid>
+
+					<description><![CDATA[After completing the microscale Lego Tollhouse in part 1, I was immediately inspired to create a &#8220;Minifig-scale&#8221; version. I don&#8217;t collect Minifigures but I&#8217;ve acquired a few over the years and I thought it would be interesting to create a scene featuring the Tollhouse. It took quite a while, mainly through trial and error, to ... <a title="Tongwynlais in Lego – Part 2" class="read-more" href="https://tongwynlais.com/2026/01/28/tongwynlais-in-lego-part-2/" aria-label="Read more about Tongwynlais in Lego – Part 2">more...</a>]]></description>
+		
+					<wfw:commentRss>https://tongwynlais.com/2026/01/28/tongwynlais-in-lego-part-2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">31354</post-id>	</item>
+		<item>
 		<title>Villa Cardiff – Part 4</title>
 		<link>https://tongwynlais.com/2025/12/01/villa-cardiff-part-4/</link>
-					<comments>https://tongwynlais.com/2025/12/01/villa-cardiff-part-4/#respond</comments>
+					<comments>https://tongwynlais.com/2025/12/01/villa-cardiff-part-4/#comments</comments>
 		
 		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
 		<pubDate>Mon, 01 Dec 2025 08:19:11 +0000</pubDate>
@@ -42,7 +62,7 @@
 					<description><![CDATA[This series was inspired by an article from John&#38;Jane that explored the design of a modern flag for Cardiff. In the first part I looked into the history of Cardiff and found some examples of the &#8220;Cardiff Arms&#8221;. In the second part I discovered some of the history of the arms and shared more examples ... <a title="Villa Cardiff – Part 4" class="read-more" href="https://tongwynlais.com/2025/12/01/villa-cardiff-part-4/" aria-label="Read more about Villa Cardiff – Part 4">more...</a>]]></description>
 		
 					<wfw:commentRss>https://tongwynlais.com/2025/12/01/villa-cardiff-part-4/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
+			<slash:comments>1</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">30962</post-id>	</item>
@@ -199,26 +219,5 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">29359</post-id>	</item>
-		<item>
-		<title>Villa Cardiff &#8211; Part 3</title>
-		<link>https://tongwynlais.com/2025/03/25/villa-cardiff-part-3/</link>
-					<comments>https://tongwynlais.com/2025/03/25/villa-cardiff-part-3/#respond</comments>
-		
-		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
-		<pubDate>Tue, 25 Mar 2025 12:48:24 +0000</pubDate>
-				<category><![CDATA[History]]></category>
-		<category><![CDATA[arms]]></category>
-		<category><![CDATA[cardiff]]></category>
-		<category><![CDATA[design]]></category>
-		<category><![CDATA[dh]]></category>
-		<guid isPermaLink="false">https://tongwynlais.com/?p=29233</guid>
-
-					<description><![CDATA[This series was inspired by an article from John&#38;Jane that explored the design of a modern flag for Cardiff. In the first part I looked into the history of Cardiff and found some examples of the &#8220;Cardiff Arms&#8221;. In the second part I discovered some of the history of the arms and shared more examples ... <a title="Villa Cardiff &#8211; Part 3" class="read-more" href="https://tongwynlais.com/2025/03/25/villa-cardiff-part-3/" aria-label="Read more about Villa Cardiff &#8211; Part 3">more...</a>]]></description>
-		
-					<wfw:commentRss>https://tongwynlais.com/2025/03/25/villa-cardiff-part-3/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">29233</post-id>	</item>
 	</channel>
 </rss>
