@@ -12,7 +12,7 @@
 	<atom:link href="https://tongwynlais.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://tongwynlais.com</link>
 	<description></description>
-	<lastBuildDate>Wed, 28 Jan 2026 09:11:05 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 07 Feb 2026 08:20:32 +0000</lastBuildDate>
 	<language>en-GB</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,9 +28,29 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">37574071</site>	<item>
+		<title>The Tongwynlais, Taff&#8217;s Well and Nantgarw Picture Album &#8211; Part 1</title>
+		<link>https://tongwynlais.com/2026/02/07/the-tongwynlais-taffs-well-and-nantgarw-picture-album-part-1/</link>
+					<comments>https://tongwynlais.com/2026/02/07/the-tongwynlais-taffs-well-and-nantgarw-picture-album-part-1/#respond</comments>
+		
+		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
+		<pubDate>Sat, 07 Feb 2026 08:20:31 +0000</pubDate>
+				<category><![CDATA[History]]></category>
+		<category><![CDATA[books]]></category>
+		<category><![CDATA[dh]]></category>
+		<category><![CDATA[roger brown]]></category>
+		<guid isPermaLink="false">https://tongwynlais.com/?p=31418</guid>
+
+					<description><![CDATA[The Tongwynlais, Taff&#8217;s Well and Nantgarw Picture Album is a series of books first published by Roger L Brown in 1988. I discovered these books over 13 years ago and eventually managed to acquire a copy of each volume. My collection also includes Roger&#8217;s local history books. I&#8217;m astounded by the work involved in producing ... <a title="The Tongwynlais, Taff&#8217;s Well and Nantgarw Picture Album &#8211; Part 1" class="read-more" href="https://tongwynlais.com/2026/02/07/the-tongwynlais-taffs-well-and-nantgarw-picture-album-part-1/" aria-label="Read more about The Tongwynlais, Taff&#8217;s Well and Nantgarw Picture Album &#8211; Part 1">more...</a>]]></description>
+		
+					<wfw:commentRss>https://tongwynlais.com/2026/02/07/the-tongwynlais-taffs-well-and-nantgarw-picture-album-part-1/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">31418</post-id>	</item>
+		<item>
 		<title>Tongwynlais in Lego – Part 2</title>
 		<link>https://tongwynlais.com/2026/01/28/tongwynlais-in-lego-part-2/</link>
-					<comments>https://tongwynlais.com/2026/01/28/tongwynlais-in-lego-part-2/#respond</comments>
+					<comments>https://tongwynlais.com/2026/01/28/tongwynlais-in-lego-part-2/#comments</comments>
 		
 		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
 		<pubDate>Wed, 28 Jan 2026 09:11:04 +0000</pubDate>
@@ -43,7 +63,7 @@
 					<description><![CDATA[After completing the microscale Lego Tollhouse in part 1, I was immediately inspired to create a &#8220;Minifig-scale&#8221; version. I don&#8217;t collect Minifigures but I&#8217;ve acquired a few over the years and I thought it would be interesting to create a scene featuring the Tollhouse. It took quite a while, mainly through trial and error, to ... <a title="Tongwynlais in Lego – Part 2" class="read-more" href="https://tongwynlais.com/2026/01/28/tongwynlais-in-lego-part-2/" aria-label="Read more about Tongwynlais in Lego – Part 2">more...</a>]]></description>
 		
 					<wfw:commentRss>https://tongwynlais.com/2026/01/28/tongwynlais-in-lego-part-2/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
+			<slash:comments>1</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">31354</post-id>	</item>
@@ -199,25 +219,5 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">29531</post-id>	</item>
-		<item>
-		<title>1st Castell Coch Survey</title>
-		<link>https://tongwynlais.com/2025/04/12/1st-castell-coch-survey/</link>
-		
-		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
-		<pubDate>Sat, 12 Apr 2025 09:15:20 +0000</pubDate>
-				<category><![CDATA[Community]]></category>
-		<category><![CDATA[1st Castell Coch]]></category>
-		<category><![CDATA[beavers]]></category>
-		<category><![CDATA[cubs]]></category>
-		<category><![CDATA[dh]]></category>
-		<category><![CDATA[scouts]]></category>
-		<category><![CDATA[survey]]></category>
-		<guid isPermaLink="false">https://tongwynlais.com/?p=29359</guid>
-
-					<description><![CDATA[1st Castell Coch are looking for a new home and want your views on their plan to buy Bethesda Chapel. The group would love to have a permanent base for their meetings and for the wider community to use. History 4th Cardiff Cardiff has a rich history with scouting. The 4th Cardiff Troop was set ... <a title="1st Castell Coch Survey" class="read-more" href="https://tongwynlais.com/2025/04/12/1st-castell-coch-survey/" aria-label="Read more about 1st Castell Coch Survey">more...</a>]]></description>
-		
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">29359</post-id>	</item>
 	</channel>
 </rss>
