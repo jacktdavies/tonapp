@@ -12,7 +12,7 @@
 	<atom:link href="https://castellcoch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://castellcoch.com</link>
 	<description></description>
-	<lastBuildDate>Mon, 12 Jan 2026 15:18:36 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 15 Feb 2026 12:10:38 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,26 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">184115289</site>	<item>
+		<title>Castell Coch by George William Manby</title>
+		<link>https://castellcoch.com/2026/02/15/castell-coch-by-george-william-manby/</link>
+					<comments>https://castellcoch.com/2026/02/15/castell-coch-by-george-william-manby/#respond</comments>
+		
+		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
+		<pubDate>Sun, 15 Feb 2026 12:10:37 +0000</pubDate>
+				<category><![CDATA[History]]></category>
+		<category><![CDATA[1802]]></category>
+		<category><![CDATA[g w manby]]></category>
+		<category><![CDATA[illustration]]></category>
+		<guid isPermaLink="false">https://castellcoch.com/?p=9342</guid>
+
+					<description><![CDATA[George William Manby was an English inventor who toured south Wales in the early 1800s and documented his travels. He&#8217;s credited with inventing the &#8220;Manby Mortar&#8221; and an early type of fire extinguisher. George William Manby George William Manby (28 November 1765 – 18 November 1854) is most famous for his invention that was used ... <p class="read-more-container"><a title="Castell Coch by George William Manby" class="read-more button" href="https://castellcoch.com/2026/02/15/castell-coch-by-george-william-manby/#more-9342" aria-label="Read more about Castell Coch by George William Manby">Read more</a></p>]]></description>
+		
+					<wfw:commentRss>https://castellcoch.com/2026/02/15/castell-coch-by-george-william-manby/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">9342</post-id>	</item>
+		<item>
 		<title>A Welsh Fantasy</title>
 		<link>https://castellcoch.com/2026/01/12/a-welsh-fantasy/</link>
 					<comments>https://castellcoch.com/2026/01/12/a-welsh-fantasy/#respond</comments>
@@ -209,25 +229,5 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">7613</post-id>	</item>
-		<item>
-		<title>Patterns of Castell Coch – Part 3</title>
-		<link>https://castellcoch.com/2025/04/16/patterns-of-castell-coch-part-3/</link>
-					<comments>https://castellcoch.com/2025/04/16/patterns-of-castell-coch-part-3/#respond</comments>
-		
-		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
-		<pubDate>Wed, 16 Apr 2025 12:21:12 +0000</pubDate>
-				<category><![CDATA[Art]]></category>
-		<category><![CDATA[illustration]]></category>
-		<category><![CDATA[interior design]]></category>
-		<category><![CDATA[patterns]]></category>
-		<guid isPermaLink="false">https://castellcoch.com/?p=7112</guid>
-
-					<description><![CDATA[Castell Coch is famous for its spectacular interiors. I’ve decided to illustrate the stencils, murals and patterns that decorate Cardiff’s iconic Gothic Revival landmark. Part 1 and Part 2 of this series have already featured some beautiful designs. Lady Bute&#8217;s Bedroom The first patterns I&#8217;ve recreated for this instalment are prominent in Lady Bute&#8217;s bedroom. ... <p class="read-more-container"><a title="Patterns of Castell Coch – Part 3" class="read-more button" href="https://castellcoch.com/2025/04/16/patterns-of-castell-coch-part-3/#more-7112" aria-label="Read more about Patterns of Castell Coch – Part 3">Read more</a></p>]]></description>
-		
-					<wfw:commentRss>https://castellcoch.com/2025/04/16/patterns-of-castell-coch-part-3/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">7112</post-id>	</item>
 	</channel>
 </rss>
