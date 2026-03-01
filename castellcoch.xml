@@ -12,7 +12,7 @@
 	<atom:link href="https://castellcoch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://castellcoch.com</link>
 	<description></description>
-	<lastBuildDate>Sun, 15 Feb 2026 12:10:38 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 01 Mar 2026 08:15:34 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,26 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">184115289</site>	<item>
+		<title>St David at Castell Coch</title>
+		<link>https://castellcoch.com/2026/03/01/st-david-at-castell-coch/</link>
+					<comments>https://castellcoch.com/2026/03/01/st-david-at-castell-coch/#respond</comments>
+		
+		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
+		<pubDate>Sun, 01 Mar 2026 08:15:33 +0000</pubDate>
+				<category><![CDATA[Art]]></category>
+		<category><![CDATA[history]]></category>
+		<category><![CDATA[st david]]></category>
+		<category><![CDATA[stained glass]]></category>
+		<guid isPermaLink="false">https://castellcoch.com/?p=9402</guid>
+
+					<description><![CDATA[Castell Coch contains ten stained glass windows that were originally housed in a wooden chapel. This part of the castle was demolished but the glass panels are now on display in the Well Tower. One of the stained glass windows depicts the patron saint of Wales, St David. He&#8217;s shown standing on a hill with ... <p class="read-more-container"><a title="St David at Castell Coch" class="read-more button" href="https://castellcoch.com/2026/03/01/st-david-at-castell-coch/#more-9402" aria-label="Read more about St David at Castell Coch">Read more</a></p>]]></description>
+		
+					<wfw:commentRss>https://castellcoch.com/2026/03/01/st-david-at-castell-coch/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">9402</post-id>	</item>
+		<item>
 		<title>Castell Coch by George William Manby</title>
 		<link>https://castellcoch.com/2026/02/15/castell-coch-by-george-william-manby/</link>
 					<comments>https://castellcoch.com/2026/02/15/castell-coch-by-george-william-manby/#respond</comments>
@@ -209,25 +229,5 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">8059</post-id>	</item>
-		<item>
-		<title>The Cambrians Visit Castell Coch in 1912</title>
-		<link>https://castellcoch.com/2025/05/25/the-cambrians-visit-castell-coch-in-1912/</link>
-					<comments>https://castellcoch.com/2025/05/25/the-cambrians-visit-castell-coch-in-1912/#respond</comments>
-		
-		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
-		<pubDate>Sun, 25 May 2025 10:23:46 +0000</pubDate>
-				<category><![CDATA[History]]></category>
-		<category><![CDATA[archaeologia cambrensis]]></category>
-		<category><![CDATA[cambrians]]></category>
-		<category><![CDATA[Journal]]></category>
-		<guid isPermaLink="false">https://castellcoch.com/?p=7613</guid>
-
-					<description><![CDATA[The Cambrian Archaeological Association is a charity dedicated to preserving the history of Wales. They were founded in 1846 and have published the annual &#8220;Archaeologia Cambrensis&#8221; journal ever since. Many of the early journals are available to read online and they contain some fascinating local history. I discovered a report of the association&#8217;s tour of ... <p class="read-more-container"><a title="The Cambrians Visit Castell Coch in 1912" class="read-more button" href="https://castellcoch.com/2025/05/25/the-cambrians-visit-castell-coch-in-1912/#more-7613" aria-label="Read more about The Cambrians Visit Castell Coch in 1912">Read more</a></p>]]></description>
-		
-					<wfw:commentRss>https://castellcoch.com/2025/05/25/the-cambrians-visit-castell-coch-in-1912/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">7613</post-id>	</item>
 	</channel>
 </rss>
