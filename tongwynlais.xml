@@ -12,7 +12,7 @@
 	<atom:link href="https://tongwynlais.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://tongwynlais.com</link>
 	<description></description>
-	<lastBuildDate>Sat, 07 Feb 2026 08:20:32 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 15 Mar 2026 12:31:12 +0000</lastBuildDate>
 	<language>en-GB</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,9 +28,30 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">37574071</site>	<item>
+		<title>Cardiff by Joseph Pike &#8211; Part 1</title>
+		<link>https://tongwynlais.com/2026/03/15/cardiff-by-joseph-pike-part-1/</link>
+					<comments>https://tongwynlais.com/2026/03/15/cardiff-by-joseph-pike-part-1/#respond</comments>
+		
+		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
+		<pubDate>Sun, 15 Mar 2026 12:31:11 +0000</pubDate>
+				<category><![CDATA[Art]]></category>
+		<category><![CDATA[cardiff]]></category>
+		<category><![CDATA[dh]]></category>
+		<category><![CDATA[illustration]]></category>
+		<category><![CDATA[joseph pike]]></category>
+		<guid isPermaLink="false">https://tongwynlais.com/?p=31622</guid>
+
+					<description><![CDATA[I picked up these illustrations of Cardiff by Joseph Pike a few years ago. I&#8217;m currently practising my drawing and these sketches are very inspiring. I love Joseph&#8217;s style and they show a fascinating glimpse of Cardiff in the 1920s. Joseph Pike (1883 &#8211; 1956) Joseph Pike was born in Bristol in 1883 and educated ... <a title="Cardiff by Joseph Pike &#8211; Part 1" class="read-more" href="https://tongwynlais.com/2026/03/15/cardiff-by-joseph-pike-part-1/" aria-label="Read more about Cardiff by Joseph Pike &#8211; Part 1">more...</a>]]></description>
+		
+					<wfw:commentRss>https://tongwynlais.com/2026/03/15/cardiff-by-joseph-pike-part-1/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">31622</post-id>	</item>
+		<item>
 		<title>The Tongwynlais, Taff&#8217;s Well and Nantgarw Picture Album &#8211; Part 1</title>
 		<link>https://tongwynlais.com/2026/02/07/the-tongwynlais-taffs-well-and-nantgarw-picture-album-part-1/</link>
-					<comments>https://tongwynlais.com/2026/02/07/the-tongwynlais-taffs-well-and-nantgarw-picture-album-part-1/#respond</comments>
+					<comments>https://tongwynlais.com/2026/02/07/the-tongwynlais-taffs-well-and-nantgarw-picture-album-part-1/#comments</comments>
 		
 		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
 		<pubDate>Sat, 07 Feb 2026 08:20:31 +0000</pubDate>
@@ -43,7 +64,7 @@
 					<description><![CDATA[The Tongwynlais, Taff&#8217;s Well and Nantgarw Picture Album is a series of books first published by Roger L Brown in 1988. I discovered these books over 13 years ago and eventually managed to acquire a copy of each volume. My collection also includes Roger&#8217;s local history books. I&#8217;m astounded by the work involved in producing ... <a title="The Tongwynlais, Taff&#8217;s Well and Nantgarw Picture Album &#8211; Part 1" class="read-more" href="https://tongwynlais.com/2026/02/07/the-tongwynlais-taffs-well-and-nantgarw-picture-album-part-1/" aria-label="Read more about The Tongwynlais, Taff&#8217;s Well and Nantgarw Picture Album &#8211; Part 1">more...</a>]]></description>
 		
 					<wfw:commentRss>https://tongwynlais.com/2026/02/07/the-tongwynlais-taffs-well-and-nantgarw-picture-album-part-1/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
+			<slash:comments>1</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">31418</post-id>	</item>
@@ -199,25 +220,5 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">29666</post-id>	</item>
-		<item>
-		<title>Tongwynlais by Samuel Coupe Fox</title>
-		<link>https://tongwynlais.com/2025/05/17/tongwynlais-by-samuel-coupe-fox/</link>
-					<comments>https://tongwynlais.com/2025/05/17/tongwynlais-by-samuel-coupe-fox/#respond</comments>
-		
-		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
-		<pubDate>Sat, 17 May 2025 07:42:37 +0000</pubDate>
-				<category><![CDATA[History]]></category>
-		<category><![CDATA[dh]]></category>
-		<category><![CDATA[photography]]></category>
-		<category><![CDATA[Samuel Coupe Fox]]></category>
-		<guid isPermaLink="false">https://tongwynlais.com/?p=29531</guid>
-
-					<description><![CDATA[Samuel Coupe Fox was born Sutton in Ashfield in 1864. He married Alice Chaney and they had a son, William, in 1889. Samuel moved to Cardiff in 1890, where he lived until his death in 1953. He started his career as a printer&#8217;s apprentice and became a journalist after his move to Cardiff. Samuel&#8217;s interest ... <a title="Tongwynlais by Samuel Coupe Fox" class="read-more" href="https://tongwynlais.com/2025/05/17/tongwynlais-by-samuel-coupe-fox/" aria-label="Read more about Tongwynlais by Samuel Coupe Fox">more...</a>]]></description>
-		
-					<wfw:commentRss>https://tongwynlais.com/2025/05/17/tongwynlais-by-samuel-coupe-fox/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">29531</post-id>	</item>
 	</channel>
 </rss>
