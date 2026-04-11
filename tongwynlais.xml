@@ -12,7 +12,7 @@
 	<atom:link href="https://tongwynlais.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://tongwynlais.com</link>
 	<description></description>
-	<lastBuildDate>Sun, 15 Mar 2026 12:31:12 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 11 Apr 2026 11:35:27 +0000</lastBuildDate>
 	<language>en-GB</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,26 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">37574071</site>	<item>
+		<title>Postcards from Tongwynlais – Part 22</title>
+		<link>https://tongwynlais.com/2026/04/11/postcards-from-tongwynlais-part-22/</link>
+					<comments>https://tongwynlais.com/2026/04/11/postcards-from-tongwynlais-part-22/#respond</comments>
+		
+		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
+		<pubDate>Sat, 11 Apr 2026 11:35:26 +0000</pubDate>
+				<category><![CDATA[History]]></category>
+		<category><![CDATA[dh]]></category>
+		<category><![CDATA[lewis arms]]></category>
+		<category><![CDATA[postcard]]></category>
+		<guid isPermaLink="false">https://tongwynlais.com/?p=31814</guid>
+
+					<description><![CDATA[This instalment of &#8220;Postcards from Tongwynlais&#8221; features a very special image of the village square from the early 1900s. The postcard was sent on the 30th of September 1907. I shared some photos of the Lewis Arms back in 2024 from the early 1900s to 2016. I kept this postcard back because I wanted to ... <a title="Postcards from Tongwynlais – Part 22" class="read-more" href="https://tongwynlais.com/2026/04/11/postcards-from-tongwynlais-part-22/" aria-label="Read more about Postcards from Tongwynlais – Part 22">more...</a>]]></description>
+		
+					<wfw:commentRss>https://tongwynlais.com/2026/04/11/postcards-from-tongwynlais-part-22/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">31814</post-id>	</item>
+		<item>
 		<title>Cardiff by Joseph Pike &#8211; Part 1</title>
 		<link>https://tongwynlais.com/2026/03/15/cardiff-by-joseph-pike-part-1/</link>
 					<comments>https://tongwynlais.com/2026/03/15/cardiff-by-joseph-pike-part-1/#respond</comments>
@@ -201,24 +221,5 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">29853</post-id>	</item>
-		<item>
-		<title>Pixel Art Tongwynlais – Part 5</title>
-		<link>https://tongwynlais.com/2025/06/07/pixel-art-tongwynlais-part-5/</link>
-					<comments>https://tongwynlais.com/2025/06/07/pixel-art-tongwynlais-part-5/#respond</comments>
-		
-		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
-		<pubDate>Sat, 07 Jun 2025 07:27:06 +0000</pubDate>
-				<category><![CDATA[Art]]></category>
-		<category><![CDATA[dh]]></category>
-		<category><![CDATA[pixel art]]></category>
-		<guid isPermaLink="false">https://tongwynlais.com/?p=29666</guid>
-
-					<description><![CDATA[Pixel art describes a technique for creating digital illustrations at the individual pixel level. This type of art was the result of low resolution displays in early videogame systems. Today, our phone and computer displays have millions of pixels. Despite this, the art form is very popular and the “retro” videogame look is used in ... <a title="Pixel Art Tongwynlais – Part 5" class="read-more" href="https://tongwynlais.com/2025/06/07/pixel-art-tongwynlais-part-5/" aria-label="Read more about Pixel Art Tongwynlais – Part 5">more...</a>]]></description>
-		
-					<wfw:commentRss>https://tongwynlais.com/2025/06/07/pixel-art-tongwynlais-part-5/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">29666</post-id>	</item>
 	</channel>
 </rss>
