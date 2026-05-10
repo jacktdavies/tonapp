@@ -12,7 +12,7 @@
 	<atom:link href="https://tongwynlais.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://tongwynlais.com</link>
 	<description></description>
-	<lastBuildDate>Sat, 11 Apr 2026 11:35:27 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 10 May 2026 12:47:32 +0000</lastBuildDate>
 	<language>en-GB</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,9 +28,30 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">37574071</site>	<item>
+		<title>Tongwynlais Railway Station – Part 2</title>
+		<link>https://tongwynlais.com/2026/05/10/tongwynlais-railway-station-part-2/</link>
+					<comments>https://tongwynlais.com/2026/05/10/tongwynlais-railway-station-part-2/#respond</comments>
+		
+		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
+		<pubDate>Sun, 10 May 2026 12:47:31 +0000</pubDate>
+				<category><![CDATA[History]]></category>
+		<category><![CDATA[1911]]></category>
+		<category><![CDATA[cardiff railway]]></category>
+		<category><![CDATA[dh]]></category>
+		<category><![CDATA[tongwynlais station]]></category>
+		<guid isPermaLink="false">https://tongwynlais.com/?p=31972</guid>
+
+					<description><![CDATA[I&#8217;m very excited to present this unique photo showing the Tongwynlais railway station platforms and footbridge. I was convinced that there was no evidence of the full station after searching for so long. There are a handful of photos of the station building but these are all after its closure. This image shows the station ... <a title="Tongwynlais Railway Station – Part 2" class="read-more" href="https://tongwynlais.com/2026/05/10/tongwynlais-railway-station-part-2/" aria-label="Read more about Tongwynlais Railway Station – Part 2">more...</a>]]></description>
+		
+					<wfw:commentRss>https://tongwynlais.com/2026/05/10/tongwynlais-railway-station-part-2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">31972</post-id>	</item>
+		<item>
 		<title>Postcards from Tongwynlais – Part 22</title>
 		<link>https://tongwynlais.com/2026/04/11/postcards-from-tongwynlais-part-22/</link>
-					<comments>https://tongwynlais.com/2026/04/11/postcards-from-tongwynlais-part-22/#respond</comments>
+					<comments>https://tongwynlais.com/2026/04/11/postcards-from-tongwynlais-part-22/#comments</comments>
 		
 		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
 		<pubDate>Sat, 11 Apr 2026 11:35:26 +0000</pubDate>
@@ -43,7 +64,7 @@
 					<description><![CDATA[This instalment of &#8220;Postcards from Tongwynlais&#8221; features a very special image of the village square from the early 1900s. The postcard was sent on the 30th of September 1907. I shared some photos of the Lewis Arms back in 2024 from the early 1900s to 2016. I kept this postcard back because I wanted to ... <a title="Postcards from Tongwynlais – Part 22" class="read-more" href="https://tongwynlais.com/2026/04/11/postcards-from-tongwynlais-part-22/" aria-label="Read more about Postcards from Tongwynlais – Part 22">more...</a>]]></description>
 		
 					<wfw:commentRss>https://tongwynlais.com/2026/04/11/postcards-from-tongwynlais-part-22/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
+			<slash:comments>1</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">31814</post-id>	</item>
@@ -203,23 +224,5 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">30028</post-id>	</item>
-		<item>
-		<title>Wales Nature Week 2025</title>
-		<link>https://tongwynlais.com/2025/07/02/wales-nature-week-2025/</link>
-		
-		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
-		<pubDate>Wed, 02 Jul 2025 14:51:13 +0000</pubDate>
-				<category><![CDATA[Adventures]]></category>
-		<category><![CDATA[cardiff council]]></category>
-		<category><![CDATA[dh]]></category>
-		<category><![CDATA[Natural Resources Wales]]></category>
-		<category><![CDATA[nature]]></category>
-		<guid isPermaLink="false">https://tongwynlais.com/?p=29853</guid>
-
-					<description><![CDATA[Wales Nature Week is a celebration of nature organised by the Wales Biodiversity Partnership. Sean McHugh, Wales Biodiversity Partnership Support Team, Natural Resources Wales said, &#8220;Wales Nature Week is a fantastic opportunity for people of all ages to get involved and make a difference for nature. As we’re in a nature and climate emergency, caring ... <a title="Wales Nature Week 2025" class="read-more" href="https://tongwynlais.com/2025/07/02/wales-nature-week-2025/" aria-label="Read more about Wales Nature Week 2025">more...</a>]]></description>
-		
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">29853</post-id>	</item>
 	</channel>
 </rss>
