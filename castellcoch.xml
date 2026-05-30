@@ -12,7 +12,7 @@
 	<atom:link href="https://castellcoch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://castellcoch.com</link>
 	<description></description>
-	<lastBuildDate>Wed, 08 Apr 2026 18:29:42 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 30 May 2026 06:39:09 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">184115289</site>	<item>
+		<title>Castell Coch Red</title>
+		<link>https://castellcoch.com/2026/05/30/castell-coch-red/</link>
+					<comments>https://castellcoch.com/2026/05/30/castell-coch-red/#respond</comments>
+		
+		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
+		<pubDate>Sat, 30 May 2026 06:39:08 +0000</pubDate>
+				<category><![CDATA[Castell Coch]]></category>
+		<category><![CDATA[history]]></category>
+		<category><![CDATA[paint]]></category>
+		<guid isPermaLink="false">https://castellcoch.com/?p=9620</guid>
+
+					<description><![CDATA[Cadw recently announced a report that determines the original colour of the woodwork at Castell Coch. If you&#8217;ve visited Castell Coch recently, you&#8217;ll be familiar with the deep red paint on the joinery all around the famous landmark. This new research shows the paintwork was a more orange shade of red when the castle was ... <p class="read-more-container"><a title="Castell Coch Red" class="read-more button" href="https://castellcoch.com/2026/05/30/castell-coch-red/#more-9620" aria-label="Read more about Castell Coch Red">Read more</a></p>]]></description>
+		
+					<wfw:commentRss>https://castellcoch.com/2026/05/30/castell-coch-red/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">9620</post-id>	</item>
+		<item>
 		<title>Castell Coch Unwrapped</title>
 		<link>https://castellcoch.com/2026/04/08/castell-coch-unwrapped/</link>
 					<comments>https://castellcoch.com/2026/04/08/castell-coch-unwrapped/#respond</comments>
@@ -206,27 +225,5 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">8679</post-id>	</item>
-		<item>
-		<title>Castell Coch: The 1990s</title>
-		<link>https://castellcoch.com/2025/07/19/castell-coch-the-1990s/</link>
-					<comments>https://castellcoch.com/2025/07/19/castell-coch-the-1990s/#respond</comments>
-		
-		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
-		<pubDate>Sat, 19 Jul 2025 08:32:11 +0000</pubDate>
-				<category><![CDATA[History]]></category>
-		<category><![CDATA[1990s]]></category>
-		<category><![CDATA[cadw]]></category>
-		<category><![CDATA[guidebook]]></category>
-		<category><![CDATA[postcard]]></category>
-		<category><![CDATA[tourism]]></category>
-		<guid isPermaLink="false">https://castellcoch.com/?p=8283</guid>
-
-					<description><![CDATA[After digging through my collection for 1980s memorabilia back in 2022, I&#8217;ve gone back to see what I have from the 1990s. I&#8217;m fascinated by the very early history of the castle but I also love more recent history (yes, I know the 90s were 30 years ago!) I have a selection of guidebooks, leaflets, ... <p class="read-more-container"><a title="Castell Coch: The 1990s" class="read-more button" href="https://castellcoch.com/2025/07/19/castell-coch-the-1990s/#more-8283" aria-label="Read more about Castell Coch: The 1990s">Read more</a></p>]]></description>
-		
-					<wfw:commentRss>https://castellcoch.com/2025/07/19/castell-coch-the-1990s/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">8283</post-id>	</item>
 	</channel>
 </rss>
