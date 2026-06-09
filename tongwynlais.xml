@@ -12,7 +12,7 @@
 	<atom:link href="https://tongwynlais.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://tongwynlais.com</link>
 	<description></description>
-	<lastBuildDate>Sun, 10 May 2026 12:47:32 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 09 Jun 2026 14:03:48 +0000</lastBuildDate>
 	<language>en-GB</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,9 +28,29 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">37574071</site>	<item>
+		<title>Cardiff Woodlands in the 1960s and Today</title>
+		<link>https://tongwynlais.com/2026/06/09/cardiff-woodlands-in-the-1960s-and-today/</link>
+					<comments>https://tongwynlais.com/2026/06/09/cardiff-woodlands-in-the-1960s-and-today/#respond</comments>
+		
+		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
+		<pubDate>Tue, 09 Jun 2026 14:03:04 +0000</pubDate>
+				<category><![CDATA[History]]></category>
+		<category><![CDATA[dh]]></category>
+		<category><![CDATA[fforest fawr]]></category>
+		<category><![CDATA[fforest ganol]]></category>
+		<guid isPermaLink="false">https://tongwynlais.com/?p=31961</guid>
+
+					<description><![CDATA[I picked up this book a few years ago hoping it would contain information about the village and local woodlands. There isn&#8217;t much about Tongwynlais but it&#8217;s a fascinating read. 1961 Glamorgan Forests &#8211; Forestry Commission Guide Glamorgan Forests is a comprehensive guide that covers the woodlands, plants and animals of the area. It was ... <a title="Cardiff Woodlands in the 1960s and Today" class="read-more" href="https://tongwynlais.com/2026/06/09/cardiff-woodlands-in-the-1960s-and-today/" aria-label="Read more about Cardiff Woodlands in the 1960s and Today">more...</a>]]></description>
+		
+					<wfw:commentRss>https://tongwynlais.com/2026/06/09/cardiff-woodlands-in-the-1960s-and-today/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">31961</post-id>	</item>
+		<item>
 		<title>Tongwynlais Railway Station – Part 2</title>
 		<link>https://tongwynlais.com/2026/05/10/tongwynlais-railway-station-part-2/</link>
-					<comments>https://tongwynlais.com/2026/05/10/tongwynlais-railway-station-part-2/#respond</comments>
+					<comments>https://tongwynlais.com/2026/05/10/tongwynlais-railway-station-part-2/#comments</comments>
 		
 		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
 		<pubDate>Sun, 10 May 2026 12:47:31 +0000</pubDate>
@@ -44,7 +64,7 @@
 					<description><![CDATA[I&#8217;m very excited to present this unique photo showing the Tongwynlais railway station platforms and footbridge. I was convinced that there was no evidence of the full station after searching for so long. There are a handful of photos of the station building but these are all after its closure. This image shows the station ... <a title="Tongwynlais Railway Station – Part 2" class="read-more" href="https://tongwynlais.com/2026/05/10/tongwynlais-railway-station-part-2/" aria-label="Read more about Tongwynlais Railway Station – Part 2">more...</a>]]></description>
 		
 					<wfw:commentRss>https://tongwynlais.com/2026/05/10/tongwynlais-railway-station-part-2/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
+			<slash:comments>2</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">31972</post-id>	</item>
@@ -205,24 +225,5 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">30400</post-id>	</item>
-		<item>
-		<title>Thirteen Years On: Looking Forward</title>
-		<link>https://tongwynlais.com/2025/08/01/thirteen-years-on-looking-forward/</link>
-					<comments>https://tongwynlais.com/2025/08/01/thirteen-years-on-looking-forward/#comments</comments>
-		
-		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
-		<pubDate>Fri, 01 Aug 2025 08:36:23 +0000</pubDate>
-				<category><![CDATA[Blog]]></category>
-		<category><![CDATA[blog]]></category>
-		<category><![CDATA[dh]]></category>
-		<guid isPermaLink="false">https://tongwynlais.com/?p=30028</guid>
-
-					<description><![CDATA[Tongwynlais.com is thirteen years old today! I&#8217;ve written a few posts over the years looking back at the previous twelve months. After reaching another new milestone, I thought I&#8217;d look forward at where I want the site to go. It&#8217;s six years since I stopped posting about news. It was a tough decision but I ... <a title="Thirteen Years On: Looking Forward" class="read-more" href="https://tongwynlais.com/2025/08/01/thirteen-years-on-looking-forward/" aria-label="Read more about Thirteen Years On: Looking Forward">more...</a>]]></description>
-		
-					<wfw:commentRss>https://tongwynlais.com/2025/08/01/thirteen-years-on-looking-forward/feed/</wfw:commentRss>
-			<slash:comments>6</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">30028</post-id>	</item>
 	</channel>
 </rss>
