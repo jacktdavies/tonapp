@@ -12,7 +12,7 @@
 	<atom:link href="https://castellcoch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://castellcoch.com</link>
 	<description></description>
-	<lastBuildDate>Sat, 30 May 2026 06:39:09 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 19 Jun 2026 08:02:10 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,9 +28,27 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">184115289</site>	<item>
+		<title>Castell Coch BrickHeadz</title>
+		<link>https://castellcoch.com/2026/06/19/castell-coch-brickheadz/</link>
+					<comments>https://castellcoch.com/2026/06/19/castell-coch-brickheadz/#respond</comments>
+		
+		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
+		<pubDate>Fri, 19 Jun 2026 08:02:09 +0000</pubDate>
+				<category><![CDATA[Art]]></category>
+		<category><![CDATA[lego]]></category>
+		<guid isPermaLink="false">https://castellcoch.com/?p=9690</guid>
+
+					<description><![CDATA[If you&#8217;re a regular reader, you&#8217;ll know I love Lego! Last year I designed some Lego Minifigures based on Castell Coch characters. Earlier this year I wondered if I could actually build some &#8220;BrickHeadz&#8221; inspired MOCs for the same characters. Lego &#8220;BrickHeadz&#8221; is a popular theme that launched at retail in 2017 with a Batman ... <p class="read-more-container"><a title="Castell Coch BrickHeadz" class="read-more button" href="https://castellcoch.com/2026/06/19/castell-coch-brickheadz/#more-9690" aria-label="Read more about Castell Coch BrickHeadz">Read more</a></p>]]></description>
+		
+					<wfw:commentRss>https://castellcoch.com/2026/06/19/castell-coch-brickheadz/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">9690</post-id>	</item>
+		<item>
 		<title>Castell Coch Red</title>
 		<link>https://castellcoch.com/2026/05/30/castell-coch-red/</link>
-					<comments>https://castellcoch.com/2026/05/30/castell-coch-red/#respond</comments>
+					<comments>https://castellcoch.com/2026/05/30/castell-coch-red/#comments</comments>
 		
 		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
 		<pubDate>Sat, 30 May 2026 06:39:08 +0000</pubDate>
@@ -42,7 +60,7 @@
 					<description><![CDATA[Cadw recently announced a report that determines the original colour of the woodwork at Castell Coch. If you&#8217;ve visited Castell Coch recently, you&#8217;ll be familiar with the deep red paint on the joinery all around the famous landmark. This new research shows the paintwork was a more orange shade of red when the castle was ... <p class="read-more-container"><a title="Castell Coch Red" class="read-more button" href="https://castellcoch.com/2026/05/30/castell-coch-red/#more-9620" aria-label="Read more about Castell Coch Red">Read more</a></p>]]></description>
 		
 					<wfw:commentRss>https://castellcoch.com/2026/05/30/castell-coch-red/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
+			<slash:comments>1</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">9620</post-id>	</item>
@@ -203,27 +221,5 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">8795</post-id>	</item>
-		<item>
-		<title>Castell Coch Official Guidebook 1954</title>
-		<link>https://castellcoch.com/2025/08/19/castell-coch-official-guidebook-1954/</link>
-					<comments>https://castellcoch.com/2025/08/19/castell-coch-official-guidebook-1954/#respond</comments>
-		
-		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
-		<pubDate>Tue, 19 Aug 2025 07:28:55 +0000</pubDate>
-				<category><![CDATA[History]]></category>
-		<category><![CDATA[1954]]></category>
-		<category><![CDATA[guidebook]]></category>
-		<category><![CDATA[ministry of works]]></category>
-		<category><![CDATA[peter floud]]></category>
-		<category><![CDATA[tourism]]></category>
-		<guid isPermaLink="false">https://castellcoch.com/?p=8679</guid>
-
-					<description><![CDATA[I published a blog post in 2021 about the Castell Coch guidebooks from 1957 to 1975. I didn&#8217;t have the original version from 1954 at the time. The original guide was written by Peter Floud, C.B.E. (1911 – 1960), who was the Keeper of Circulation at the Victoria and Albert Museum. State Guardianship After Lord ... <p class="read-more-container"><a title="Castell Coch Official Guidebook 1954" class="read-more button" href="https://castellcoch.com/2025/08/19/castell-coch-official-guidebook-1954/#more-8679" aria-label="Read more about Castell Coch Official Guidebook 1954">Read more</a></p>]]></description>
-		
-					<wfw:commentRss>https://castellcoch.com/2025/08/19/castell-coch-official-guidebook-1954/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">8679</post-id>	</item>
 	</channel>
 </rss>
