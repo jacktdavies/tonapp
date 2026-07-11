@@ -12,7 +12,7 @@
 	<atom:link href="https://tongwynlais.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://tongwynlais.com</link>
 	<description></description>
-	<lastBuildDate>Tue, 09 Jun 2026 14:03:48 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 11 Jul 2026 14:02:42 +0000</lastBuildDate>
 	<language>en-GB</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">37574071</site>	<item>
+		<title>Pixel Art Tongwynlais – Part 6</title>
+		<link>https://tongwynlais.com/2026/07/11/pixel-art-tongwynlais-part-6/</link>
+					<comments>https://tongwynlais.com/2026/07/11/pixel-art-tongwynlais-part-6/#respond</comments>
+		
+		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
+		<pubDate>Sat, 11 Jul 2026 14:02:15 +0000</pubDate>
+				<category><![CDATA[Art]]></category>
+		<category><![CDATA[dh]]></category>
+		<category><![CDATA[pixel art]]></category>
+		<guid isPermaLink="false">https://tongwynlais.com/?p=32201</guid>
+
+					<description><![CDATA[Pixel art describes a technique for creating digital illustrations at the individual pixel level. This type of art was the result of low resolution displays in early videogame systems. Today, our phone and computer displays have millions of pixels. Despite this, the art form is very popular and the “retro” videogame look is used in ... <a title="Pixel Art Tongwynlais – Part 6" class="read-more" href="https://tongwynlais.com/2026/07/11/pixel-art-tongwynlais-part-6/" aria-label="Read more about Pixel Art Tongwynlais – Part 6">more...</a>]]></description>
+		
+					<wfw:commentRss>https://tongwynlais.com/2026/07/11/pixel-art-tongwynlais-part-6/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">32201</post-id>	</item>
+		<item>
 		<title>Cardiff Woodlands in the 1960s and Today</title>
 		<link>https://tongwynlais.com/2026/06/09/cardiff-woodlands-in-the-1960s-and-today/</link>
 					<comments>https://tongwynlais.com/2026/06/09/cardiff-woodlands-in-the-1960s-and-today/#respond</comments>
@@ -206,24 +225,5 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">30700</post-id>	</item>
-		<item>
-		<title>Evans Quarries Ltd</title>
-		<link>https://tongwynlais.com/2025/09/19/evans-quarries-ltd/</link>
-					<comments>https://tongwynlais.com/2025/09/19/evans-quarries-ltd/#respond</comments>
-		
-		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
-		<pubDate>Fri, 19 Sep 2025 08:20:54 +0000</pubDate>
-				<category><![CDATA[History]]></category>
-		<category><![CDATA[cefn garw]]></category>
-		<category><![CDATA[dh]]></category>
-		<guid isPermaLink="false">https://tongwynlais.com/?p=30400</guid>
-
-					<description><![CDATA[I picked up this photo of two vintage lorries belonging to &#8220;Evans Quarries Ltd&#8221; a few years ago. Underneath the company name it says, &#8220;Tongwynlais&#8221; and &#8220;Taffs Well 40&#8221;. The load beds also have the text, &#8220;Use Cefn Garw Stone&#8221; on the side so I had a few topics to research. The vehicles are tippers ... <a title="Evans Quarries Ltd" class="read-more" href="https://tongwynlais.com/2025/09/19/evans-quarries-ltd/" aria-label="Read more about Evans Quarries Ltd">more...</a>]]></description>
-		
-					<wfw:commentRss>https://tongwynlais.com/2025/09/19/evans-quarries-ltd/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">30400</post-id>	</item>
 	</channel>
 </rss>
