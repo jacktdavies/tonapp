@@ -12,7 +12,7 @@
 	<atom:link href="https://tongwynlais.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://tongwynlais.com</link>
 	<description></description>
-	<lastBuildDate>Sat, 11 Jul 2026 14:02:42 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 01 Aug 2026 07:26:11 +0000</lastBuildDate>
 	<language>en-GB</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,9 +28,29 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">37574071</site>	<item>
+		<title>Fourteen Years On: Looking Forward</title>
+		<link>https://tongwynlais.com/2026/08/01/fourteen-years-on-looking-forward/</link>
+					<comments>https://tongwynlais.com/2026/08/01/fourteen-years-on-looking-forward/#respond</comments>
+		
+		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
+		<pubDate>Sat, 01 Aug 2026 07:26:10 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[anniversary]]></category>
+		<category><![CDATA[blog]]></category>
+		<category><![CDATA[dh]]></category>
+		<guid isPermaLink="false">https://tongwynlais.com/?p=32253</guid>
+
+					<description><![CDATA[Tongwynlais.com is fourteen years old today! If you&#8217;re a new reader, I wrote about the history of the site on its 10th anniversary. It doesn&#8217;t feel like a year ago since I was considering future plans. Sadly, none of these came to anything but I&#8217;ve continued to publish articles here and on castellcoch.com every month. I&#8217;ve ... <a title="Fourteen Years On: Looking Forward" class="read-more" href="https://tongwynlais.com/2026/08/01/fourteen-years-on-looking-forward/" aria-label="Read more about Fourteen Years On: Looking Forward">more...</a>]]></description>
+		
+					<wfw:commentRss>https://tongwynlais.com/2026/08/01/fourteen-years-on-looking-forward/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">32253</post-id>	</item>
+		<item>
 		<title>Pixel Art Tongwynlais – Part 6</title>
 		<link>https://tongwynlais.com/2026/07/11/pixel-art-tongwynlais-part-6/</link>
-					<comments>https://tongwynlais.com/2026/07/11/pixel-art-tongwynlais-part-6/#respond</comments>
+					<comments>https://tongwynlais.com/2026/07/11/pixel-art-tongwynlais-part-6/#comments</comments>
 		
 		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
 		<pubDate>Sat, 11 Jul 2026 14:02:15 +0000</pubDate>
@@ -42,7 +62,7 @@
 					<description><![CDATA[Pixel art describes a technique for creating digital illustrations at the individual pixel level. This type of art was the result of low resolution displays in early videogame systems. Today, our phone and computer displays have millions of pixels. Despite this, the art form is very popular and the “retro” videogame look is used in ... <a title="Pixel Art Tongwynlais – Part 6" class="read-more" href="https://tongwynlais.com/2026/07/11/pixel-art-tongwynlais-part-6/" aria-label="Read more about Pixel Art Tongwynlais – Part 6">more...</a>]]></description>
 		
 					<wfw:commentRss>https://tongwynlais.com/2026/07/11/pixel-art-tongwynlais-part-6/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
+			<slash:comments>1</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">32201</post-id>	</item>
@@ -206,24 +226,5 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">30896</post-id>	</item>
-		<item>
-		<title>The Glamorganshire Canal at Tongwynlais</title>
-		<link>https://tongwynlais.com/2025/10/24/the-glamorganshire-canal-at-tongwynlais/</link>
-					<comments>https://tongwynlais.com/2025/10/24/the-glamorganshire-canal-at-tongwynlais/#comments</comments>
-		
-		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
-		<pubDate>Fri, 24 Oct 2025 07:15:16 +0000</pubDate>
-				<category><![CDATA[History]]></category>
-		<category><![CDATA[dh]]></category>
-		<category><![CDATA[glamorganshire canal]]></category>
-		<guid isPermaLink="false">https://tongwynlais.com/?p=30700</guid>
-
-					<description><![CDATA[The Glamorganshire Canal was devised by the ironmasters of Merthyr Tydfil to transport their goods from the valleys to Cardiff. Construction of the canal began in 1790 and the final section that linked the Cardiff docks was opened in 1798. The decline of the canal started in 1876 when competition from the railways affected its ... <a title="The Glamorganshire Canal at Tongwynlais" class="read-more" href="https://tongwynlais.com/2025/10/24/the-glamorganshire-canal-at-tongwynlais/" aria-label="Read more about The Glamorganshire Canal at Tongwynlais">more...</a>]]></description>
-		
-					<wfw:commentRss>https://tongwynlais.com/2025/10/24/the-glamorganshire-canal-at-tongwynlais/feed/</wfw:commentRss>
-			<slash:comments>2</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">30700</post-id>	</item>
 	</channel>
 </rss>
