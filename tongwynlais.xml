@@ -12,7 +12,7 @@
 	<atom:link href="https://tongwynlais.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://tongwynlais.com</link>
 	<description></description>
-	<lastBuildDate>Sat, 01 Aug 2026 07:26:11 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 17 Sep 2026 07:47:55 +0000</lastBuildDate>
 	<language>en-GB</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,9 +28,29 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">37574071</site>	<item>
+		<title>Sketching Tongwynlais &#8211; Part 1</title>
+		<link>https://tongwynlais.com/2026/09/17/sketching-tongwynlais-part-1/</link>
+					<comments>https://tongwynlais.com/2026/09/17/sketching-tongwynlais-part-1/#respond</comments>
+		
+		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
+		<pubDate>Thu, 17 Sep 2026 07:47:54 +0000</pubDate>
+				<category><![CDATA[Art]]></category>
+		<category><![CDATA[art]]></category>
+		<category><![CDATA[dh]]></category>
+		<category><![CDATA[sketching]]></category>
+		<guid isPermaLink="false">https://tongwynlais.com/?p=32455</guid>
+
+					<description><![CDATA[My new year often begins with the intention to draw every day. I typically fail half way through January and lose motivation to restart. Somehow, I&#8217;ve managed to reach 260 consecutive days of drawing this year. All of them are pen and ink sketches and most of them are of buildings in the village. You ... <a title="Sketching Tongwynlais &#8211; Part 1" class="read-more" href="https://tongwynlais.com/2026/09/17/sketching-tongwynlais-part-1/" aria-label="Read more about Sketching Tongwynlais &#8211; Part 1">more...</a>]]></description>
+		
+					<wfw:commentRss>https://tongwynlais.com/2026/09/17/sketching-tongwynlais-part-1/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">32455</post-id>	</item>
+		<item>
 		<title>Fourteen Years On: Looking Forward</title>
 		<link>https://tongwynlais.com/2026/08/01/fourteen-years-on-looking-forward/</link>
-					<comments>https://tongwynlais.com/2026/08/01/fourteen-years-on-looking-forward/#respond</comments>
+					<comments>https://tongwynlais.com/2026/08/01/fourteen-years-on-looking-forward/#comments</comments>
 		
 		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
 		<pubDate>Sat, 01 Aug 2026 07:26:10 +0000</pubDate>
@@ -43,7 +63,7 @@
 					<description><![CDATA[Tongwynlais.com is fourteen years old today! If you&#8217;re a new reader, I wrote about the history of the site on its 10th anniversary. It doesn&#8217;t feel like a year ago since I was considering future plans. Sadly, none of these came to anything but I&#8217;ve continued to publish articles here and on castellcoch.com every month. I&#8217;ve ... <a title="Fourteen Years On: Looking Forward" class="read-more" href="https://tongwynlais.com/2026/08/01/fourteen-years-on-looking-forward/" aria-label="Read more about Fourteen Years On: Looking Forward">more...</a>]]></description>
 		
 					<wfw:commentRss>https://tongwynlais.com/2026/08/01/fourteen-years-on-looking-forward/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
+			<slash:comments>2</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">32253</post-id>	</item>
@@ -207,24 +227,5 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">30962</post-id>	</item>
-		<item>
-		<title>Postcards from Tongwynlais – Part 21</title>
-		<link>https://tongwynlais.com/2025/11/18/postcards-from-tongwynlais-part-21/</link>
-					<comments>https://tongwynlais.com/2025/11/18/postcards-from-tongwynlais-part-21/#comments</comments>
-		
-		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
-		<pubDate>Tue, 18 Nov 2025 19:03:38 +0000</pubDate>
-				<category><![CDATA[History]]></category>
-		<category><![CDATA[dh]]></category>
-		<category><![CDATA[postcard]]></category>
-		<guid isPermaLink="false">https://tongwynlais.com/?p=30896</guid>
-
-					<description><![CDATA[I have a few postcards that feature a view of Castell Coch by photographer Martin John Ridley (1861-1936). This example was written in 1917 but not posted. The original photo is thought to be from 1905. I have another postcard using this image that was sent in 1908. The postcard is titled, &#8220;Castle Coch, Taffs ... <a title="Postcards from Tongwynlais – Part 21" class="read-more" href="https://tongwynlais.com/2025/11/18/postcards-from-tongwynlais-part-21/" aria-label="Read more about Postcards from Tongwynlais – Part 21">more...</a>]]></description>
-		
-					<wfw:commentRss>https://tongwynlais.com/2025/11/18/postcards-from-tongwynlais-part-21/feed/</wfw:commentRss>
-			<slash:comments>1</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">30896</post-id>	</item>
 	</channel>
 </rss>
