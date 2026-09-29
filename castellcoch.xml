@@ -12,7 +12,7 @@
 	<atom:link href="https://castellcoch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://castellcoch.com</link>
 	<description></description>
-	<lastBuildDate>Fri, 21 Aug 2026 12:13:16 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 29 Sep 2026 07:51:27 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">184115289</site>	<item>
+		<title>The Hidden Cupboard at Castell Coch</title>
+		<link>https://castellcoch.com/2026/09/29/the-hidden-cupboard-at-castell-coch/</link>
+					<comments>https://castellcoch.com/2026/09/29/the-hidden-cupboard-at-castell-coch/#respond</comments>
+		
+		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
+		<pubDate>Tue, 29 Sep 2026 07:50:07 +0000</pubDate>
+				<category><![CDATA[History]]></category>
+		<category><![CDATA[cadw]]></category>
+		<category><![CDATA[history]]></category>
+		<guid isPermaLink="false">https://castellcoch.com/?p=9869</guid>
+
+					<description><![CDATA[The custodians at Castell Coch recently managed to open a cupboard that had been locked up and forgotten about for years. Hiding in Plain Sight The cupboard is in a prominent place in the kitchen but staff had never routinely opened it. A Good Story Castell Coch posted their discovery on Facebook and it received ... <p class="read-more-container"><a title="The Hidden Cupboard at Castell Coch" class="read-more button" href="https://castellcoch.com/2026/09/29/the-hidden-cupboard-at-castell-coch/#more-9869" aria-label="Read more about The Hidden Cupboard at Castell Coch">Read more</a></p>]]></description>
+		
+					<wfw:commentRss>https://castellcoch.com/2026/09/29/the-hidden-cupboard-at-castell-coch/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">9869</post-id>	</item>
+		<item>
 		<title>Photos of Castell Coch – Part 2</title>
 		<link>https://castellcoch.com/2026/08/21/photos-of-castell-coch-part-2/</link>
 					<comments>https://castellcoch.com/2026/08/21/photos-of-castell-coch-part-2/#respond</comments>
@@ -201,26 +220,5 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">9088</post-id>	</item>
-		<item>
-		<title>Postcards of Castell Coch – Part 11</title>
-		<link>https://castellcoch.com/2025/11/18/postcards-of-castell-coch-part-11/</link>
-					<comments>https://castellcoch.com/2025/11/18/postcards-of-castell-coch-part-11/#comments</comments>
-		
-		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
-		<pubDate>Tue, 18 Nov 2025 18:41:27 +0000</pubDate>
-				<category><![CDATA[History]]></category>
-		<category><![CDATA[1900s]]></category>
-		<category><![CDATA[castell coch]]></category>
-		<category><![CDATA[martin ridley]]></category>
-		<category><![CDATA[photography]]></category>
-		<guid isPermaLink="false">https://castellcoch.com/?p=9033</guid>
-
-					<description><![CDATA[I have a few postcards that feature a view of Castell Coch by photographer Martin John Ridley (1861-1936). This example was written in 1917 but not posted. The original photo is thought to be from 1905. I have another postcard using this image that was sent in 1908. The postcard is titled, &#8220;Castle Coch, Taffs ... <p class="read-more-container"><a title="Postcards of Castell Coch – Part 11" class="read-more button" href="https://castellcoch.com/2025/11/18/postcards-of-castell-coch-part-11/#more-9033" aria-label="Read more about Postcards of Castell Coch – Part 11">Read more</a></p>]]></description>
-		
-					<wfw:commentRss>https://castellcoch.com/2025/11/18/postcards-of-castell-coch-part-11/feed/</wfw:commentRss>
-			<slash:comments>1</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">9033</post-id>	</item>
 	</channel>
 </rss>
