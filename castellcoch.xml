@@ -12,7 +12,7 @@
 	<atom:link href="https://castellcoch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://castellcoch.com</link>
 	<description></description>
-	<lastBuildDate>Tue, 29 Sep 2026 07:51:27 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 01 Oct 2026 16:50:50 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">184115289</site>	<item>
+		<title>6 Years of CastellCoch.com</title>
+		<link>https://castellcoch.com/2026/10/01/6-years-of-castellcoch-com/</link>
+					<comments>https://castellcoch.com/2026/10/01/6-years-of-castellcoch-com/#respond</comments>
+		
+		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
+		<pubDate>Thu, 01 Oct 2026 16:50:49 +0000</pubDate>
+				<category><![CDATA[Castell Coch]]></category>
+		<category><![CDATA[editor]]></category>
+		<category><![CDATA[news]]></category>
+		<guid isPermaLink="false">https://castellcoch.com/?p=9889</guid>
+
+					<description><![CDATA[To mark another anniversary of the site, I&#8217;m just taking a look back at the last year. There have been some big changes at Castell Coch, I&#8217;ve been creating lots of Lego content and, of course, I shared another postcard. I met some of the custodians and volunteers at the castle this year and it ... <p class="read-more-container"><a title="6 Years of CastellCoch.com" class="read-more button" href="https://castellcoch.com/2026/10/01/6-years-of-castellcoch-com/#more-9889" aria-label="Read more about 6 Years of CastellCoch.com">Read more</a></p>]]></description>
+		
+					<wfw:commentRss>https://castellcoch.com/2026/10/01/6-years-of-castellcoch-com/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">9889</post-id>	</item>
+		<item>
 		<title>The Hidden Cupboard at Castell Coch</title>
 		<link>https://castellcoch.com/2026/09/29/the-hidden-cupboard-at-castell-coch/</link>
 					<comments>https://castellcoch.com/2026/09/29/the-hidden-cupboard-at-castell-coch/#respond</comments>
@@ -200,25 +219,5 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">9252</post-id>	</item>
-		<item>
-		<title>Castell Coch Minifigures</title>
-		<link>https://castellcoch.com/2025/12/03/castell-coch-minifigures/</link>
-					<comments>https://castellcoch.com/2025/12/03/castell-coch-minifigures/#respond</comments>
-		
-		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
-		<pubDate>Wed, 03 Dec 2025 09:03:30 +0000</pubDate>
-				<category><![CDATA[Art]]></category>
-		<category><![CDATA[illustration]]></category>
-		<category><![CDATA[lego]]></category>
-		<category><![CDATA[minifigure]]></category>
-		<guid isPermaLink="false">https://castellcoch.com/?p=9088</guid>
-
-					<description><![CDATA[If you&#8217;re a regular reader, you&#8217;ll know I love Lego! A few months ago I was inspired to illustrate a Lego Minifigure. I quickly got carried away and decided to see if I could design a Minifig based around Castell Coch. I started with Lady Bute. After finishing this first illustration, I knew I was ... <p class="read-more-container"><a title="Castell Coch Minifigures" class="read-more button" href="https://castellcoch.com/2025/12/03/castell-coch-minifigures/#more-9088" aria-label="Read more about Castell Coch Minifigures">Read more</a></p>]]></description>
-		
-					<wfw:commentRss>https://castellcoch.com/2025/12/03/castell-coch-minifigures/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">9088</post-id>	</item>
 	</channel>
 </rss>
