@@ -12,7 +12,7 @@
 	<atom:link href="https://tongwynlais.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://tongwynlais.com</link>
 	<description></description>
-	<lastBuildDate>Thu, 17 Sep 2026 07:47:55 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 23 Oct 2026 13:29:22 +0000</lastBuildDate>
 	<language>en-GB</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,26 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">37574071</site>	<item>
+		<title>More About Ton &#8211; Part 1</title>
+		<link>https://tongwynlais.com/2026/10/23/more-about-ton-part-1/</link>
+					<comments>https://tongwynlais.com/2026/10/23/more-about-ton-part-1/#respond</comments>
+		
+		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
+		<pubDate>Fri, 23 Oct 2026 13:29:21 +0000</pubDate>
+				<category><![CDATA[History]]></category>
+		<category><![CDATA[books]]></category>
+		<category><![CDATA[dh]]></category>
+		<category><![CDATA[roger brown]]></category>
+		<guid isPermaLink="false">https://tongwynlais.com/?p=32561</guid>
+
+					<description><![CDATA[&#8220;More About Ton&#8221; is the follow up to &#8220;Turn of the Century Ton&#8221; and published again by Roger L Brown. I&#8217;ll cover it over two parts as there&#8217;s so much interesting content. You can also read The Tongwynlais, Taff’s Well and Nantgarw Picture Album – Part 1. I&#8217;m featuring three articles in this post and ... <a title="More About Ton &#8211; Part 1" class="read-more" href="https://tongwynlais.com/2026/10/23/more-about-ton-part-1/" aria-label="Read more about More About Ton &#8211; Part 1">more...</a>]]></description>
+		
+					<wfw:commentRss>https://tongwynlais.com/2026/10/23/more-about-ton-part-1/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">32561</post-id>	</item>
+		<item>
 		<title>Sketching Tongwynlais &#8211; Part 1</title>
 		<link>https://tongwynlais.com/2026/09/17/sketching-tongwynlais-part-1/</link>
 					<comments>https://tongwynlais.com/2026/09/17/sketching-tongwynlais-part-1/#respond</comments>
@@ -208,24 +228,5 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">31354</post-id>	</item>
-		<item>
-		<title>Villa Cardiff – Part 4</title>
-		<link>https://tongwynlais.com/2025/12/01/villa-cardiff-part-4/</link>
-					<comments>https://tongwynlais.com/2025/12/01/villa-cardiff-part-4/#comments</comments>
-		
-		<dc:creator><![CDATA[Jack Davies]]></dc:creator>
-		<pubDate>Mon, 01 Dec 2025 08:19:11 +0000</pubDate>
-				<category><![CDATA[Cardiff]]></category>
-		<category><![CDATA[cardiff]]></category>
-		<category><![CDATA[dh]]></category>
-		<guid isPermaLink="false">https://tongwynlais.com/?p=30962</guid>
-
-					<description><![CDATA[This series was inspired by an article from John&#38;Jane that explored the design of a modern flag for Cardiff. In the first part I looked into the history of Cardiff and found some examples of the &#8220;Cardiff Arms&#8221;. In the second part I discovered some of the history of the arms and shared more examples ... <a title="Villa Cardiff – Part 4" class="read-more" href="https://tongwynlais.com/2025/12/01/villa-cardiff-part-4/" aria-label="Read more about Villa Cardiff – Part 4">more...</a>]]></description>
-		
-					<wfw:commentRss>https://tongwynlais.com/2025/12/01/villa-cardiff-part-4/feed/</wfw:commentRss>
-			<slash:comments>1</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">30962</post-id>	</item>
 	</channel>
 </rss>
